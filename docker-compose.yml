@@ -1,0 +1,22 @@
+version: "3.8"
+
+# list of services/containers
+services:
+  backend:
+    # to build an image based on Dockerfile
+    # it looks in the specified folder to find Dockerfile in order to build an image
+    build:
+      context: ./backend
+    environment:
+      - NODE_ENV=${NODE_ENV}
+    # the port that we want to publish for backend
+    ports:
+      - "8080:8080"
+    # binding local volume to container volume to detect code changes
+    # nodemon package is also required in order to restart the server when the changes occur
+    volumes:
+      - type: bind
+        source: ./backend
+        target: /app
+    env_file:
+      - .env
