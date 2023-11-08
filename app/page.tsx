@@ -1,6 +1,7 @@
 import AuthButton from '../components/AuthButton'
 import Body from '@/components/Body'
 import Footer from '@/components/Footer'
+import UserFields from '@/components/UserFields'
 
 export default async function Index() {
 
@@ -11,11 +12,12 @@ export default async function Index() {
           <AuthButton />
         </div>
       </nav>
+      <UserFields />
+
 
       <div className="animate-in flex-1 flex flex-col gap-20 opacity-0 max-w-4xl px-3">
         <Body />
       </div>
-
       <footer className="w-full border-t border-t-foreground/10 p-8 flex justify-center text-center text-xs">
        <Footer/>
       </footer>
