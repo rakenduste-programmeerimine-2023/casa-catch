@@ -40,3 +40,10 @@
     transform: translateY(0);
   }
 }
+
+.data-stack-dropdown {
+  width: 200px;
+  background-color: white;
+  justify-content: flex-start;
+}
+
