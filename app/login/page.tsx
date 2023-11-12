@@ -31,11 +31,21 @@ export default function Login({
   const signUp = async (formData: FormData) => {
     'use server'
 
+    const isAllowedDomain = (email: string) => {
+      const [, domain] = email.split('@')
+      const allowedDomains = ['tlu']; // Only @tlu is allowed atm
+      return allowedDomains.includes(domain)
+    }
+
     const origin = headers().get('origin')
     const email = formData.get('email') as string
     const password = formData.get('password') as string
     const cookieStore = cookies()
     const supabase = createClient(cookieStore)
+
+    if (!isAllowedDomain(email)) {
+      return redirect("/login?message=Email domain not allowed, only '@tlu' is allowed!")
+    }
 
     const { error } = await supabase.auth.signUp({
       email,
