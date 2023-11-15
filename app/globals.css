@@ -69,7 +69,11 @@
 }
 
 .rooms {
-  margin-top: 50px;
+  margin-top: 20px;
   margin-left: 440px;
 }
 
+.pricerange {
+  margin-top: 23px;
+  margin-left: 440px;
+}
