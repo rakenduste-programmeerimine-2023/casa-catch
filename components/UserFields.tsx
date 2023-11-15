@@ -14,6 +14,8 @@ import FormGroup from '@mui/material/FormGroup';
 import Checkbox from '@mui/material/Checkbox';
 import District from '@/components/District';
 import Rooms from '@/components/Rooms';
+import Pricerange from '@/components/Pricerange';
+
 
 
 export default function UserFields() {
@@ -80,6 +82,9 @@ export default function UserFields() {
       </div>
       <div className="rooms">
             <Rooms />
+      </div>
+      <div className="pricerange">
+            <Pricerange />
       </div>
     </>
   );

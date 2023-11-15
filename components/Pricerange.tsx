@@ -15,7 +15,7 @@ export default function FormPropsTextFields() {
       <div>
         <TextField
           id="rooms"
-          label="Tubade arv alates"
+          label="Hind alates"
           type="number"
           InputLabelProps={{
             shrink: true,
@@ -23,7 +23,7 @@ export default function FormPropsTextFields() {
         />
         <TextField
           id="rooms"
-          label="Tubade arv kuni"
+          label="Hind kuni"
           type="number"
           InputLabelProps={{
             shrink: true,
