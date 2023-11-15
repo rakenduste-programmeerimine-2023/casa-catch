@@ -11,7 +11,7 @@ const Footer: React.FC = () => {
           <a href="https://www.kv.ee/">KV.ee</a>
           <a href="https://www.city24.ee/">City24.ee</a>
           <a href="https://rendin.ee/">Rendin.ee</a>
-          <a href="http://kv24.ee/">KV24.ee</a>
+          <a href="http://kinnisvara24.ee/">KV24.ee</a>
         </div>
       </div>
     </footer>
