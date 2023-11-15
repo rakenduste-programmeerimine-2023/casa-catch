@@ -10,7 +10,7 @@
     --foreground: 200 50% 3%;
   }
 
-  @media (prefers-color-scheme: dark) {
+  @media (prefers-color-scheme: light) {
     :root {
       --background: 200 50% 3%;
       --btn-background: 200 10% 9%;
@@ -41,9 +41,35 @@
   }
 }
 
+.container {
+  display: flex;
+  justify-content: flex-start; 
+}
+
 .data-stack-dropdown {
   width: 200px;
   background-color: white;
-  justify-content: flex-start;
+  text-align: left;
+  margin-left: 200px;
+}
+
+.radio-button-fields-housetype {
+  margin-top: -160px;
+  margin-left: 20px;
+}
+
+.radio-button-fields-buytype {
+  margin-top: 30px;
+  margin-left: 20px;
+}
+
+.districts {
+  margin-top: -220px;
+  margin-left: 450px;
+}
+
+.rooms {
+  margin-top: 50px;
+  margin-left: 440px;
 }
 
