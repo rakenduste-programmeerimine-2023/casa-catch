@@ -1,0 +1,43 @@
+curl -X POST https://europe-west1-rendin-production.cloudfunctions.net/getSearchApartments \
+-H "Content-Type: application/json" \
+-d '{
+"data": {
+"priceMin": 390,
+"priceMax": 396,
+"roomsMin": 1,
+"roomsMax": 2,
+"city": "Tallinn",
+"districts": ["Põhja-Tallinn"],
+"country": "EE"
+}
+}'
+
+curl -X POST https://kinnisvara24.ee/search \
+-H "Content-Type: application/json" \
+-d '{
+"hash": null,
+"addresses": [
+{
+"A1": "Harju maakond",
+"A2": "Tallinn",
+"A3": "Põhja-Tallinna linnaosa",
+"A4": "Kalamaja"
+}
+],
+"area_min": "",
+"area_max": "",
+"deal_types": ["rent"],
+"from_owner": false,
+"object_types": ["apartment"],
+"price_max": 450,
+"price_min": 200,
+"rooms_max": null,
+"rooms_min": null,
+"sort_by": "relevance",
+"sort_order": "desc",
+"page": 1,
+"amount": "",
+"rooms": "",
+}'
+
+curl https://api.city24.ee/et_EE/search/realties?address%5Bcc%5D=1&address%5Bcity%5D%5B%5D=2670&address%5Bcity%5D%5B%5D=3039&address%5Bcity%5D%5B%5D=540&address%5Bcity%5D%5B%5D=1240&address%5Bcity%5D%5B%5D=1897&address%5Bcity%5D%5B%5D=2413&address%5Bcity%5D%5B%5D=3166&tsType=rent&unitType=Apartment&price%5Bgte%5D=350&price%5Blte%5D=370&roomCount=1&lastRun=1701093194&adReach=1&itemsPerPage=50&page=1
