@@ -1,0 +1,2318 @@
+[
+  {
+    "id": 4262,
+    "images": [
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/0217\/0642640217.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/5939\/1954995939.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/5747\/3216155747.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/9159\/0580129159.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/5920\/3781865920.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/1798\/2192061798.jpg"
+    ],
+    "main_image": {
+      "url": "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/0217\/0642640217.jpg"
+    },
+    "slogans": {
+      "et_EE": {
+        "slogan": "LUKSUSLIKUD PAARISMAJA BOKSID LEPIKU T\u00c4NAVAL, PIRITAL"
+      }
+    },
+    "broker": {
+      "id": "279929",
+      "business_card": {
+        "additional_contacts": [
+          {
+            "dtype": "EMAIL",
+            "value": "jevgeni.grishin@wingmacht.ee"
+          },
+          {
+            "dtype": "PHONE",
+            "value": "+372 5114476"
+          },
+          {
+            "dtype": "EMAIL",
+            "value": "info@wingmacht.ee"
+          },
+          {
+            "dtype": "FAX",
+            "value": null
+          }
+        ],
+        "first_name": "Wingmacht",
+        "last_name": "O\u00dc",
+        "picture_url": null,
+        "title": "Wingmacht O\u00dc",
+        "certified_broker": false,
+        "member_of_ecreb": false,
+        "educated_broker": false,
+        "highly_rated_broker": false,
+        "certificate_number": null,
+        "second_picture_url": null,
+        "em_image_name_second_pic": null,
+        "active_branding": false,
+        "color_hex_code": "#6900a8",
+        "em_image_name_cover_pic": null,
+        "em_image_name": null,
+        "cover_url": null,
+        "em_image_name_logo_pic": null,
+        "logo_url": null,
+        "member_real_estate_agents_registry": false,
+        "full_name": "Wingmacht O\u00dc"
+      },
+      "average_rating": 3.0,
+      "awards": [],
+      "email_address": "jevgeni.grishin@gmail.com",
+      "first_name": "Jevgeni",
+      "last_name": "Grishin",
+      "image_url": null,
+      "phone_number": "5114476",
+      "phone_number2": null,
+      "is_vip": true,
+      "slug": "wingmacht-ou",
+      "statistics": "\/broker\/279929\/statistics",
+      "office": [
+        {
+          "id": "8717",
+          "company": {
+            "id": "13846",
+            "classified_products": [
+              {
+                "id": 2487,
+                "product_level": "PROFIPAKETT_KV",
+                "is_np_branded_block_enabled": true,
+                "is_big_np_branded_block_enabled": false,
+                "np_friendly_id": null
+              }
+            ],
+            "guid": "wingmacht_ou_1",
+            "name": "Wingmacht O\u00dc"
+          },
+          "business_card": {
+            "facebook_url": null,
+            "skype_name": null,
+            "twitter_url": null,
+            "logo_url": "https:\/\/c24ee.img-bcg.eu\/office_main_logo\/{fmt:em}\/8611\/1712758611.jpg",
+            "linkedin_url": null,
+            "addresses": {
+              "POSTAL": {
+                "address_type": "POSTAL",
+                "city": "Tallinn",
+                "postal_code": "10145",
+                "street_name": "Maakri 30"
+              },
+              "STREET": {
+                "address_type": "STREET",
+                "city": "Tallinn",
+                "postal_code": "10145",
+                "street_name": "Maakri 30"
+              }
+            },
+            "em_image_name": "1712758611.jpg",
+            "office_name": "Wingmacht O\u00dc",
+            "email_addresses": [
+              "info@wingmacht.ee"
+            ],
+            "phone_numbers": [
+              "+372 5284796"
+            ],
+            "web_addresses": [
+              "http:\/\/www.wingmacht.ee"
+            ]
+          },
+          "classified_products": [],
+          "name": "Wingmacht O\u00dc",
+          "developer": false,
+          "slug": "wingmacht-ou"
+        }
+      ]
+    },
+    "office": {
+      "id": "8717",
+      "company": {
+        "id": "13846",
+        "external_id": "001w000001BrJHXAA3",
+        "guid": "wingmacht_ou_1",
+        "name": "Wingmacht O\u00dc"
+      },
+      "external_id": "001w000001BrJHmAAN",
+      "guid": "wingmacht_ou_1"
+    },
+    "new": false,
+    "date_published": "2023-06-20T10:32:09+03:00",
+    "friendly_id": "3758373",
+    "guid": "DPRO_600252",
+    "latitude": 59.48455,
+    "longitude": 24.879327,
+    "price_min": "785000.00",
+    "price_max": "785000.00",
+    "price_per_unit_min": null,
+    "price_per_unit_max": null,
+    "size_unit_id": 1,
+    "lot_size_unit_id": null,
+    "room_count_min": null,
+    "room_count_max": null,
+    "year_built": null,
+    "transaction_type": "\/transaction_types\/1",
+    "address": {
+      "apartment_number": null,
+      "house_number": "63",
+      "street": {
+        "id": 10335,
+        "name": "Lepiku tee",
+        "classifier": "043M",
+        "agg_field": 10335
+      },
+      "location_name": null,
+      "county": {
+        "id": 1,
+        "name": "Harju maakond",
+        "classifier": "0037"
+      },
+      "parish": {
+        "id": 181,
+        "name": "Tallinn",
+        "classifier": "0784"
+      },
+      "city": {
+        "id": 3039,
+        "name": "Pirita linnaosa",
+        "classifier": "0596"
+      },
+      "district": null,
+      "county_name": "Harju maakond",
+      "parish_name": "Tallinn",
+      "city_name": "Pirita linnaosa",
+      "district_name": null,
+      "street_name": "Lepiku tee"
+    },
+    "status_id": 2,
+    "available_units": null,
+    "project_name": "Kloostrimetsa Paarismaja",
+    "total_units": null,
+    "size_min": 280.1,
+    "size_max": null,
+    "lot_size_min": null,
+    "lot_size_max": null,
+    "videos": [],
+    "attributes": {
+      "PHASE_OF_CONSTRUCTION": [
+        {
+          "code": "planning",
+          "active": false,
+          "date": null
+        },
+        {
+          "code": "plan_to_put_into_operation",
+          "active": false,
+          "date": null
+        },
+        {
+          "code": "has_been_put_into_operation",
+          "active": false,
+          "date": null
+        },
+        {
+          "code": "move_in_ready",
+          "active": false,
+          "date": null
+        },
+        {
+          "code": "under_construction",
+          "active": true,
+          "date": null
+        }
+      ],
+      "ENERGY_CERTIFICATE_TYPE": [
+        "A"
+      ],
+      "TOTAL_FLOORS": 2,
+      "GARDEN": false,
+      "HEATED_FLOORS": false,
+      "STORAGE_SPACE": false,
+      "SHARED_LOUNGE": false,
+      "ADD_CADASTER_IMG": false,
+      "ELEVATOR": false,
+      "COUNT_PRICE_PER_UNIT_AUTO": false,
+      "SHARED_WAREHOUSE": false,
+      "SMART_HOME_HEATURES": false,
+      "FLOOR": null,
+      "ON_LAST_FLOOR": null
+    },
+    "realties_count": 6,
+    "ad_level": 1,
+    "unit_type": "NewProject",
+    "project_unit_type": "HouseShare",
+    "virtual_tours": []
+  },
+  {
+    "id": 4257,
+    "images": [
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/2054\/6347472054.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/9517\/6336519517.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/9252\/7020659252.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/8264\/6544448264.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/4168\/6896104168.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/5793\/6310695793.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/1887\/5882411887.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/7270\/7020647270.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/3853\/5712553853.jpg"
+    ],
+    "main_image": {
+      "url": "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/2054\/6347472054.jpg"
+    },
+    "slogans": {
+      "et_EE": {
+        "slogan": "UUS LUKSUSLIK VILLA METSASERVAL HAABNEEMES TUUPIKT\u00c4NAVAL"
+      }
+    },
+    "broker": {
+      "id": "279929",
+      "business_card": {
+        "additional_contacts": [
+          {
+            "dtype": "EMAIL",
+            "value": "jevgeni.grishin@wingmacht.ee"
+          },
+          {
+            "dtype": "PHONE",
+            "value": "+372 5114476"
+          },
+          {
+            "dtype": "EMAIL",
+            "value": "info@wingmacht.ee"
+          },
+          {
+            "dtype": "FAX",
+            "value": null
+          }
+        ],
+        "first_name": "Wingmacht",
+        "last_name": "O\u00dc",
+        "picture_url": null,
+        "title": "Wingmacht O\u00dc",
+        "certified_broker": false,
+        "member_of_ecreb": false,
+        "educated_broker": false,
+        "highly_rated_broker": false,
+        "certificate_number": null,
+        "second_picture_url": null,
+        "em_image_name_second_pic": null,
+        "active_branding": false,
+        "color_hex_code": "#6900a8",
+        "em_image_name_cover_pic": null,
+        "em_image_name": null,
+        "cover_url": null,
+        "em_image_name_logo_pic": null,
+        "logo_url": null,
+        "member_real_estate_agents_registry": false,
+        "full_name": "Wingmacht O\u00dc"
+      },
+      "average_rating": 3.0,
+      "awards": [],
+      "email_address": "jevgeni.grishin@gmail.com",
+      "first_name": "Jevgeni",
+      "last_name": "Grishin",
+      "image_url": null,
+      "phone_number": "5114476",
+      "phone_number2": null,
+      "is_vip": true,
+      "slug": "wingmacht-ou",
+      "statistics": "\/broker\/279929\/statistics",
+      "office": [
+        {
+          "id": "8717",
+          "company": {
+            "id": "13846",
+            "classified_products": [
+              {
+                "id": 2487,
+                "product_level": "PROFIPAKETT_KV",
+                "is_np_branded_block_enabled": true,
+                "is_big_np_branded_block_enabled": false,
+                "np_friendly_id": null
+              }
+            ],
+            "guid": "wingmacht_ou_1",
+            "name": "Wingmacht O\u00dc"
+          },
+          "business_card": {
+            "facebook_url": null,
+            "skype_name": null,
+            "twitter_url": null,
+            "logo_url": "https:\/\/c24ee.img-bcg.eu\/office_main_logo\/{fmt:em}\/8611\/1712758611.jpg",
+            "linkedin_url": null,
+            "addresses": {
+              "POSTAL": {
+                "address_type": "POSTAL",
+                "city": "Tallinn",
+                "postal_code": "10145",
+                "street_name": "Maakri 30"
+              },
+              "STREET": {
+                "address_type": "STREET",
+                "city": "Tallinn",
+                "postal_code": "10145",
+                "street_name": "Maakri 30"
+              }
+            },
+            "em_image_name": "1712758611.jpg",
+            "office_name": "Wingmacht O\u00dc",
+            "email_addresses": [
+              "info@wingmacht.ee"
+            ],
+            "phone_numbers": [
+              "+372 5284796"
+            ],
+            "web_addresses": [
+              "http:\/\/www.wingmacht.ee"
+            ]
+          },
+          "classified_products": [],
+          "name": "Wingmacht O\u00dc",
+          "developer": false,
+          "slug": "wingmacht-ou"
+        }
+      ]
+    },
+    "office": {
+      "id": "8717",
+      "company": {
+        "id": "13846",
+        "external_id": "001w000001BrJHXAA3",
+        "guid": "wingmacht_ou_1",
+        "name": "Wingmacht O\u00dc"
+      },
+      "external_id": "001w000001BrJHmAAN",
+      "guid": "wingmacht_ou_1"
+    },
+    "new": false,
+    "date_published": "2023-06-20T10:30:22+03:00",
+    "friendly_id": "4967383",
+    "guid": "DPRO_600156",
+    "latitude": 59.525673,
+    "longitude": 24.819287,
+    "price_min": "1320000.00",
+    "price_max": "1320000.00",
+    "price_per_unit_min": null,
+    "price_per_unit_max": null,
+    "size_unit_id": 1,
+    "lot_size_unit_id": null,
+    "room_count_min": null,
+    "room_count_max": null,
+    "year_built": null,
+    "transaction_type": "\/transaction_types\/1",
+    "address": {
+      "apartment_number": null,
+      "house_number": "11",
+      "street": {
+        "id": 6816,
+        "name": "Kasemetsa tee",
+        "classifier": "0A6R",
+        "agg_field": 6816
+      },
+      "location_name": null,
+      "county": {
+        "id": 1,
+        "name": "Harju maakond",
+        "classifier": "0037"
+      },
+      "parish": {
+        "id": 212,
+        "name": "Viimsi vald",
+        "classifier": "0890"
+      },
+      "city": {
+        "id": 541,
+        "name": "Haabneeme alevik",
+        "classifier": "1675"
+      },
+      "district": null,
+      "county_name": "Harju maakond",
+      "parish_name": "Viimsi vald",
+      "city_name": "Haabneeme alevik",
+      "district_name": null,
+      "street_name": "Kasemetsa tee"
+    },
+    "status_id": 2,
+    "available_units": null,
+    "project_name": "Haabneeme Villa",
+    "total_units": null,
+    "size_min": null,
+    "size_max": 330.0,
+    "lot_size_min": null,
+    "lot_size_max": null,
+    "videos": [],
+    "attributes": {
+      "PHASE_OF_CONSTRUCTION": [
+        {
+          "code": "move_in_ready",
+          "active": false,
+          "date": null
+        },
+        {
+          "code": "under_construction",
+          "active": true,
+          "date": null
+        },
+        {
+          "code": "has_been_put_into_operation",
+          "active": false,
+          "date": null
+        },
+        {
+          "code": "plan_to_put_into_operation",
+          "active": false,
+          "date": null
+        },
+        {
+          "code": "planning",
+          "active": false,
+          "date": null
+        }
+      ],
+      "ENERGY_CERTIFICATE_TYPE": [
+        "A"
+      ],
+      "SHARED_LOUNGE": false,
+      "PARKING_SELECTION_PROJECT": [
+        "free_parking"
+      ],
+      "HEATED_FLOORS": false,
+      "GARDEN": false,
+      "SHARED_WAREHOUSE": false,
+      "SMART_HOME_HEATURES": false,
+      "STORAGE_SPACE": false,
+      "ELEVATOR": false,
+      "TOTAL_FLOORS": 1,
+      "COUNT_PRICE_PER_UNIT_AUTO": false,
+      "ADD_CADASTER_IMG": false,
+      "FLOOR": null,
+      "ON_LAST_FLOOR": null
+    },
+    "realties_count": 1,
+    "ad_level": 1,
+    "unit_type": "NewProject",
+    "project_unit_type": "House",
+    "virtual_tours": []
+  },
+  {
+    "id": 4260,
+    "images": [
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/7384\/1754757384.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/3866\/4115413866.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/3345\/1542613345.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/5282\/1656135282.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/7733\/1503447733.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/7111\/0407747111.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/8856\/2001148856.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/2595\/3255102595.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/6932\/2472766932.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/5339\/0115155339.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/4097\/1017234097.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/8431\/2169588431.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/4152\/4036424152.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/9461\/1237549461.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/5993\/2052555993.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/6540\/2377746540.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/0594\/1265800594.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/2105\/4077272105.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/7128\/0247087128.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/4125\/1821724125.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/7767\/0743967767.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/0020\/4033110020.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/8120\/1830228120.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/7469\/1546277469.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/2903\/3858702903.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/0381\/0372200381.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/1879\/2451071879.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/9644\/0675249644.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/8062\/2016508062.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/1819\/0566221819.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/5803\/2562865803.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/4716\/1883104716.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/3173\/1511823173.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/9315\/1629159315.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/1952\/0838611952.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/9260\/0146359260.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/4666\/0067554666.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/9563\/1299719563.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/4757\/1224214757.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/1375\/1834451375.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/7757\/3066837757.jpg"
+    ],
+    "main_image": {
+      "url": "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/7384\/1754757384.jpg"
+    },
+    "slogans": {
+      "et_EE": {
+        "slogan": "MAJA ON VALMIS ! TULE VAATAMA !"
+      }
+    },
+    "broker": {
+      "id": "279929",
+      "business_card": {
+        "additional_contacts": [
+          {
+            "dtype": "EMAIL",
+            "value": "jevgeni.grishin@wingmacht.ee"
+          },
+          {
+            "dtype": "PHONE",
+            "value": "+372 5114476"
+          },
+          {
+            "dtype": "EMAIL",
+            "value": "info@wingmacht.ee"
+          },
+          {
+            "dtype": "FAX",
+            "value": null
+          }
+        ],
+        "first_name": "Wingmacht",
+        "last_name": "O\u00dc",
+        "picture_url": null,
+        "title": "Wingmacht O\u00dc",
+        "certified_broker": false,
+        "member_of_ecreb": false,
+        "educated_broker": false,
+        "highly_rated_broker": false,
+        "certificate_number": null,
+        "second_picture_url": null,
+        "em_image_name_second_pic": null,
+        "active_branding": false,
+        "color_hex_code": "#6900a8",
+        "em_image_name_cover_pic": null,
+        "em_image_name": null,
+        "cover_url": null,
+        "em_image_name_logo_pic": null,
+        "logo_url": null,
+        "member_real_estate_agents_registry": false,
+        "full_name": "Wingmacht O\u00dc"
+      },
+      "average_rating": 3.0,
+      "awards": [],
+      "email_address": "jevgeni.grishin@gmail.com",
+      "first_name": "Jevgeni",
+      "last_name": "Grishin",
+      "image_url": null,
+      "phone_number": "5114476",
+      "phone_number2": null,
+      "is_vip": true,
+      "slug": "wingmacht-ou",
+      "statistics": "\/broker\/279929\/statistics",
+      "office": [
+        {
+          "id": "8717",
+          "company": {
+            "id": "13846",
+            "classified_products": [
+              {
+                "id": 2487,
+                "product_level": "PROFIPAKETT_KV",
+                "is_np_branded_block_enabled": true,
+                "is_big_np_branded_block_enabled": false,
+                "np_friendly_id": null
+              }
+            ],
+            "guid": "wingmacht_ou_1",
+            "name": "Wingmacht O\u00dc"
+          },
+          "business_card": {
+            "facebook_url": null,
+            "skype_name": null,
+            "twitter_url": null,
+            "logo_url": "https:\/\/c24ee.img-bcg.eu\/office_main_logo\/{fmt:em}\/8611\/1712758611.jpg",
+            "linkedin_url": null,
+            "addresses": {
+              "POSTAL": {
+                "address_type": "POSTAL",
+                "city": "Tallinn",
+                "postal_code": "10145",
+                "street_name": "Maakri 30"
+              },
+              "STREET": {
+                "address_type": "STREET",
+                "city": "Tallinn",
+                "postal_code": "10145",
+                "street_name": "Maakri 30"
+              }
+            },
+            "em_image_name": "1712758611.jpg",
+            "office_name": "Wingmacht O\u00dc",
+            "email_addresses": [
+              "info@wingmacht.ee"
+            ],
+            "phone_numbers": [
+              "+372 5284796"
+            ],
+            "web_addresses": [
+              "http:\/\/www.wingmacht.ee"
+            ]
+          },
+          "classified_products": [],
+          "name": "Wingmacht O\u00dc",
+          "developer": false,
+          "slug": "wingmacht-ou"
+        }
+      ]
+    },
+    "office": {
+      "id": "8717",
+      "company": {
+        "id": "13846",
+        "external_id": "001w000001BrJHXAA3",
+        "guid": "wingmacht_ou_1",
+        "name": "Wingmacht O\u00dc"
+      },
+      "external_id": "001w000001BrJHmAAN",
+      "guid": "wingmacht_ou_1"
+    },
+    "new": false,
+    "date_published": "2023-06-20T10:31:35+03:00",
+    "friendly_id": "8577408",
+    "guid": "DPRO_600208",
+    "latitude": 59.531408,
+    "longitude": 24.797459,
+    "price_min": "755000.00",
+    "price_max": "775000.00",
+    "price_per_unit_min": null,
+    "price_per_unit_max": null,
+    "size_unit_id": 1,
+    "lot_size_unit_id": null,
+    "room_count_min": null,
+    "room_count_max": null,
+    "year_built": null,
+    "transaction_type": "\/transaction_types\/1",
+    "address": {
+      "apartment_number": null,
+      "house_number": "2",
+      "street": {
+        "id": 6812,
+        "name": "Rannametsa tee",
+        "classifier": "02G9",
+        "agg_field": 6812
+      },
+      "location_name": null,
+      "county": {
+        "id": 1,
+        "name": "Harju maakond",
+        "classifier": "0037"
+      },
+      "parish": {
+        "id": 212,
+        "name": "Viimsi vald",
+        "classifier": "0890"
+      },
+      "city": {
+        "id": 3085,
+        "name": "Pringi k\u00fcla",
+        "classifier": "6370"
+      },
+      "district": null,
+      "county_name": "Harju maakond",
+      "parish_name": "Viimsi vald",
+      "city_name": "Pringi k\u00fcla",
+      "district_name": null,
+      "street_name": "Rannametsa tee"
+    },
+    "status_id": 2,
+    "available_units": null,
+    "project_name": "Pringi Majad",
+    "total_units": null,
+    "size_min": 248.9,
+    "size_max": 248.9,
+    "lot_size_min": null,
+    "lot_size_max": null,
+    "videos": [],
+    "attributes": {
+      "COUNT_PRICE_PER_UNIT_AUTO": false,
+      "SMART_HOME_HEATURES": false,
+      "SHARED_LOUNGE": false,
+      "ADD_CADASTER_IMG": false,
+      "HEATED_FLOORS": false,
+      "STORAGE_SPACE": false,
+      "SHARED_WAREHOUSE": false,
+      "GARDEN": false,
+      "ELEVATOR": false,
+      "PHASE_OF_CONSTRUCTION": [
+        {
+          "code": "has_been_put_into_operation",
+          "active": false,
+          "date": null
+        },
+        {
+          "code": "plan_to_put_into_operation",
+          "active": false,
+          "date": null
+        },
+        {
+          "code": "planning",
+          "active": false,
+          "date": null
+        },
+        {
+          "code": "move_in_ready",
+          "active": true,
+          "date": null
+        },
+        {
+          "code": "under_construction",
+          "active": false,
+          "date": null
+        }
+      ],
+      "ENERGY_CERTIFICATE_TYPE": [
+        "A"
+      ],
+      "FLOOR": null,
+      "TOTAL_FLOORS": null,
+      "ON_LAST_FLOOR": null
+    },
+    "realties_count": 2,
+    "ad_level": 1,
+    "unit_type": "NewProject",
+    "project_unit_type": "House",
+    "virtual_tours": []
+  },
+  {
+    "id": 4266,
+    "images": [
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/7893\/0654247893.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/3520\/1821083520.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/4997\/2079764997.jpg"
+    ],
+    "main_image": {
+      "url": "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/7893\/0654247893.jpg"
+    },
+    "slogans": {
+      "et_EE": {
+        "slogan": "Luksuslikud B\u00fcrooruumid Teie Kodu L\u00e4hedal"
+      }
+    },
+    "broker": {
+      "id": "279929",
+      "business_card": {
+        "additional_contacts": [
+          {
+            "dtype": "EMAIL",
+            "value": "jevgeni.grishin@wingmacht.ee"
+          },
+          {
+            "dtype": "PHONE",
+            "value": "+372 5114476"
+          },
+          {
+            "dtype": "EMAIL",
+            "value": "info@wingmacht.ee"
+          },
+          {
+            "dtype": "FAX",
+            "value": null
+          }
+        ],
+        "first_name": "Wingmacht",
+        "last_name": "O\u00dc",
+        "picture_url": null,
+        "title": "Wingmacht O\u00dc",
+        "certified_broker": false,
+        "member_of_ecreb": false,
+        "educated_broker": false,
+        "highly_rated_broker": false,
+        "certificate_number": null,
+        "second_picture_url": null,
+        "em_image_name_second_pic": null,
+        "active_branding": false,
+        "color_hex_code": "#6900a8",
+        "em_image_name_cover_pic": null,
+        "em_image_name": null,
+        "cover_url": null,
+        "em_image_name_logo_pic": null,
+        "logo_url": null,
+        "member_real_estate_agents_registry": false,
+        "full_name": "Wingmacht O\u00dc"
+      },
+      "average_rating": 3.0,
+      "awards": [],
+      "email_address": "jevgeni.grishin@gmail.com",
+      "first_name": "Jevgeni",
+      "last_name": "Grishin",
+      "image_url": null,
+      "phone_number": "5114476",
+      "phone_number2": null,
+      "is_vip": true,
+      "slug": "wingmacht-ou",
+      "statistics": "\/broker\/279929\/statistics",
+      "office": [
+        {
+          "id": "8717",
+          "company": {
+            "id": "13846",
+            "classified_products": [
+              {
+                "id": 2487,
+                "product_level": "PROFIPAKETT_KV",
+                "is_np_branded_block_enabled": true,
+                "is_big_np_branded_block_enabled": false,
+                "np_friendly_id": null
+              }
+            ],
+            "guid": "wingmacht_ou_1",
+            "name": "Wingmacht O\u00dc"
+          },
+          "business_card": {
+            "facebook_url": null,
+            "skype_name": null,
+            "twitter_url": null,
+            "logo_url": "https:\/\/c24ee.img-bcg.eu\/office_main_logo\/{fmt:em}\/8611\/1712758611.jpg",
+            "linkedin_url": null,
+            "addresses": {
+              "POSTAL": {
+                "address_type": "POSTAL",
+                "city": "Tallinn",
+                "postal_code": "10145",
+                "street_name": "Maakri 30"
+              },
+              "STREET": {
+                "address_type": "STREET",
+                "city": "Tallinn",
+                "postal_code": "10145",
+                "street_name": "Maakri 30"
+              }
+            },
+            "em_image_name": "1712758611.jpg",
+            "office_name": "Wingmacht O\u00dc",
+            "email_addresses": [
+              "info@wingmacht.ee"
+            ],
+            "phone_numbers": [
+              "+372 5284796"
+            ],
+            "web_addresses": [
+              "http:\/\/www.wingmacht.ee"
+            ]
+          },
+          "classified_products": [],
+          "name": "Wingmacht O\u00dc",
+          "developer": false,
+          "slug": "wingmacht-ou"
+        }
+      ]
+    },
+    "office": {
+      "id": "8717",
+      "company": {
+        "id": "13846",
+        "external_id": "001w000001BrJHXAA3",
+        "guid": "wingmacht_ou_1",
+        "name": "Wingmacht O\u00dc"
+      },
+      "external_id": "001w000001BrJHmAAN",
+      "guid": "wingmacht_ou_1"
+    },
+    "new": false,
+    "date_published": "2023-06-20T10:32:25+03:00",
+    "friendly_id": "6443715",
+    "guid": "DPRO_600468",
+    "latitude": 59.5280804010625,
+    "longitude": 24.8116763444642,
+    "price_min": null,
+    "price_max": null,
+    "price_per_unit_min": null,
+    "price_per_unit_max": null,
+    "size_unit_id": 1,
+    "lot_size_unit_id": null,
+    "room_count_min": null,
+    "room_count_max": null,
+    "year_built": null,
+    "transaction_type": "\/transaction_types\/1",
+    "address": {
+      "apartment_number": null,
+      "house_number": "29",
+      "street": {
+        "id": 9241,
+        "name": "Vardi tee",
+        "classifier": "0PN3",
+        "agg_field": 9241
+      },
+      "location_name": null,
+      "county": {
+        "id": 1,
+        "name": "Harju maakond",
+        "classifier": "0037"
+      },
+      "parish": {
+        "id": 212,
+        "name": "Viimsi vald",
+        "classifier": "0890"
+      },
+      "city": {
+        "id": 3085,
+        "name": "Pringi k\u00fcla",
+        "classifier": "6370"
+      },
+      "district": null,
+      "county_name": "Harju maakond",
+      "parish_name": "Viimsi vald",
+      "city_name": "Pringi k\u00fcla",
+      "district_name": null,
+      "street_name": "Vardi tee"
+    },
+    "status_id": 2,
+    "available_units": null,
+    "project_name": "BOGENHOUSE",
+    "total_units": null,
+    "size_min": 33.0,
+    "size_max": 119.0,
+    "lot_size_min": null,
+    "lot_size_max": null,
+    "videos": [],
+    "attributes": {
+      "PHASE_OF_CONSTRUCTION": [
+        {
+          "code": "under_construction",
+          "active": true,
+          "date": null
+        },
+        {
+          "code": "has_been_put_into_operation",
+          "active": false,
+          "date": null
+        },
+        {
+          "code": "plan_to_put_into_operation",
+          "active": false,
+          "date": null
+        },
+        {
+          "code": "planning",
+          "active": false,
+          "date": null
+        },
+        {
+          "code": "move_in_ready",
+          "active": false,
+          "date": null
+        }
+      ],
+      "SHARED_LOUNGE": false,
+      "COUNT_PRICE_PER_UNIT_AUTO": false,
+      "SMART_HOME_HEATURES": false,
+      "STORAGE_SPACE": false,
+      "ADD_CADASTER_IMG": false,
+      "ELEVATOR": false,
+      "GARDEN": false,
+      "SHARED_WAREHOUSE": false,
+      "HEATED_FLOORS": false,
+      "TOTAL_FLOORS": 2,
+      "ENERGY_CERTIFICATE_TYPE": [
+        "A"
+      ],
+      "COMING_SOON": true,
+      "FLOOR": null,
+      "ON_LAST_FLOOR": null
+    },
+    "realties_count": 0,
+    "ad_level": 1,
+    "unit_type": "NewProject",
+    "project_unit_type": "Commercial",
+    "virtual_tours": []
+  },
+  {
+    "id": 4261,
+    "images": [
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/2480\/4232842480.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/6855\/7478826855.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/9518\/7593809518.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/4579\/6178804579.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/3108\/3691113108.jpg"
+    ],
+    "main_image": {
+      "url": "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/2480\/4232842480.jpg"
+    },
+    "slogans": {
+      "et_EE": {
+        "slogan": "Majad v\u00f5rratu asukoha ja k\u00f5ige vajalikuga"
+      }
+    },
+    "broker": {
+      "id": "279929",
+      "business_card": {
+        "additional_contacts": [
+          {
+            "dtype": "EMAIL",
+            "value": "jevgeni.grishin@wingmacht.ee"
+          },
+          {
+            "dtype": "PHONE",
+            "value": "+372 5114476"
+          },
+          {
+            "dtype": "EMAIL",
+            "value": "info@wingmacht.ee"
+          },
+          {
+            "dtype": "FAX",
+            "value": null
+          }
+        ],
+        "first_name": "Wingmacht",
+        "last_name": "O\u00dc",
+        "picture_url": null,
+        "title": "Wingmacht O\u00dc",
+        "certified_broker": false,
+        "member_of_ecreb": false,
+        "educated_broker": false,
+        "highly_rated_broker": false,
+        "certificate_number": null,
+        "second_picture_url": null,
+        "em_image_name_second_pic": null,
+        "active_branding": false,
+        "color_hex_code": "#6900a8",
+        "em_image_name_cover_pic": null,
+        "em_image_name": null,
+        "cover_url": null,
+        "em_image_name_logo_pic": null,
+        "logo_url": null,
+        "member_real_estate_agents_registry": false,
+        "full_name": "Wingmacht O\u00dc"
+      },
+      "average_rating": 3.0,
+      "awards": [],
+      "email_address": "jevgeni.grishin@gmail.com",
+      "first_name": "Jevgeni",
+      "last_name": "Grishin",
+      "image_url": null,
+      "phone_number": "5114476",
+      "phone_number2": null,
+      "is_vip": true,
+      "slug": "wingmacht-ou",
+      "statistics": "\/broker\/279929\/statistics",
+      "office": [
+        {
+          "id": "8717",
+          "company": {
+            "id": "13846",
+            "classified_products": [
+              {
+                "id": 2487,
+                "product_level": "PROFIPAKETT_KV",
+                "is_np_branded_block_enabled": true,
+                "is_big_np_branded_block_enabled": false,
+                "np_friendly_id": null
+              }
+            ],
+            "guid": "wingmacht_ou_1",
+            "name": "Wingmacht O\u00dc"
+          },
+          "business_card": {
+            "facebook_url": null,
+            "skype_name": null,
+            "twitter_url": null,
+            "logo_url": "https:\/\/c24ee.img-bcg.eu\/office_main_logo\/{fmt:em}\/8611\/1712758611.jpg",
+            "linkedin_url": null,
+            "addresses": {
+              "POSTAL": {
+                "address_type": "POSTAL",
+                "city": "Tallinn",
+                "postal_code": "10145",
+                "street_name": "Maakri 30"
+              },
+              "STREET": {
+                "address_type": "STREET",
+                "city": "Tallinn",
+                "postal_code": "10145",
+                "street_name": "Maakri 30"
+              }
+            },
+            "em_image_name": "1712758611.jpg",
+            "office_name": "Wingmacht O\u00dc",
+            "email_addresses": [
+              "info@wingmacht.ee"
+            ],
+            "phone_numbers": [
+              "+372 5284796"
+            ],
+            "web_addresses": [
+              "http:\/\/www.wingmacht.ee"
+            ]
+          },
+          "classified_products": [],
+          "name": "Wingmacht O\u00dc",
+          "developer": false,
+          "slug": "wingmacht-ou"
+        }
+      ]
+    },
+    "office": {
+      "id": "8717",
+      "company": {
+        "id": "13846",
+        "external_id": "001w000001BrJHXAA3",
+        "guid": "wingmacht_ou_1",
+        "name": "Wingmacht O\u00dc"
+      },
+      "external_id": "001w000001BrJHmAAN",
+      "guid": "wingmacht_ou_1"
+    },
+    "new": false,
+    "date_published": "2023-06-20T10:31:53+03:00",
+    "friendly_id": "9342234",
+    "guid": "DPRO_600251",
+    "latitude": 59.5251519790758,
+    "longitude": 24.8017295921216,
+    "price_min": "755000.00",
+    "price_max": "775000.00",
+    "price_per_unit_min": null,
+    "price_per_unit_max": null,
+    "size_unit_id": 1,
+    "lot_size_unit_id": null,
+    "room_count_min": null,
+    "room_count_max": null,
+    "year_built": null,
+    "transaction_type": "\/transaction_types\/1",
+    "address": {
+      "apartment_number": null,
+      "house_number": "30",
+      "street": {
+        "id": 8773,
+        "name": "Rannakaare tee",
+        "classifier": "02XH",
+        "agg_field": 8773
+      },
+      "location_name": null,
+      "county": {
+        "id": 1,
+        "name": "Harju maakond",
+        "classifier": "0037"
+      },
+      "parish": {
+        "id": 212,
+        "name": "Viimsi vald",
+        "classifier": "0890"
+      },
+      "city": {
+        "id": 3085,
+        "name": "Pringi k\u00fcla",
+        "classifier": "6370"
+      },
+      "district": null,
+      "county_name": "Harju maakond",
+      "parish_name": "Viimsi vald",
+      "city_name": "Pringi k\u00fcla",
+      "district_name": null,
+      "street_name": "Rannakaare tee"
+    },
+    "status_id": 2,
+    "available_units": null,
+    "project_name": "Pringi Majad",
+    "total_units": null,
+    "size_min": 191.0,
+    "size_max": 191.0,
+    "lot_size_min": null,
+    "lot_size_max": null,
+    "videos": [],
+    "attributes": {
+      "PHASE_OF_CONSTRUCTION": [
+        {
+          "code": "has_been_put_into_operation",
+          "active": false,
+          "date": null
+        },
+        {
+          "code": "under_construction",
+          "active": false,
+          "date": null
+        },
+        {
+          "code": "plan_to_put_into_operation",
+          "active": false,
+          "date": null
+        },
+        {
+          "code": "planning",
+          "active": false,
+          "date": null
+        },
+        {
+          "code": "move_in_ready",
+          "active": false,
+          "date": null
+        }
+      ],
+      "STORAGE_SPACE": false,
+      "SMART_HOME_HEATURES": false,
+      "ADD_CADASTER_IMG": false,
+      "ELEVATOR": false,
+      "SHARED_WAREHOUSE": false,
+      "HEATED_FLOORS": false,
+      "SHARED_LOUNGE": false,
+      "ENERGY_CERTIFICATE_TYPE": [
+        "A"
+      ],
+      "GARDEN": false,
+      "TOTAL_FLOORS": 1,
+      "COUNT_PRICE_PER_UNIT_AUTO": false,
+      "FLOOR": null,
+      "ON_LAST_FLOOR": null
+    },
+    "realties_count": 2,
+    "ad_level": 1,
+    "unit_type": "NewProject",
+    "project_unit_type": "House",
+    "virtual_tours": []
+  },
+  {
+    "id": 4258,
+    "images": [
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/8634\/2034268634.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/2557\/3958882557.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/7329\/3735147329.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/5366\/1290105366.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/7504\/4158287504.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/1408\/0434751408.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/1907\/0358371907.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/8762\/0177538762.jpg"
+    ],
+    "main_image": {
+      "url": "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/8634\/2034268634.jpg"
+    },
+    "slogans": {
+      "et_EE": {
+        "slogan": "UUS LUKSUSLIK ERAMAJA LEPPNEEME K\u00dcLAS, VIIMSIS"
+      }
+    },
+    "broker": {
+      "id": "279929",
+      "business_card": {
+        "additional_contacts": [
+          {
+            "dtype": "EMAIL",
+            "value": "jevgeni.grishin@wingmacht.ee"
+          },
+          {
+            "dtype": "PHONE",
+            "value": "+372 5114476"
+          },
+          {
+            "dtype": "EMAIL",
+            "value": "info@wingmacht.ee"
+          },
+          {
+            "dtype": "FAX",
+            "value": null
+          }
+        ],
+        "first_name": "Wingmacht",
+        "last_name": "O\u00dc",
+        "picture_url": null,
+        "title": "Wingmacht O\u00dc",
+        "certified_broker": false,
+        "member_of_ecreb": false,
+        "educated_broker": false,
+        "highly_rated_broker": false,
+        "certificate_number": null,
+        "second_picture_url": null,
+        "em_image_name_second_pic": null,
+        "active_branding": false,
+        "color_hex_code": "#6900a8",
+        "em_image_name_cover_pic": null,
+        "em_image_name": null,
+        "cover_url": null,
+        "em_image_name_logo_pic": null,
+        "logo_url": null,
+        "member_real_estate_agents_registry": false,
+        "full_name": "Wingmacht O\u00dc"
+      },
+      "average_rating": 3.0,
+      "awards": [],
+      "email_address": "jevgeni.grishin@gmail.com",
+      "first_name": "Jevgeni",
+      "last_name": "Grishin",
+      "image_url": null,
+      "phone_number": "5114476",
+      "phone_number2": null,
+      "is_vip": true,
+      "slug": "wingmacht-ou",
+      "statistics": "\/broker\/279929\/statistics",
+      "office": [
+        {
+          "id": "8717",
+          "company": {
+            "id": "13846",
+            "classified_products": [
+              {
+                "id": 2487,
+                "product_level": "PROFIPAKETT_KV",
+                "is_np_branded_block_enabled": true,
+                "is_big_np_branded_block_enabled": false,
+                "np_friendly_id": null
+              }
+            ],
+            "guid": "wingmacht_ou_1",
+            "name": "Wingmacht O\u00dc"
+          },
+          "business_card": {
+            "facebook_url": null,
+            "skype_name": null,
+            "twitter_url": null,
+            "logo_url": "https:\/\/c24ee.img-bcg.eu\/office_main_logo\/{fmt:em}\/8611\/1712758611.jpg",
+            "linkedin_url": null,
+            "addresses": {
+              "POSTAL": {
+                "address_type": "POSTAL",
+                "city": "Tallinn",
+                "postal_code": "10145",
+                "street_name": "Maakri 30"
+              },
+              "STREET": {
+                "address_type": "STREET",
+                "city": "Tallinn",
+                "postal_code": "10145",
+                "street_name": "Maakri 30"
+              }
+            },
+            "em_image_name": "1712758611.jpg",
+            "office_name": "Wingmacht O\u00dc",
+            "email_addresses": [
+              "info@wingmacht.ee"
+            ],
+            "phone_numbers": [
+              "+372 5284796"
+            ],
+            "web_addresses": [
+              "http:\/\/www.wingmacht.ee"
+            ]
+          },
+          "classified_products": [],
+          "name": "Wingmacht O\u00dc",
+          "developer": false,
+          "slug": "wingmacht-ou"
+        }
+      ]
+    },
+    "office": {
+      "id": "8717",
+      "company": {
+        "id": "13846",
+        "external_id": "001w000001BrJHXAA3",
+        "guid": "wingmacht_ou_1",
+        "name": "Wingmacht O\u00dc"
+      },
+      "external_id": "001w000001BrJHmAAN",
+      "guid": "wingmacht_ou_1"
+    },
+    "new": false,
+    "date_published": "2023-06-20T10:30:54+03:00",
+    "friendly_id": "2662591",
+    "guid": "DPRO_600195",
+    "latitude": 59.545891,
+    "longitude": 24.85425,
+    "price_min": "765000.00",
+    "price_max": "765000.00",
+    "price_per_unit_min": null,
+    "price_per_unit_max": null,
+    "size_unit_id": 1,
+    "lot_size_unit_id": null,
+    "room_count_min": null,
+    "room_count_max": null,
+    "year_built": null,
+    "transaction_type": "\/transaction_types\/1",
+    "address": {
+      "apartment_number": null,
+      "house_number": "11",
+      "street": {
+        "id": 7018,
+        "name": "Kivim\u00e4e tee",
+        "classifier": "0ESX",
+        "agg_field": 7018
+      },
+      "location_name": null,
+      "county": {
+        "id": 1,
+        "name": "Harju maakond",
+        "classifier": "0037"
+      },
+      "parish": {
+        "id": 212,
+        "name": "Viimsi vald",
+        "classifier": "0890"
+      },
+      "city": {
+        "id": 1984,
+        "name": "Leppneeme k\u00fcla",
+        "classifier": "4299"
+      },
+      "district": null,
+      "county_name": "Harju maakond",
+      "parish_name": "Viimsi vald",
+      "city_name": "Leppneeme k\u00fcla",
+      "district_name": null,
+      "street_name": "Kivim\u00e4e tee"
+    },
+    "status_id": 2,
+    "available_units": null,
+    "project_name": "Leppneeme P\u00e4rlid",
+    "total_units": null,
+    "size_min": 179.0,
+    "size_max": 179.0,
+    "lot_size_min": null,
+    "lot_size_max": null,
+    "videos": [],
+    "attributes": {
+      "PHASE_OF_CONSTRUCTION": [
+        {
+          "code": "has_been_put_into_operation",
+          "active": false,
+          "date": null
+        },
+        {
+          "code": "under_construction",
+          "active": false,
+          "date": null
+        },
+        {
+          "code": "plan_to_put_into_operation",
+          "active": false,
+          "date": null
+        },
+        {
+          "code": "planning",
+          "active": false,
+          "date": null
+        },
+        {
+          "code": "move_in_ready",
+          "active": false,
+          "date": null
+        }
+      ],
+      "TOTAL_FLOORS": 1,
+      "PARKING_SELECTION_PROJECT": [
+        "free_parking"
+      ],
+      "ENERGY_CERTIFICATE_TYPE": [
+        "A"
+      ],
+      "HEATED_FLOORS": false,
+      "COUNT_PRICE_PER_UNIT_AUTO": false,
+      "SHARED_LOUNGE": false,
+      "ELEVATOR": false,
+      "GARDEN": false,
+      "SMART_HOME_HEATURES": false,
+      "ADD_CADASTER_IMG": false,
+      "STORAGE_SPACE": false,
+      "SHARED_WAREHOUSE": false,
+      "FLOOR": null,
+      "ON_LAST_FLOOR": null
+    },
+    "realties_count": 2,
+    "ad_level": 1,
+    "unit_type": "NewProject",
+    "project_unit_type": "House",
+    "virtual_tours": []
+  },
+  {
+    "id": 4259,
+    "images": [
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/0118\/2893020118.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/3233\/0173013233.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/8286\/3820858286.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/0307\/5161940307.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/4426\/6151704426.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/3818\/6807533818.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/0944\/7867260944.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/5366\/5542145366.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/7233\/4446227233.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/4722\/5023084722.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/4939\/7181174939.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/9780\/4678129780.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/4450\/6368254450.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/2201\/6601242201.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/8204\/5211978204.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/5004\/5073725004.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/0630\/7496240630.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/7223\/7305897223.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/2248\/5494182248.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/6485\/1133896485.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/0648\/0650200648.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/1336\/0493731336.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/5807\/1106115807.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/1040\/0970811040.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/7541\/3901147541.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/7440\/0536867440.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/7140\/3448897140.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/1142\/4206161142.jpg"
+    ],
+    "main_image": {
+      "url": "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/0118\/2893020118.jpg"
+    },
+    "slogans": {
+      "et_EE": {
+        "slogan": "KIILI ENERGIAS\u00c4\u00c4STLIKUD RIDAMAJAD"
+      }
+    },
+    "broker": {
+      "id": "279929",
+      "business_card": {
+        "additional_contacts": [
+          {
+            "dtype": "EMAIL",
+            "value": "jevgeni.grishin@wingmacht.ee"
+          },
+          {
+            "dtype": "PHONE",
+            "value": "+372 5114476"
+          },
+          {
+            "dtype": "EMAIL",
+            "value": "info@wingmacht.ee"
+          },
+          {
+            "dtype": "FAX",
+            "value": null
+          }
+        ],
+        "first_name": "Wingmacht",
+        "last_name": "O\u00dc",
+        "picture_url": null,
+        "title": "Wingmacht O\u00dc",
+        "certified_broker": false,
+        "member_of_ecreb": false,
+        "educated_broker": false,
+        "highly_rated_broker": false,
+        "certificate_number": null,
+        "second_picture_url": null,
+        "em_image_name_second_pic": null,
+        "active_branding": false,
+        "color_hex_code": "#6900a8",
+        "em_image_name_cover_pic": null,
+        "em_image_name": null,
+        "cover_url": null,
+        "em_image_name_logo_pic": null,
+        "logo_url": null,
+        "member_real_estate_agents_registry": false,
+        "full_name": "Wingmacht O\u00dc"
+      },
+      "average_rating": 3.0,
+      "awards": [],
+      "email_address": "jevgeni.grishin@gmail.com",
+      "first_name": "Jevgeni",
+      "last_name": "Grishin",
+      "image_url": null,
+      "phone_number": "5114476",
+      "phone_number2": null,
+      "is_vip": true,
+      "slug": "wingmacht-ou",
+      "statistics": "\/broker\/279929\/statistics",
+      "office": [
+        {
+          "id": "8717",
+          "company": {
+            "id": "13846",
+            "classified_products": [
+              {
+                "id": 2487,
+                "product_level": "PROFIPAKETT_KV",
+                "is_np_branded_block_enabled": true,
+                "is_big_np_branded_block_enabled": false,
+                "np_friendly_id": null
+              }
+            ],
+            "guid": "wingmacht_ou_1",
+            "name": "Wingmacht O\u00dc"
+          },
+          "business_card": {
+            "facebook_url": null,
+            "skype_name": null,
+            "twitter_url": null,
+            "logo_url": "https:\/\/c24ee.img-bcg.eu\/office_main_logo\/{fmt:em}\/8611\/1712758611.jpg",
+            "linkedin_url": null,
+            "addresses": {
+              "POSTAL": {
+                "address_type": "POSTAL",
+                "city": "Tallinn",
+                "postal_code": "10145",
+                "street_name": "Maakri 30"
+              },
+              "STREET": {
+                "address_type": "STREET",
+                "city": "Tallinn",
+                "postal_code": "10145",
+                "street_name": "Maakri 30"
+              }
+            },
+            "em_image_name": "1712758611.jpg",
+            "office_name": "Wingmacht O\u00dc",
+            "email_addresses": [
+              "info@wingmacht.ee"
+            ],
+            "phone_numbers": [
+              "+372 5284796"
+            ],
+            "web_addresses": [
+              "http:\/\/www.wingmacht.ee"
+            ]
+          },
+          "classified_products": [],
+          "name": "Wingmacht O\u00dc",
+          "developer": false,
+          "slug": "wingmacht-ou"
+        }
+      ]
+    },
+    "office": {
+      "id": "8717",
+      "company": {
+        "id": "13846",
+        "external_id": "001w000001BrJHXAA3",
+        "guid": "wingmacht_ou_1",
+        "name": "Wingmacht O\u00dc"
+      },
+      "external_id": "001w000001BrJHmAAN",
+      "guid": "wingmacht_ou_1"
+    },
+    "new": false,
+    "date_published": "2023-06-20T10:31:17+03:00",
+    "friendly_id": "1971290",
+    "guid": "DPRO_600199",
+    "latitude": 59.2863149801488,
+    "longitude": 24.8522271838642,
+    "price_min": "305000.00",
+    "price_max": "315000.00",
+    "price_per_unit_min": null,
+    "price_per_unit_max": null,
+    "size_unit_id": 1,
+    "lot_size_unit_id": null,
+    "room_count_min": null,
+    "room_count_max": null,
+    "year_built": null,
+    "transaction_type": "\/transaction_types\/1",
+    "address": {
+      "apartment_number": null,
+      "house_number": "16",
+      "street": {
+        "id": 7422,
+        "name": "R\u00e4tsepa tee",
+        "classifier": "0M2I",
+        "agg_field": 7422
+      },
+      "location_name": null,
+      "county": {
+        "id": 1,
+        "name": "Harju maakond",
+        "classifier": "0037"
+      },
+      "parish": {
+        "id": 210330,
+        "name": "Kiili vald",
+        "classifier": "0305"
+      },
+      "city": {
+        "id": 2165,
+        "name": "L\u00e4htse k\u00fcla",
+        "classifier": "4633"
+      },
+      "district": null,
+      "county_name": "Harju maakond",
+      "parish_name": "Kiili vald",
+      "city_name": "L\u00e4htse k\u00fcla",
+      "district_name": null,
+      "street_name": "R\u00e4tsepa tee"
+    },
+    "status_id": 2,
+    "available_units": null,
+    "project_name": "KIILI ENERGIA RIDAMAJAD",
+    "total_units": null,
+    "size_min": 132.9,
+    "size_max": 133.2,
+    "lot_size_min": null,
+    "lot_size_max": null,
+    "videos": [],
+    "attributes": {
+      "SHARED_LOUNGE": false,
+      "COUNT_PRICE_PER_UNIT_AUTO": false,
+      "STORAGE_SPACE": false,
+      "UTILITIES": [
+        "ventilation"
+      ],
+      "PARKING_SELECTION_PROJECT": [
+        "free_parking"
+      ],
+      "HEATED_FLOORS": false,
+      "GARDEN": false,
+      "SMART_HOME_HEATURES": false,
+      "SHARED_WAREHOUSE": false,
+      "ELEVATOR": false,
+      "ADD_CADASTER_IMG": false,
+      "PHASE_OF_CONSTRUCTION": [
+        {
+          "code": "has_been_put_into_operation",
+          "active": false,
+          "date": null
+        },
+        {
+          "code": "under_construction",
+          "active": false,
+          "date": null
+        },
+        {
+          "code": "plan_to_put_into_operation",
+          "active": false,
+          "date": null
+        },
+        {
+          "code": "planning",
+          "active": false,
+          "date": null
+        },
+        {
+          "code": "move_in_ready",
+          "active": true,
+          "date": null
+        }
+      ],
+      "ENERGY_CERTIFICATE_TYPE": [
+        "A"
+      ],
+      "FLOOR": null,
+      "TOTAL_FLOORS": null,
+      "ON_LAST_FLOOR": null
+    },
+    "realties_count": 2,
+    "ad_level": 1,
+    "unit_type": "NewProject",
+    "project_unit_type": "HouseShare",
+    "virtual_tours": []
+  },
+  {
+    "id": 4267,
+    "images": [
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/3235\/6080103235.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/7604\/6772977604.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/4045\/2911884045.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/0705\/3880830705.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/9217\/2214049217.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/1961\/3600381961.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/4052\/2872204052.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/8821\/2026768821.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/4853\/2315444853.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/9487\/1711899487.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/8789\/0287468789.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/0009\/0032140009.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/8253\/3118858253.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/4125\/8350664125.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/0826\/5354520826.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/6622\/1249346622.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/8474\/6200418474.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/4674\/4454064674.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/9789\/5196009789.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/8348\/8117798348.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/4210\/3505544210.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/2344\/6023752344.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/5662\/5876545662.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/6658\/7326576658.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/3455\/7877103455.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/5547\/3586095547.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/0261\/1904000261.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/8554\/4225958554.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/9182\/2142889182.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/1244\/2689671244.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/7821\/2702107821.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/8769\/0722498769.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/0579\/1537210579.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/7760\/2451327760.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/1797\/3856471797.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/1774\/3799201774.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/6504\/1668456504.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/7986\/0636517986.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/9497\/0401609497.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/4193\/1812564193.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/3220\/0440423220.jpg"
+    ],
+    "main_image": {
+      "url": "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/3235\/6080103235.jpg"
+    },
+    "slogans": {
+      "et_EE": {
+        "slogan": "KIILI VILLAD PAARISMAJAD JA RIDAELAMUD!"
+      }
+    },
+    "broker": {
+      "id": "279929",
+      "business_card": {
+        "additional_contacts": [
+          {
+            "dtype": "EMAIL",
+            "value": "jevgeni.grishin@wingmacht.ee"
+          },
+          {
+            "dtype": "PHONE",
+            "value": "+372 5114476"
+          },
+          {
+            "dtype": "EMAIL",
+            "value": "info@wingmacht.ee"
+          },
+          {
+            "dtype": "FAX",
+            "value": null
+          }
+        ],
+        "first_name": "Wingmacht",
+        "last_name": "O\u00dc",
+        "picture_url": null,
+        "title": "Wingmacht O\u00dc",
+        "certified_broker": false,
+        "member_of_ecreb": false,
+        "educated_broker": false,
+        "highly_rated_broker": false,
+        "certificate_number": null,
+        "second_picture_url": null,
+        "em_image_name_second_pic": null,
+        "active_branding": false,
+        "color_hex_code": "#6900a8",
+        "em_image_name_cover_pic": null,
+        "em_image_name": null,
+        "cover_url": null,
+        "em_image_name_logo_pic": null,
+        "logo_url": null,
+        "member_real_estate_agents_registry": false,
+        "full_name": "Wingmacht O\u00dc"
+      },
+      "average_rating": 3.0,
+      "awards": [],
+      "email_address": "jevgeni.grishin@gmail.com",
+      "first_name": "Jevgeni",
+      "last_name": "Grishin",
+      "image_url": null,
+      "phone_number": "5114476",
+      "phone_number2": null,
+      "is_vip": true,
+      "slug": "wingmacht-ou",
+      "statistics": "\/broker\/279929\/statistics",
+      "office": [
+        {
+          "id": "8717",
+          "company": {
+            "id": "13846",
+            "classified_products": [
+              {
+                "id": 2487,
+                "product_level": "PROFIPAKETT_KV",
+                "is_np_branded_block_enabled": true,
+                "is_big_np_branded_block_enabled": false,
+                "np_friendly_id": null
+              }
+            ],
+            "guid": "wingmacht_ou_1",
+            "name": "Wingmacht O\u00dc"
+          },
+          "business_card": {
+            "facebook_url": null,
+            "skype_name": null,
+            "twitter_url": null,
+            "logo_url": "https:\/\/c24ee.img-bcg.eu\/office_main_logo\/{fmt:em}\/8611\/1712758611.jpg",
+            "linkedin_url": null,
+            "addresses": {
+              "POSTAL": {
+                "address_type": "POSTAL",
+                "city": "Tallinn",
+                "postal_code": "10145",
+                "street_name": "Maakri 30"
+              },
+              "STREET": {
+                "address_type": "STREET",
+                "city": "Tallinn",
+                "postal_code": "10145",
+                "street_name": "Maakri 30"
+              }
+            },
+            "em_image_name": "1712758611.jpg",
+            "office_name": "Wingmacht O\u00dc",
+            "email_addresses": [
+              "info@wingmacht.ee"
+            ],
+            "phone_numbers": [
+              "+372 5284796"
+            ],
+            "web_addresses": [
+              "http:\/\/www.wingmacht.ee"
+            ]
+          },
+          "classified_products": [],
+          "name": "Wingmacht O\u00dc",
+          "developer": false,
+          "slug": "wingmacht-ou"
+        }
+      ]
+    },
+    "office": {
+      "id": "8717",
+      "company": {
+        "id": "13846",
+        "external_id": "001w000001BrJHXAA3",
+        "guid": "wingmacht_ou_1",
+        "name": "Wingmacht O\u00dc"
+      },
+      "external_id": "001w000001BrJHmAAN",
+      "guid": "wingmacht_ou_1"
+    },
+    "new": false,
+    "date_published": "2023-06-20T10:55:24+03:00",
+    "friendly_id": "8328069",
+    "guid": "DPRO_600529",
+    "latitude": 59.32763,
+    "longitude": 24.799217,
+    "price_min": "285000.00",
+    "price_max": "365000.00",
+    "price_per_unit_min": null,
+    "price_per_unit_max": null,
+    "size_unit_id": 1,
+    "lot_size_unit_id": null,
+    "room_count_min": null,
+    "room_count_max": null,
+    "year_built": null,
+    "transaction_type": "\/transaction_types\/1",
+    "address": {
+      "apartment_number": null,
+      "house_number": "20",
+      "street": {
+        "id": 7150,
+        "name": "Kesk-Vaela tn",
+        "classifier": "0L9Y",
+        "agg_field": 7150
+      },
+      "location_name": null,
+      "county": {
+        "id": 1,
+        "name": "Harju maakond",
+        "classifier": "0037"
+      },
+      "parish": {
+        "id": 210330,
+        "name": "Kiili vald",
+        "classifier": "0305"
+      },
+      "city": {
+        "id": 4382,
+        "name": "Vaela k\u00fcla",
+        "classifier": "8824"
+      },
+      "district": null,
+      "county_name": "Harju maakond",
+      "parish_name": "Kiili vald",
+      "city_name": "Vaela k\u00fcla",
+      "district_name": null,
+      "street_name": "Kesk-Vaela tn"
+    },
+    "status_id": 2,
+    "available_units": null,
+    "project_name": null,
+    "total_units": null,
+    "size_min": 103.6,
+    "size_max": 138.0,
+    "lot_size_min": null,
+    "lot_size_max": null,
+    "videos": [],
+    "attributes": {
+      "PHASE_OF_CONSTRUCTION": [
+        {
+          "code": "under_construction",
+          "active": false,
+          "date": null
+        },
+        {
+          "code": "has_been_put_into_operation",
+          "active": false,
+          "date": null
+        },
+        {
+          "code": "planning",
+          "active": false,
+          "date": null
+        },
+        {
+          "code": "plan_to_put_into_operation",
+          "active": false,
+          "date": null
+        },
+        {
+          "code": "move_in_ready",
+          "active": true,
+          "date": null
+        }
+      ],
+      "TOTAL_FLOORS": 1,
+      "ELEVATOR": false,
+      "SHARED_WAREHOUSE": false,
+      "SHARED_LOUNGE": false,
+      "HEATED_FLOORS": false,
+      "STORAGE_SPACE": false,
+      "SMART_HOME_HEATURES": false,
+      "GARDEN": false,
+      "COUNT_PRICE_PER_UNIT_AUTO": false,
+      "ENERGY_CERTIFICATE_TYPE": [
+        "A"
+      ],
+      "ADD_CADASTER_IMG": false,
+      "FLOOR": null,
+      "ON_LAST_FLOOR": null
+    },
+    "realties_count": 9,
+    "ad_level": 1,
+    "unit_type": "NewProject",
+    "project_unit_type": "HouseShare",
+    "virtual_tours": []
+  },
+  {
+    "id": 3987,
+    "images": [
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/1973\/2779851973.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/0441\/0540660441.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/9734\/3545789734.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/2408\/4289022408.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/4375\/0742484375.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/7301\/2559467301.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/2774\/4101202774.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/7516\/0733757516.jpg"
+    ],
+    "main_image": {
+      "url": "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/1973\/2779851973.jpg"
+    },
+    "slogans": {
+      "et_EE": {
+        "slogan": "ERAMAJA OMADUSTEGA LUKSUSLIKUD PAARISMAJA BOKSID"
+      }
+    },
+    "broker": {
+      "id": "279929",
+      "business_card": {
+        "additional_contacts": [
+          {
+            "dtype": "EMAIL",
+            "value": "jevgeni.grishin@wingmacht.ee"
+          },
+          {
+            "dtype": "PHONE",
+            "value": "+372 5114476"
+          },
+          {
+            "dtype": "EMAIL",
+            "value": "info@wingmacht.ee"
+          },
+          {
+            "dtype": "FAX",
+            "value": null
+          }
+        ],
+        "first_name": "Wingmacht",
+        "last_name": "O\u00dc",
+        "picture_url": null,
+        "title": "Wingmacht O\u00dc",
+        "certified_broker": false,
+        "member_of_ecreb": false,
+        "educated_broker": false,
+        "highly_rated_broker": false,
+        "certificate_number": null,
+        "second_picture_url": null,
+        "em_image_name_second_pic": null,
+        "active_branding": false,
+        "color_hex_code": "#6900a8",
+        "em_image_name_cover_pic": null,
+        "em_image_name": null,
+        "cover_url": null,
+        "em_image_name_logo_pic": null,
+        "logo_url": null,
+        "member_real_estate_agents_registry": false,
+        "full_name": "Wingmacht O\u00dc"
+      },
+      "average_rating": 3.0,
+      "awards": [],
+      "email_address": "jevgeni.grishin@gmail.com",
+      "first_name": "Jevgeni",
+      "last_name": "Grishin",
+      "image_url": null,
+      "phone_number": "5114476",
+      "phone_number2": null,
+      "is_vip": true,
+      "slug": "wingmacht-ou",
+      "statistics": "\/broker\/279929\/statistics",
+      "office": [
+        {
+          "id": "8717",
+          "company": {
+            "id": "13846",
+            "classified_products": [
+              {
+                "id": 2487,
+                "product_level": "PROFIPAKETT_KV",
+                "is_np_branded_block_enabled": true,
+                "is_big_np_branded_block_enabled": false,
+                "np_friendly_id": null
+              }
+            ],
+            "guid": "wingmacht_ou_1",
+            "name": "Wingmacht O\u00dc"
+          },
+          "business_card": {
+            "facebook_url": null,
+            "skype_name": null,
+            "twitter_url": null,
+            "logo_url": "https:\/\/c24ee.img-bcg.eu\/office_main_logo\/{fmt:em}\/8611\/1712758611.jpg",
+            "linkedin_url": null,
+            "addresses": {
+              "POSTAL": {
+                "address_type": "POSTAL",
+                "city": "Tallinn",
+                "postal_code": "10145",
+                "street_name": "Maakri 30"
+              },
+              "STREET": {
+                "address_type": "STREET",
+                "city": "Tallinn",
+                "postal_code": "10145",
+                "street_name": "Maakri 30"
+              }
+            },
+            "em_image_name": "1712758611.jpg",
+            "office_name": "Wingmacht O\u00dc",
+            "email_addresses": [
+              "info@wingmacht.ee"
+            ],
+            "phone_numbers": [
+              "+372 5284796"
+            ],
+            "web_addresses": [
+              "http:\/\/www.wingmacht.ee"
+            ]
+          },
+          "classified_products": [],
+          "name": "Wingmacht O\u00dc",
+          "developer": false,
+          "slug": "wingmacht-ou"
+        }
+      ]
+    },
+    "office": {
+      "id": "8717",
+      "company": {
+        "id": "13846",
+        "external_id": "001w000001BrJHXAA3",
+        "guid": "wingmacht_ou_1",
+        "name": "Wingmacht O\u00dc"
+      },
+      "external_id": "001w000001BrJHmAAN",
+      "guid": "wingmacht_ou_1"
+    },
+    "new": false,
+    "date_published": "2022-06-22T11:47:34+03:00",
+    "friendly_id": "3603399",
+    "guid": "DPRO_564240",
+    "latitude": 59.5590847654014,
+    "longitude": 24.7984961933233,
+    "price_min": "635000.00",
+    "price_max": "645000.00",
+    "price_per_unit_min": null,
+    "price_per_unit_max": null,
+    "size_unit_id": 1,
+    "lot_size_unit_id": null,
+    "room_count_min": null,
+    "room_count_max": null,
+    "year_built": null,
+    "transaction_type": "\/transaction_types\/1",
+    "address": {
+      "apartment_number": null,
+      "house_number": "144",
+      "street": {
+        "id": 9004,
+        "name": "Rohuneeme tee",
+        "classifier": "0OGD",
+        "agg_field": 9004
+      },
+      "location_name": null,
+      "county": {
+        "id": 1,
+        "name": "Harju maakond",
+        "classifier": "0037"
+      },
+      "parish": {
+        "id": 212,
+        "name": "Viimsi vald",
+        "classifier": "0890"
+      },
+      "city": {
+        "id": 3451,
+        "name": "Rohuneeme k\u00fcla",
+        "classifier": "7039"
+      },
+      "district": null,
+      "county_name": "Harju maakond",
+      "parish_name": "Viimsi vald",
+      "city_name": "Rohuneeme k\u00fcla",
+      "district_name": null,
+      "street_name": "Rohuneeme tee"
+    },
+    "status_id": 2,
+    "available_units": null,
+    "project_name": "ROHUNEEME VILLAD",
+    "total_units": null,
+    "size_min": 240.0,
+    "size_max": 240.0,
+    "lot_size_min": null,
+    "lot_size_max": null,
+    "videos": [],
+    "attributes": {
+      "PHASE_OF_CONSTRUCTION": [
+        {
+          "code": "move_in_ready",
+          "active": false,
+          "date": null
+        },
+        {
+          "code": "under_construction",
+          "active": true,
+          "date": null
+        },
+        {
+          "code": "planning",
+          "active": false,
+          "date": null
+        },
+        {
+          "code": "plan_to_put_into_operation",
+          "active": false,
+          "date": null
+        },
+        {
+          "code": "has_been_put_into_operation",
+          "active": false,
+          "date": null
+        }
+      ],
+      "GARDEN": true,
+      "STORAGE_SPACE": false,
+      "SHARED_LOUNGE": false,
+      "SHARED_WAREHOUSE": false,
+      "ELEVATOR": false,
+      "COUNT_PRICE_PER_UNIT_AUTO": false,
+      "HEATED_FLOORS": false,
+      "ADD_CADASTER_IMG": false,
+      "SMART_HOME_HEATURES": false,
+      "UTILITIES": [
+        "heating"
+      ],
+      "ENERGY_CERTIFICATE_TYPE": [
+        "A"
+      ],
+      "FLOOR": null,
+      "TOTAL_FLOORS": null,
+      "ON_LAST_FLOOR": null
+    },
+    "realties_count": 0,
+    "ad_level": 1,
+    "unit_type": "NewProject",
+    "project_unit_type": "HouseShare",
+    "virtual_tours": []
+  }
+]

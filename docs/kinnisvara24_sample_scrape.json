@@ -1,0 +1,1945 @@
+{
+  "data": [
+    {
+      "id": 720692,
+      "objekti_tyyp_id": 1,
+      "tehingu_tyyp_id": 3,
+      "hind": 340,
+      "created_at": "2023-08-12T11:02:55.000000Z",
+      "naita_majanumbrit": 1,
+      "bargainprice": null,
+      "show_A6_location": 1,
+      "bureau_name": "LVM Kinnisvara",
+      "user_full_name": "Henel Aava",
+      "sort_order": 99,
+      "sort_days": 0,
+      "distance_class": null,
+      "price_per_m2": 18.68,
+      "permalink": "https:\/\/kinnisvara24.ee\/korter-yyr-tallinn\/240720692",
+      "is_favorite": false,
+      "address": {
+        "id": 720599,
+        "address": "Vabriku 47\/2, P\u00f5hja-Tallinna linnaosa, Tallinn, Harju maakond",
+        "orig_tunnus": "CU00475256",
+        "A1": "Harju maakond",
+        "A2": "Tallinn",
+        "A3": "P\u00f5hja-Tallinna linnaosa",
+        "A4": "Kalamaja",
+        "A5": "Vabriku tn",
+        "A6": "",
+        "A7": "47",
+        "A8": null,
+        "coordinates_lat": 59.444015,
+        "coordinates_lng": 24.725298,
+        "short_address": "Vabriku tn 47, Kalamaja, P\u00f5hja-Tallinn",
+        "city_country": "Tallinn, Harju maakond"
+      },
+      "images": [
+        {
+          "id": 17701864,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/d25879f3-9e6b-4f73-9128-9de68f564ea8.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/d25879f3-9e6b-4f73-9128-9de68f564ea8.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/d25879f3-9e6b-4f73-9128-9de68f564ea8.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/d25879f3-9e6b-4f73-9128-9de68f564ea8.jpg",
+          "rel_id": 720692
+        },
+        {
+          "id": 17701869,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/276f0f4c-78a5-4cfa-8431-dc58ce0ac4cf.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/276f0f4c-78a5-4cfa-8431-dc58ce0ac4cf.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/276f0f4c-78a5-4cfa-8431-dc58ce0ac4cf.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/276f0f4c-78a5-4cfa-8431-dc58ce0ac4cf.jpg",
+          "rel_id": 720692
+        },
+        {
+          "id": 17701875,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/2034b3d7-b47b-4318-aeba-e25acfb74728.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/2034b3d7-b47b-4318-aeba-e25acfb74728.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/2034b3d7-b47b-4318-aeba-e25acfb74728.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/2034b3d7-b47b-4318-aeba-e25acfb74728.jpg",
+          "rel_id": 720692
+        },
+        {
+          "id": 17701881,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/8c7f3806-63db-4f67-8d09-602374e84931.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/8c7f3806-63db-4f67-8d09-602374e84931.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/8c7f3806-63db-4f67-8d09-602374e84931.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/8c7f3806-63db-4f67-8d09-602374e84931.jpg",
+          "rel_id": 720692
+        },
+        {
+          "id": 17701888,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/1e4b1e4e-bcad-4432-8cf6-6f2f3a3000d2.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/1e4b1e4e-bcad-4432-8cf6-6f2f3a3000d2.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/1e4b1e4e-bcad-4432-8cf6-6f2f3a3000d2.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/1e4b1e4e-bcad-4432-8cf6-6f2f3a3000d2.jpg",
+          "rel_id": 720692
+        },
+        {
+          "id": 17701892,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/ea36abfd-23ec-42ad-8022-0ebe9cd8303d.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/ea36abfd-23ec-42ad-8022-0ebe9cd8303d.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/ea36abfd-23ec-42ad-8022-0ebe9cd8303d.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/ea36abfd-23ec-42ad-8022-0ebe9cd8303d.jpg",
+          "rel_id": 720692
+        },
+        {
+          "id": 17701896,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/8f2f6280-6af7-4aa3-926c-d5b78a064737.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/8f2f6280-6af7-4aa3-926c-d5b78a064737.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/8f2f6280-6af7-4aa3-926c-d5b78a064737.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/8f2f6280-6af7-4aa3-926c-d5b78a064737.jpg",
+          "rel_id": 720692
+        },
+        {
+          "id": 17701901,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/ad3e2888-2457-4b7f-9ea4-fa64455ad3f0.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/ad3e2888-2457-4b7f-9ea4-fa64455ad3f0.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/ad3e2888-2457-4b7f-9ea4-fa64455ad3f0.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/ad3e2888-2457-4b7f-9ea4-fa64455ad3f0.jpg",
+          "rel_id": 720692
+        },
+        {
+          "id": 17701905,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/eaf5ef30-b914-4904-ac0b-87e115194cd8.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/eaf5ef30-b914-4904-ac0b-87e115194cd8.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/eaf5ef30-b914-4904-ac0b-87e115194cd8.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/eaf5ef30-b914-4904-ac0b-87e115194cd8.jpg",
+          "rel_id": 720692
+        },
+        {
+          "id": 17701909,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/e94da5f7-2615-4dd6-afd8-77ca998f4b55.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/e94da5f7-2615-4dd6-afd8-77ca998f4b55.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/e94da5f7-2615-4dd6-afd8-77ca998f4b55.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/e94da5f7-2615-4dd6-afd8-77ca998f4b55.jpg",
+          "rel_id": 720692
+        },
+        {
+          "id": 17701913,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/ab01e51c-ce34-42c3-9c2b-a2f7e5777d3c.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/ab01e51c-ce34-42c3-9c2b-a2f7e5777d3c.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/ab01e51c-ce34-42c3-9c2b-a2f7e5777d3c.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/ab01e51c-ce34-42c3-9c2b-a2f7e5777d3c.jpg",
+          "rel_id": 720692
+        },
+        {
+          "id": 17701919,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/37cde95f-c65d-4efa-ae8b-430fa37370d4.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/37cde95f-c65d-4efa-ae8b-430fa37370d4.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/37cde95f-c65d-4efa-ae8b-430fa37370d4.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/37cde95f-c65d-4efa-ae8b-430fa37370d4.jpg",
+          "rel_id": 720692
+        },
+        {
+          "id": 17701922,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/0f8eebf0-258c-4f2f-8fea-018c27a88ea1.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/0f8eebf0-258c-4f2f-8fea-018c27a88ea1.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/0f8eebf0-258c-4f2f-8fea-018c27a88ea1.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/0f8eebf0-258c-4f2f-8fea-018c27a88ea1.jpg",
+          "rel_id": 720692
+        },
+        {
+          "id": 17701925,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/baaa43a2-c736-4472-b1f3-8a769960e0cf.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/baaa43a2-c736-4472-b1f3-8a769960e0cf.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/baaa43a2-c736-4472-b1f3-8a769960e0cf.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/baaa43a2-c736-4472-b1f3-8a769960e0cf.jpg",
+          "rel_id": 720692
+        }
+      ],
+      "katastrinumber": [
+        {
+          "id": 744280,
+          "katastrinumber": "78408:801:5910",
+          "pindala": "1569.0"
+        }
+      ],
+      "user": {
+        "id": 25733,
+        "full_name": "Henel Aava",
+        "role": "maakler",
+        "image": "https:\/\/s1.kv24.ee\/uploads\/users\/9e037bae-a92b-4e38-8317-0ba290f3f747.jpg",
+        "public_email": "henel.aava@lvm.ee",
+        "public_work_phone": "",
+        "public_personal_phone": "+37256855888",
+        "broker_profile_url": "https:\/\/kinnisvara24.ee\/maakler\/otsing\/25733-henel-aava",
+        "bureau_name": "LVM Kinnisvara"
+      },
+      "slogan": "\u00dc\u00dcRILE ANDA V\u00c4GA HEA ASUKOHAGA KORTER KALAMAJAS! ",
+      "lisainfo": "\u00dc\u00dcRILE ANDA V\u00c4GA HEA ASUKOHAGA KORTER KALAMAJAS! <br \/>\r\n<br \/>\r\n- hoovimaja<br \/>\r\n- koheselt vaba sissekolimiseks<br \/>\r\n- parkimiskoht hoovis<br \/>\r\n<br \/>\r\nKorteri planeering- k\u00f6\u00f6k, elutuba ja pesuruum.<br \/>\r\n<br \/>\r\nK\u00fcttes\u00fcsteemid ja kommunikatsioonid:<br \/>\r\nKorteris on kamin+ elektriradiaatorid.<br \/>\r\n<br \/>\r\nAsukoht<br \/>\r\nMilj\u00f6\u00f6v\u00e4\u00e4rtuslik piirkond, kogukonnatunne, poed, kohvikud ja pargid, haridus ja kultuur. K\u00f5ik see asub k\u00e4e-jala juures.<br \/>\r\nKultuurikilomeeter, Gustav Adolfi G\u00fcmnaasium, mitmed lasteaiad, Linnateater, Lennusadam ja Noblessneri kontserdisaal, Telliskivi Loomelinnak ja vanalinn on v\u00e4hem kui 10minutilise jalutusk\u00e4igu kaugusel.<br \/>\r\n<br \/>\r\nMinimaalne \u00fc\u00fcrimisperiood on 12 kuud.<br \/>\r\nLepingu s\u00f5lmimisel k\u00fcsitakse esimene \u00fc\u00fcr, tagatisraha \u00fche kuu \u00fc\u00fcri ulatuses ning lepingutasu \u00fche kuu \u00fc\u00fcrisumma 390+ k\u00e4ibemaks.<br \/>\r\n<br \/>\r\nIgakuisele \u00fc\u00fcrisummale eurot lisanduvad igakuised kommunaalkulud!<br \/>\r\n<br \/>\r\nHelista ja k\u00fcsi lisa!<br \/>\n",
+      "video_url": null,
+      "intended_uses": [],
+      "floor": 1,
+      "floors": null,
+      "rooms": 1,
+      "area": "18.20",
+      "labels": [],
+      "active_client_day_string": "",
+      "disabled_text": null
+    },
+    {
+      "id": 648406,
+      "objekti_tyyp_id": 1,
+      "tehingu_tyyp_id": 3,
+      "hind": 350,
+      "created_at": "2023-11-01T18:55:11.000000Z",
+      "naita_majanumbrit": 0,
+      "bargainprice": null,
+      "show_A6_location": 1,
+      "bureau_name": null,
+      "user_full_name": "Karl KarlM",
+      "sort_order": 99,
+      "sort_days": 0,
+      "distance_class": null,
+      "price_per_m2": 7.29,
+      "permalink": "https:\/\/kinnisvara24.ee\/korter-yyr-tallinn\/240648406",
+      "is_favorite": false,
+      "address": {
+        "id": 648323,
+        "address": "Harju maakond, Tallinn, P\u00f5hja-Tallinna linnaosa, Noole tn 7a",
+        "orig_tunnus": "ER01253173",
+        "A1": "Harju maakond",
+        "A2": "Tallinn",
+        "A3": "P\u00f5hja-Tallinna linnaosa",
+        "A4": "Kalamaja",
+        "A5": "Noole tn",
+        "A6": null,
+        "A7": "7a",
+        "A8": "9",
+        "coordinates_lat": 59.448558,
+        "coordinates_lng": 24.736501,
+        "short_address": "Noole tn, Kalamaja, P\u00f5hja-Tallinn",
+        "city_country": "Tallinn, Harju maakond"
+      },
+      "images": [
+        {
+          "id": 15871466,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/70cbf827-2053-47d3-99da-14a4eda88473.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/70cbf827-2053-47d3-99da-14a4eda88473.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/70cbf827-2053-47d3-99da-14a4eda88473.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/70cbf827-2053-47d3-99da-14a4eda88473.jpg",
+          "rel_id": 648406
+        },
+        {
+          "id": 15871465,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/d254a726-ba47-4bd6-8b53-125b5c22d2d0.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/d254a726-ba47-4bd6-8b53-125b5c22d2d0.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/d254a726-ba47-4bd6-8b53-125b5c22d2d0.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/d254a726-ba47-4bd6-8b53-125b5c22d2d0.jpg",
+          "rel_id": 648406
+        },
+        {
+          "id": 15871463,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/49304d08-763e-4fb5-8bea-45ac128c629d.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/49304d08-763e-4fb5-8bea-45ac128c629d.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/49304d08-763e-4fb5-8bea-45ac128c629d.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/49304d08-763e-4fb5-8bea-45ac128c629d.jpg",
+          "rel_id": 648406
+        },
+        {
+          "id": 15871462,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/e3edf69a-40d8-4a7d-988b-c8809f2edc07.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/e3edf69a-40d8-4a7d-988b-c8809f2edc07.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/e3edf69a-40d8-4a7d-988b-c8809f2edc07.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/e3edf69a-40d8-4a7d-988b-c8809f2edc07.jpg",
+          "rel_id": 648406
+        },
+        {
+          "id": 15871461,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/dcd73547-7119-4eea-a625-e62b3c2150d2.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/dcd73547-7119-4eea-a625-e62b3c2150d2.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/dcd73547-7119-4eea-a625-e62b3c2150d2.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/dcd73547-7119-4eea-a625-e62b3c2150d2.jpg",
+          "rel_id": 648406
+        },
+        {
+          "id": 15871464,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/164931d3-3856-42e7-ae41-51ca7a6f417c.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/164931d3-3856-42e7-ae41-51ca7a6f417c.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/164931d3-3856-42e7-ae41-51ca7a6f417c.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/164931d3-3856-42e7-ae41-51ca7a6f417c.jpg",
+          "rel_id": 648406
+        },
+        {
+          "id": 15923351,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/a2cbc3c1-51aa-4f71-91e6-7eea13cb3fac.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/a2cbc3c1-51aa-4f71-91e6-7eea13cb3fac.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/a2cbc3c1-51aa-4f71-91e6-7eea13cb3fac.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/a2cbc3c1-51aa-4f71-91e6-7eea13cb3fac.jpg",
+          "rel_id": 648406
+        },
+        {
+          "id": 15923350,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/46db80d5-e3eb-4713-b36a-f1600698ad2a.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/46db80d5-e3eb-4713-b36a-f1600698ad2a.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/46db80d5-e3eb-4713-b36a-f1600698ad2a.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/46db80d5-e3eb-4713-b36a-f1600698ad2a.jpg",
+          "rel_id": 648406
+        },
+        {
+          "id": 15923352,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/a05d3e44-7431-4c36-b051-05ab11504bcc.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/a05d3e44-7431-4c36-b051-05ab11504bcc.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/a05d3e44-7431-4c36-b051-05ab11504bcc.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/a05d3e44-7431-4c36-b051-05ab11504bcc.jpg",
+          "rel_id": 648406
+        }
+      ],
+      "katastrinumber": [
+        {
+          "id": 671768,
+          "katastrinumber": null,
+          "pindala": null
+        }
+      ],
+      "user": {
+        "id": 2754004,
+        "full_name": "Karl KarlM",
+        "role": "tavakasutaja",
+        "image": "https:\/\/s1.kv24.ee\/uploads\/users\/b3f37999-4a26-4e10-add7-8fbd6c0b0d80.jpg",
+        "public_email": "karl.malken@gmail.com",
+        "public_work_phone": null,
+        "public_personal_phone": "55698099",
+        "broker_profile_url": null,
+        "bureau_name": null
+      },
+      "slogan": "&Uuml;&uuml;rile anda korter Kalamajas",
+      "lisainfo": "<p>\u00dc\u00fcrile anda 2-toaline korter Noole t\u00e4naval.<\/p><p><br><\/p><p>Asub esimesel korrusel vanas puitmajas, m\u00f6bleeritud.<\/p><p>K\u00fctta saab ahju ja \u00f5hksoojuspumbaga.<\/p><p><br><\/p><p>Paari minutilise jalutusk\u00e4igu kaugusel kohvikud, Lennusadam, Noblessneri sadam, meri, Kalamajapark jne.<\/p><p><br><\/p><p>Korteri aknad t\u00e4nava poole ning parkida saab t\u00e4naval tasuta.<\/p><p><br><\/p><p>Hind 375.-eur + tagatisraha 400.-eur.<\/p><p>Lisanduvad kommunaalkulud.<\/p><p><br><\/p><p>Ei luba enda kuulutust kopeerida<\/p><p><br><\/p><p>Maakleritel palun mitte t\u00fclitada.<\/p>",
+      "video_url": null,
+      "intended_uses": [],
+      "floor": 1,
+      "floors": null,
+      "rooms": 2,
+      "area": "48.00",
+      "labels": [],
+      "active_client_day_string": "",
+      "disabled_text": null
+    },
+    {
+      "id": 741431,
+      "objekti_tyyp_id": 1,
+      "tehingu_tyyp_id": 3,
+      "hind": 280,
+      "created_at": "2023-11-15T14:39:23.000000Z",
+      "naita_majanumbrit": 1,
+      "bargainprice": null,
+      "show_A6_location": 1,
+      "bureau_name": "AFALINA KINNISVARA O\u00dc",
+      "user_full_name": "FARHAD J\u00e4nes",
+      "sort_order": 99,
+      "sort_days": 0,
+      "distance_class": null,
+      "price_per_m2": 12.17,
+      "permalink": "https:\/\/kinnisvara24.ee\/korter-yyr-tallinn\/240741431",
+      "is_favorite": false,
+      "address": {
+        "id": 741323,
+        "address": "Harju maakond, Tallinn, P\u00f5hja-Tallinna linnaosa, Kopli tn 13a",
+        "orig_tunnus": "EE00640833",
+        "A1": "Harju maakond",
+        "A2": "Tallinn",
+        "A3": "P\u00f5hja-Tallinna linnaosa",
+        "A4": "Kalamaja",
+        "A5": "Kopli tn",
+        "A6": null,
+        "A7": "13a",
+        "A8": null,
+        "coordinates_lat": 59.442687,
+        "coordinates_lng": 24.725147,
+        "short_address": "Kopli tn 13a, Kalamaja, P\u00f5hja-Tallinn",
+        "city_country": "Tallinn, Harju maakond"
+      },
+      "images": [
+        {
+          "id": 18320795,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/e5358e5c-fc6a-4267-8512-f6e00ca3da92.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/e5358e5c-fc6a-4267-8512-f6e00ca3da92.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/e5358e5c-fc6a-4267-8512-f6e00ca3da92.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/e5358e5c-fc6a-4267-8512-f6e00ca3da92.jpg",
+          "rel_id": 741431
+        },
+        {
+          "id": 18320796,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/440362d8-37f0-4cb1-a582-f35d1623e9b5.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/440362d8-37f0-4cb1-a582-f35d1623e9b5.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/440362d8-37f0-4cb1-a582-f35d1623e9b5.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/440362d8-37f0-4cb1-a582-f35d1623e9b5.jpg",
+          "rel_id": 741431
+        },
+        {
+          "id": 18320797,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/bec64350-d873-4240-a408-f69781e91308.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/bec64350-d873-4240-a408-f69781e91308.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/bec64350-d873-4240-a408-f69781e91308.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/bec64350-d873-4240-a408-f69781e91308.jpg",
+          "rel_id": 741431
+        }
+      ],
+      "katastrinumber": [
+        {
+          "id": 765027,
+          "katastrinumber": "78408:801:5060",
+          "pindala": null
+        }
+      ],
+      "user": {
+        "id": 893823,
+        "full_name": "FARHAD J\u00e4nes",
+        "role": "buroohaldur",
+        "image": null,
+        "public_email": "afalina@online.ee",
+        "public_work_phone": "55 28 989",
+        "public_personal_phone": "55 28989",
+        "broker_profile_url": "https:\/\/kinnisvara24.ee\/maakler\/otsing\/893823-farhad-janes",
+        "bureau_name": "AFALINA KINNISVARA O\u00dc"
+      },
+      "slogan": "korter on vaba",
+      "lisainfo": "<p>hea asukoht<\/p>",
+      "video_url": null,
+      "intended_uses": [],
+      "floor": 2,
+      "floors": null,
+      "rooms": 1,
+      "area": "23.00",
+      "labels": [],
+      "active_client_day_string": "",
+      "disabled_text": null
+    },
+    {
+      "id": 460109,
+      "objekti_tyyp_id": 1,
+      "tehingu_tyyp_id": 3,
+      "hind": 200,
+      "created_at": "2021-06-03T09:11:33.000000Z",
+      "naita_majanumbrit": 0,
+      "bargainprice": null,
+      "show_A6_location": 1,
+      "bureau_name": "Spiritmedia O\u00dc",
+      "user_full_name": "Viktoria Kiritsenko",
+      "sort_order": 99,
+      "sort_days": 0,
+      "distance_class": null,
+      "price_per_m2": 11.11,
+      "permalink": "https:\/\/kinnisvara24.ee\/korter-yyr-tallinn\/240460109",
+      "is_favorite": false,
+      "address": {
+        "id": 460036,
+        "address": "Harju maakond, Tallinn, P\u00f5hja-Tallinna linnaosa, Uus-Kalamaja tn 1",
+        "orig_tunnus": "EE00647480",
+        "A1": "Harju maakond",
+        "A2": "Tallinn",
+        "A3": "P\u00f5hja-Tallinna linnaosa",
+        "A4": "Kalamaja",
+        "A5": "Uus-Kalamaja tn",
+        "A6": null,
+        "A7": "1",
+        "A8": null,
+        "coordinates_lat": 59.4471647782499,
+        "coordinates_lng": 24.7351491651052,
+        "short_address": "Uus-Kalamaja tn, Kalamaja, P\u00f5hja-Tallinn",
+        "city_country": "Tallinn, Harju maakond"
+      },
+      "images": [
+        {
+          "id": 13684269,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/f5523f5c-76c6-4379-ac64-5aa461848dd8.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/f5523f5c-76c6-4379-ac64-5aa461848dd8.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/f5523f5c-76c6-4379-ac64-5aa461848dd8.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/f5523f5c-76c6-4379-ac64-5aa461848dd8.jpg",
+          "rel_id": 460109
+        },
+        {
+          "id": 13684240,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/3d3908b9-ac01-4151-a9aa-7a698ec8f92b.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/3d3908b9-ac01-4151-a9aa-7a698ec8f92b.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/3d3908b9-ac01-4151-a9aa-7a698ec8f92b.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/3d3908b9-ac01-4151-a9aa-7a698ec8f92b.jpg",
+          "rel_id": 460109
+        },
+        {
+          "id": 13684259,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/74b3a7db-9455-4e44-aa31-66d1a812a5a6.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/74b3a7db-9455-4e44-aa31-66d1a812a5a6.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/74b3a7db-9455-4e44-aa31-66d1a812a5a6.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/74b3a7db-9455-4e44-aa31-66d1a812a5a6.jpg",
+          "rel_id": 460109
+        },
+        {
+          "id": 13684252,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/4c31386a-1f27-4547-b503-de7fc4fa2736.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/4c31386a-1f27-4547-b503-de7fc4fa2736.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/4c31386a-1f27-4547-b503-de7fc4fa2736.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/4c31386a-1f27-4547-b503-de7fc4fa2736.jpg",
+          "rel_id": 460109
+        },
+        {
+          "id": 13684360,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/c4ec8931-8061-43e7-b1a6-0d099e627046.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/c4ec8931-8061-43e7-b1a6-0d099e627046.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/c4ec8931-8061-43e7-b1a6-0d099e627046.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/c4ec8931-8061-43e7-b1a6-0d099e627046.jpg",
+          "rel_id": 460109
+        },
+        {
+          "id": 13684248,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/b6d45285-4ffe-4f26-9e94-a9c9434138cf.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/b6d45285-4ffe-4f26-9e94-a9c9434138cf.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/b6d45285-4ffe-4f26-9e94-a9c9434138cf.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/b6d45285-4ffe-4f26-9e94-a9c9434138cf.jpg",
+          "rel_id": 460109
+        },
+        {
+          "id": 13684239,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/a8ae703f-b31a-4883-a17d-95bbbc7bd868.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/a8ae703f-b31a-4883-a17d-95bbbc7bd868.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/a8ae703f-b31a-4883-a17d-95bbbc7bd868.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/a8ae703f-b31a-4883-a17d-95bbbc7bd868.jpg",
+          "rel_id": 460109
+        },
+        {
+          "id": 13684244,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/3517b90b-e6bf-42c3-bbc2-44c32de55ca6.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/3517b90b-e6bf-42c3-bbc2-44c32de55ca6.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/3517b90b-e6bf-42c3-bbc2-44c32de55ca6.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/3517b90b-e6bf-42c3-bbc2-44c32de55ca6.jpg",
+          "rel_id": 460109
+        },
+        {
+          "id": 13683989,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/e7b15cce-6137-446a-aee7-cbdff9959864.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/e7b15cce-6137-446a-aee7-cbdff9959864.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/e7b15cce-6137-446a-aee7-cbdff9959864.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/e7b15cce-6137-446a-aee7-cbdff9959864.jpg",
+          "rel_id": 460109
+        },
+        {
+          "id": 13683992,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/8bd6b934-96a9-4753-b336-7be1d85cf454.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/8bd6b934-96a9-4753-b336-7be1d85cf454.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/8bd6b934-96a9-4753-b336-7be1d85cf454.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/8bd6b934-96a9-4753-b336-7be1d85cf454.jpg",
+          "rel_id": 460109
+        },
+        {
+          "id": 13684262,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/8c98d7c7-dfe3-46d2-b969-ab87b4eaa917.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/8c98d7c7-dfe3-46d2-b969-ab87b4eaa917.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/8c98d7c7-dfe3-46d2-b969-ab87b4eaa917.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/8c98d7c7-dfe3-46d2-b969-ab87b4eaa917.jpg",
+          "rel_id": 460109
+        },
+        {
+          "id": 13683991,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/3df03a2b-956d-4354-aa3e-dc7ec70cb349.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/3df03a2b-956d-4354-aa3e-dc7ec70cb349.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/3df03a2b-956d-4354-aa3e-dc7ec70cb349.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/3df03a2b-956d-4354-aa3e-dc7ec70cb349.jpg",
+          "rel_id": 460109
+        },
+        {
+          "id": 13684365,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/cb41f0a2-d1bc-4ddb-b6b3-b0141da36552.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/cb41f0a2-d1bc-4ddb-b6b3-b0141da36552.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/cb41f0a2-d1bc-4ddb-b6b3-b0141da36552.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/cb41f0a2-d1bc-4ddb-b6b3-b0141da36552.jpg",
+          "rel_id": 460109
+        },
+        {
+          "id": 13684361,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/a1e903c6-8916-4a9c-b2e9-a0e6f8d5f250.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/a1e903c6-8916-4a9c-b2e9-a0e6f8d5f250.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/a1e903c6-8916-4a9c-b2e9-a0e6f8d5f250.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/a1e903c6-8916-4a9c-b2e9-a0e6f8d5f250.jpg",
+          "rel_id": 460109
+        },
+        {
+          "id": 13684249,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/c7680f99-0748-43f0-ae1e-aeae9ab944a3.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/c7680f99-0748-43f0-ae1e-aeae9ab944a3.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/c7680f99-0748-43f0-ae1e-aeae9ab944a3.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/c7680f99-0748-43f0-ae1e-aeae9ab944a3.jpg",
+          "rel_id": 460109
+        },
+        {
+          "id": 13684264,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/838c80b7-6c96-44cd-9098-ee50d1b6d6ea.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/838c80b7-6c96-44cd-9098-ee50d1b6d6ea.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/838c80b7-6c96-44cd-9098-ee50d1b6d6ea.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/838c80b7-6c96-44cd-9098-ee50d1b6d6ea.jpg",
+          "rel_id": 460109
+        },
+        {
+          "id": 13684267,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/6b3be5eb-0ef7-4951-8e07-953d578cb36f.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/6b3be5eb-0ef7-4951-8e07-953d578cb36f.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/6b3be5eb-0ef7-4951-8e07-953d578cb36f.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/6b3be5eb-0ef7-4951-8e07-953d578cb36f.jpg",
+          "rel_id": 460109
+        },
+        {
+          "id": 13684257,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/29a7bfea-5258-439f-ba33-be959e6499db.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/29a7bfea-5258-439f-ba33-be959e6499db.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/29a7bfea-5258-439f-ba33-be959e6499db.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/29a7bfea-5258-439f-ba33-be959e6499db.jpg",
+          "rel_id": 460109
+        },
+        {
+          "id": 13684265,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/fb3721a4-fd63-41d6-b837-85f7db142a88.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/fb3721a4-fd63-41d6-b837-85f7db142a88.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/fb3721a4-fd63-41d6-b837-85f7db142a88.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/fb3721a4-fd63-41d6-b837-85f7db142a88.jpg",
+          "rel_id": 460109
+        },
+        {
+          "id": 13684255,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/46792e05-e6c6-48d9-afe9-88b8304631d1.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/46792e05-e6c6-48d9-afe9-88b8304631d1.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/46792e05-e6c6-48d9-afe9-88b8304631d1.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/46792e05-e6c6-48d9-afe9-88b8304631d1.jpg",
+          "rel_id": 460109
+        },
+        {
+          "id": 13684260,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/f87bf973-3cdf-4239-a8ba-eef4b4d0d467.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/f87bf973-3cdf-4239-a8ba-eef4b4d0d467.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/f87bf973-3cdf-4239-a8ba-eef4b4d0d467.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/f87bf973-3cdf-4239-a8ba-eef4b4d0d467.jpg",
+          "rel_id": 460109
+        },
+        {
+          "id": 13684263,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/d6e7a671-b4d2-49d5-9594-2ed473bf9569.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/d6e7a671-b4d2-49d5-9594-2ed473bf9569.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/d6e7a671-b4d2-49d5-9594-2ed473bf9569.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/d6e7a671-b4d2-49d5-9594-2ed473bf9569.jpg",
+          "rel_id": 460109
+        },
+        {
+          "id": 13684245,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/e2afcf7b-dd63-4d09-9841-624585581446.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/e2afcf7b-dd63-4d09-9841-624585581446.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/e2afcf7b-dd63-4d09-9841-624585581446.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/e2afcf7b-dd63-4d09-9841-624585581446.jpg",
+          "rel_id": 460109
+        },
+        {
+          "id": 13684242,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/36e8dd15-7a23-4021-b343-1732f57487bb.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/36e8dd15-7a23-4021-b343-1732f57487bb.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/36e8dd15-7a23-4021-b343-1732f57487bb.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/36e8dd15-7a23-4021-b343-1732f57487bb.jpg",
+          "rel_id": 460109
+        },
+        {
+          "id": 13683988,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/2c46e4a2-2daf-4fa0-ab23-751550eda493.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/2c46e4a2-2daf-4fa0-ab23-751550eda493.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/2c46e4a2-2daf-4fa0-ab23-751550eda493.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/2c46e4a2-2daf-4fa0-ab23-751550eda493.jpg",
+          "rel_id": 460109
+        },
+        {
+          "id": 13684241,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/8e6a5bf9-82f5-49fe-b697-24ac050d6d81.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/8e6a5bf9-82f5-49fe-b697-24ac050d6d81.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/8e6a5bf9-82f5-49fe-b697-24ac050d6d81.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/8e6a5bf9-82f5-49fe-b697-24ac050d6d81.jpg",
+          "rel_id": 460109
+        },
+        {
+          "id": 13684364,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/fa80253f-5b9f-4e27-8f9b-b001ab84d470.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/fa80253f-5b9f-4e27-8f9b-b001ab84d470.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/fa80253f-5b9f-4e27-8f9b-b001ab84d470.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/fa80253f-5b9f-4e27-8f9b-b001ab84d470.jpg",
+          "rel_id": 460109
+        },
+        {
+          "id": 13684246,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/fc479c32-b95c-4f0c-acf5-eff0daf13a36.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/fc479c32-b95c-4f0c-acf5-eff0daf13a36.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/fc479c32-b95c-4f0c-acf5-eff0daf13a36.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/fc479c32-b95c-4f0c-acf5-eff0daf13a36.jpg",
+          "rel_id": 460109
+        },
+        {
+          "id": 13684254,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/e5b98500-3238-4f6e-bbc4-3e427eaee459.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/e5b98500-3238-4f6e-bbc4-3e427eaee459.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/e5b98500-3238-4f6e-bbc4-3e427eaee459.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/e5b98500-3238-4f6e-bbc4-3e427eaee459.jpg",
+          "rel_id": 460109
+        },
+        {
+          "id": 13683980,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/e134b389-694c-49e3-9042-4b5b7bb008ae.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/e134b389-694c-49e3-9042-4b5b7bb008ae.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/e134b389-694c-49e3-9042-4b5b7bb008ae.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/e134b389-694c-49e3-9042-4b5b7bb008ae.jpg",
+          "rel_id": 460109
+        },
+        {
+          "id": 13684237,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/ece6b945-1170-4617-8768-ab718d399690.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/ece6b945-1170-4617-8768-ab718d399690.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/ece6b945-1170-4617-8768-ab718d399690.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/ece6b945-1170-4617-8768-ab718d399690.jpg",
+          "rel_id": 460109
+        },
+        {
+          "id": 13684258,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/108120b0-f9b3-46b0-9fb6-e6cbccf8915e.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/108120b0-f9b3-46b0-9fb6-e6cbccf8915e.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/108120b0-f9b3-46b0-9fb6-e6cbccf8915e.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/108120b0-f9b3-46b0-9fb6-e6cbccf8915e.jpg",
+          "rel_id": 460109
+        },
+        {
+          "id": 13683986,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/6205a200-b164-4ca6-8e4a-fb947161b2aa.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/6205a200-b164-4ca6-8e4a-fb947161b2aa.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/6205a200-b164-4ca6-8e4a-fb947161b2aa.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/6205a200-b164-4ca6-8e4a-fb947161b2aa.jpg",
+          "rel_id": 460109
+        },
+        {
+          "id": 13684266,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/ad17e4dc-9dd9-44f6-8476-b5a001398737.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/ad17e4dc-9dd9-44f6-8476-b5a001398737.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/ad17e4dc-9dd9-44f6-8476-b5a001398737.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/ad17e4dc-9dd9-44f6-8476-b5a001398737.jpg",
+          "rel_id": 460109
+        },
+        {
+          "id": 13684261,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/4bb98144-4070-4751-ad80-24b43888206f.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/4bb98144-4070-4751-ad80-24b43888206f.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/4bb98144-4070-4751-ad80-24b43888206f.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/4bb98144-4070-4751-ad80-24b43888206f.jpg",
+          "rel_id": 460109
+        },
+        {
+          "id": 13684251,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/955c4b2a-2f40-4c50-a869-158ed73b6427.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/955c4b2a-2f40-4c50-a869-158ed73b6427.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/955c4b2a-2f40-4c50-a869-158ed73b6427.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/955c4b2a-2f40-4c50-a869-158ed73b6427.jpg",
+          "rel_id": 460109
+        },
+        {
+          "id": 13684243,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/40269324-3ad3-4101-a40a-d01a6e4eb528.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/40269324-3ad3-4101-a40a-d01a6e4eb528.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/40269324-3ad3-4101-a40a-d01a6e4eb528.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/40269324-3ad3-4101-a40a-d01a6e4eb528.jpg",
+          "rel_id": 460109
+        },
+        {
+          "id": 13684268,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/460f4c1e-3176-4ad4-a3c8-f3d27b2e274d.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/460f4c1e-3176-4ad4-a3c8-f3d27b2e274d.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/460f4c1e-3176-4ad4-a3c8-f3d27b2e274d.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/460f4c1e-3176-4ad4-a3c8-f3d27b2e274d.jpg",
+          "rel_id": 460109
+        },
+        {
+          "id": 13684250,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/beaa72a0-9eb1-4df2-ad9d-87f372d03f62.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/beaa72a0-9eb1-4df2-ad9d-87f372d03f62.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/beaa72a0-9eb1-4df2-ad9d-87f372d03f62.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/beaa72a0-9eb1-4df2-ad9d-87f372d03f62.jpg",
+          "rel_id": 460109
+        },
+        {
+          "id": 13684238,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/2aa0b084-7efd-44f7-ade4-15332e0aabf6.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/2aa0b084-7efd-44f7-ade4-15332e0aabf6.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/2aa0b084-7efd-44f7-ade4-15332e0aabf6.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/2aa0b084-7efd-44f7-ade4-15332e0aabf6.jpg",
+          "rel_id": 460109
+        },
+        {
+          "id": 13684247,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/171042ab-af1c-43bd-afc5-ef860c1234b0.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/171042ab-af1c-43bd-afc5-ef860c1234b0.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/171042ab-af1c-43bd-afc5-ef860c1234b0.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/171042ab-af1c-43bd-afc5-ef860c1234b0.jpg",
+          "rel_id": 460109
+        },
+        {
+          "id": 13683982,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/aeffb5ff-860c-4948-b01b-1c33d0b1be4f.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/aeffb5ff-860c-4948-b01b-1c33d0b1be4f.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/aeffb5ff-860c-4948-b01b-1c33d0b1be4f.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/aeffb5ff-860c-4948-b01b-1c33d0b1be4f.jpg",
+          "rel_id": 460109
+        },
+        {
+          "id": 13684270,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/76fb554b-dd4a-4c95-bd00-ff6cf2f09453.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/76fb554b-dd4a-4c95-bd00-ff6cf2f09453.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/76fb554b-dd4a-4c95-bd00-ff6cf2f09453.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/76fb554b-dd4a-4c95-bd00-ff6cf2f09453.jpg",
+          "rel_id": 460109
+        },
+        {
+          "id": 13684271,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/7442a76d-c41f-447b-b4f1-2c5ff7b948bf.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/7442a76d-c41f-447b-b4f1-2c5ff7b948bf.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/7442a76d-c41f-447b-b4f1-2c5ff7b948bf.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/7442a76d-c41f-447b-b4f1-2c5ff7b948bf.jpg",
+          "rel_id": 460109
+        }
+      ],
+      "katastrinumber": [
+        {
+          "id": 482982,
+          "katastrinumber": "78408:801:4500",
+          "pindala": null
+        }
+      ],
+      "user": {
+        "id": 2746786,
+        "full_name": "Viktoria Kiritsenko",
+        "role": "buroohaldur",
+        "image": null,
+        "public_email": "andrei@gabriel.ee",
+        "public_work_phone": null,
+        "public_personal_phone": "56661283",
+        "broker_profile_url": "https:\/\/kinnisvara24.ee\/maakler\/otsing\/2746786-viktoria-kiritsenko",
+        "bureau_name": "Spiritmedia O\u00dc"
+      },
+      "slogan": "M&ouml;bleeritud toad 6,25 euro\/ &ouml;&ouml;p&auml;ev*, TALLINN.",
+      "lisainfo": "<p>NB!! HELISTADA PALUN KELLA 10:00 - 19:00!<\/p><p><br><\/p><p>PIKAAJALINE v\u00f5i L\u00dcHIAJALINE TUBADE \u00dc\u00dcR.<\/p><p><br><\/p><p>OTSE OMANIKULT<\/p><p><br><\/p><p>KOMMUNAALID ON JUBA HINNAS!<\/p><p><br><\/p><p>Vajadusel esitame arve ettev\u00f5ttele. \u00dc\u00fcrnikule v\u00f5ime teha elukoha registreerimist oma aadressil.<\/p><p><br><\/p><p>KUUKS AJAKS \u00dc\u00dcRI PAKKUMINE:<\/p><p><br><\/p><p>TEENUSTETA:<\/p><p>250 euro\/kuu (30 \u00f6\u00f6p\u00e4eva), voodikoht kahekohalises toas!! UUS PAKKUMINE!!!<\/p><p>200 euro\/kuu (30 \u00f6\u00f6p\u00e4eva), voodikoht kolmekohalises toas!! UUS PAKKUMINE!!!<\/p><p><br><\/p><p>350 euro\/kuu (30 \u00f6\u00f6p\u00e4eva), \u00fchekohaline tuba<\/p><p>400 euro\/kuu (30 \u00f6\u00f6p\u00e4eva), kahekohaline tuba<\/p><p>450 euro\/kuu (30 \u00f6\u00f6p\u00e4eva), kolmekohaline tuba<\/p><p><br><\/p><p>Tingimus: Oma voodipesu, koristus kliendi poolt (lisa info saamiseks v\u00f5tke \u00fchendus)<\/p><p><br><\/p><p>*Minimaalne tellimus selle hinnaga 30 \u00f6\u00f6p\u00e4eva j\u00e4rjest.<\/p><p><br><\/p><p>Hind sisaldab \u00fc\u00fcritasu, kommunaalid ja KM 20%.<\/p><p><br><\/p><p>Lisa kulud: tagatisraha 200 euro (tagastatav).<\/p><p><br><\/p><p>Igas toas on tv, k\u00fclmkapp, m\u00f6\u00f6bel.<\/p><p><br><\/p><p>Dush ja tualet on kahe toa peale.<\/p><p><br><\/p><p>KUUKS AJAKS \u00dc\u00dcRI PAKKUMINE:<\/p><p><br><\/p><p>TEENUSTEGA:<\/p><p><br><\/p><p>450euro\/kuu (30 \u00f6\u00f6p\u00e4eva), \u00fchekohaline tuba<\/p><p><br><\/p><p>500 euro\/kuu (30 \u00f6\u00f6p\u00e4eva), kahene tuba<\/p><p><br><\/p><p>550 euro\/kuu (30 \u00f6\u00f6p\u00e4eva), kolmene tuba<\/p><p><br><\/p><p>600 euro\/kuu (30 \u00f6\u00f6p\u00e4eva) tuba 4-le in.<\/p><p><br><\/p><p>700 euro\/kuu (30 \u00f6\u00f6p\u00e4eva) tuba 5-le in.<\/p><p><br><\/p><p>800 euro\/kuu (30 \u00f6\u00f6p\u00e4eva) tuba 6-le in.<\/p><p><br><\/p><p>*Minimaalne tellimus selle hinnaga 30 \u00f6\u00f6p\u00e4eva j\u00e4rjest.<\/p><p><br><\/p><p>Hind sisaldab \u00fc\u00fcritasu, kommunaalid ja KM 20%, voodipesu_ voodipesu vahetus, toa koristus.<\/p><p><br><\/p><p>*tagatisraha on 100 euro.<\/p><p><br><\/p><p>igas toas on tv, k\u00fclmkapp, m\u00f6\u00f6bel, voodipesu, k\u00e4ter\u00e4tik.<\/p><p><br><\/p><p>Dush ja tualet on kahe toa peale.<\/p><p><br><\/p><p>Anda \u00fc\u00fcrile otse omanikult privaatsed m\u00f6bleeritud Toad Maardus, 10 km Tallinnast. Asume vaikses elurajoonis Maardu Linnavalitsuse hoone l\u00e4hedal.<\/p><p><br><\/p><p>MAJA VARUSTUS:<\/p><p><br><\/p><p>+ TASUTA WIFI (traadita interneti signaal \u00fchisterritooriumil).<\/p><p><br><\/p><p>+ \u00dcHISK\u00d6\u00d6GID 2tk s\u00f6\u00f6gitoa, tehnika ning k\u00f5ike tarvikutega hoone 1. ja 2. korrusel.(TASUTA)<\/p><p><br><\/p><p>+ TASUTA PESUMAJARUUM pesumasinatega, kus saab pesta ja kuivatada oma pesu.<\/p><p><br><\/p><p>+ Suur ja mugav diivanitega PUHKETUBA.<\/p><p><br><\/p><p>+ Eraldatud SUITSURUUM hoone 1.korrusel.<\/p><p><br><\/p><p>+ TUNNISAUN (lisatasu eest)<\/p><p><br><\/p><p>+ TASUTA PARKLA hoone ees.<\/p><p><br><\/p><p>+ VIDEOVALVE territooriumil kui ka \u00f5ues.<\/p><p><br><\/p><p>+ Supermarket Maxima XX; on 400 m. ja Bussipeatused on 150 m. kaugusel.<\/p><p><br><\/p><p>K\u00f5ik vajalik on l\u00e4hedal!<\/p><p><br><\/p><p>L\u00dcHIAJALINE \u00dc\u00dcRI PERIOOD:<\/p><p><br><\/p><p>25 euro\/\u00f6\u00f6 - \u00fchekohaline tuba<\/p><p><br><\/p><p>30euro\/\u00f6\u00f6 - kahekohaline tuba<\/p><p><br><\/p><p>35 euro\/\u00f6\u00f6 - kolmekohaline tuba<\/p><p><br><\/p><p>40 euro\/\u00f6\u00f6 - tuba 4-le in.<\/p><p><br><\/p><p>50 euro\/\u00f6\u00f6 - tuba 5-le in.<\/p><p><br><\/p><p>60 euro\/\u00f6\u00f6 - tuba 6-le in.<\/p><p><br><\/p><p>TEIE SAATE \u00dc\u00dcRIDA Tuba KAS 1.\u00d6\u00d6P\u00c4EVAKS*, PAARIKS P\u00c4EVAKS*\/ N\u00c4DALAKS* V\u00d5I KUUKS AJAKS!!<\/p><p><br><\/p><p>Mida rohkem \u00f6\u00f6d j\u00e4rjest \u00fc\u00fcrite, seda suurem allahindlus saate!<\/p><p>K\u00fcsi personaalne hinnapakkumine tel. teel v\u00f5i kirjutage: info@gabriel<\/p>",
+      "video_url": null,
+      "intended_uses": [],
+      "floor": 2,
+      "floors": null,
+      "rooms": 1,
+      "area": "18.00",
+      "labels": [],
+      "active_client_day_string": "",
+      "disabled_text": null
+    },
+    {
+      "id": 726402,
+      "objekti_tyyp_id": 1,
+      "tehingu_tyyp_id": 3,
+      "hind": 320,
+      "created_at": "2023-11-14T14:01:33.000000Z",
+      "naita_majanumbrit": 1,
+      "bargainprice": null,
+      "show_A6_location": 1,
+      "bureau_name": null,
+      "user_full_name": "Andres Luide",
+      "sort_order": 99,
+      "sort_days": 0,
+      "distance_class": null,
+      "price_per_m2": 10.32,
+      "permalink": "https:\/\/kinnisvara24.ee\/korter-yyr-tallinn\/240726402",
+      "is_favorite": false,
+      "address": {
+        "id": 726309,
+        "address": "Harju maakond, Tallinn, P\u00f5hja-Tallinna linnaosa, Kopli tn 15",
+        "orig_tunnus": "ER01384974",
+        "A1": "Harju maakond",
+        "A2": "Tallinn",
+        "A3": "P\u00f5hja-Tallinna linnaosa",
+        "A4": "Kalamaja",
+        "A5": "Kopli tn",
+        "A6": null,
+        "A7": "15",
+        "A8": "7",
+        "coordinates_lat": 59.442815,
+        "coordinates_lng": 24.724797,
+        "short_address": "Kopli tn 15, Kalamaja, P\u00f5hja-Tallinn",
+        "city_country": "Tallinn, Harju maakond"
+      },
+      "images": [
+        {
+          "id": 17891544,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/6b11f7cc-f070-4bfd-97ca-d48915f9f7b4.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/6b11f7cc-f070-4bfd-97ca-d48915f9f7b4.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/6b11f7cc-f070-4bfd-97ca-d48915f9f7b4.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/6b11f7cc-f070-4bfd-97ca-d48915f9f7b4.jpg",
+          "rel_id": 726402
+        },
+        {
+          "id": 17891545,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/878c5e88-7c25-4da0-8ada-4af6ec540b08.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/878c5e88-7c25-4da0-8ada-4af6ec540b08.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/878c5e88-7c25-4da0-8ada-4af6ec540b08.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/878c5e88-7c25-4da0-8ada-4af6ec540b08.jpg",
+          "rel_id": 726402
+        },
+        {
+          "id": 17891549,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/b9da1b52-675d-40e6-a5c9-dc8ca66c68c2.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/b9da1b52-675d-40e6-a5c9-dc8ca66c68c2.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/b9da1b52-675d-40e6-a5c9-dc8ca66c68c2.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/b9da1b52-675d-40e6-a5c9-dc8ca66c68c2.jpg",
+          "rel_id": 726402
+        },
+        {
+          "id": 17891547,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/52025984-24dc-4f0b-a859-d49e2e28297e.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/52025984-24dc-4f0b-a859-d49e2e28297e.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/52025984-24dc-4f0b-a859-d49e2e28297e.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/52025984-24dc-4f0b-a859-d49e2e28297e.jpg",
+          "rel_id": 726402
+        },
+        {
+          "id": 17891548,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/bf61b733-40df-4c5a-88b4-82392b2985ae.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/bf61b733-40df-4c5a-88b4-82392b2985ae.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/bf61b733-40df-4c5a-88b4-82392b2985ae.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/bf61b733-40df-4c5a-88b4-82392b2985ae.jpg",
+          "rel_id": 726402
+        },
+        {
+          "id": 17891551,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/8bfe3bb7-03ea-4b29-9d70-a67fe12631ae.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/8bfe3bb7-03ea-4b29-9d70-a67fe12631ae.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/8bfe3bb7-03ea-4b29-9d70-a67fe12631ae.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/8bfe3bb7-03ea-4b29-9d70-a67fe12631ae.jpg",
+          "rel_id": 726402
+        },
+        {
+          "id": 18321901,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/1c02f3af-fffe-43df-9055-3a5e0f812ab0.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/1c02f3af-fffe-43df-9055-3a5e0f812ab0.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/1c02f3af-fffe-43df-9055-3a5e0f812ab0.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/1c02f3af-fffe-43df-9055-3a5e0f812ab0.jpg",
+          "rel_id": 726402
+        },
+        {
+          "id": 17891552,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/b64d1307-4d3c-43c0-b984-da3be07b41d4.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/b64d1307-4d3c-43c0-b984-da3be07b41d4.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/b64d1307-4d3c-43c0-b984-da3be07b41d4.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/b64d1307-4d3c-43c0-b984-da3be07b41d4.jpg",
+          "rel_id": 726402
+        },
+        {
+          "id": 17891553,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/a7ef61a0-e3bb-4040-98a3-0d2adab28c98.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/a7ef61a0-e3bb-4040-98a3-0d2adab28c98.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/a7ef61a0-e3bb-4040-98a3-0d2adab28c98.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/a7ef61a0-e3bb-4040-98a3-0d2adab28c98.jpg",
+          "rel_id": 726402
+        },
+        {
+          "id": 17891554,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/a871b50b-62f2-4539-af0a-e1ab4629c644.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/a871b50b-62f2-4539-af0a-e1ab4629c644.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/a871b50b-62f2-4539-af0a-e1ab4629c644.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/a871b50b-62f2-4539-af0a-e1ab4629c644.jpg",
+          "rel_id": 726402
+        },
+        {
+          "id": 17971990,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/6b5bf9f9-31f6-4370-8da6-7afd4553d1ad.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/6b5bf9f9-31f6-4370-8da6-7afd4553d1ad.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/6b5bf9f9-31f6-4370-8da6-7afd4553d1ad.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/6b5bf9f9-31f6-4370-8da6-7afd4553d1ad.jpg",
+          "rel_id": 726402
+        },
+        {
+          "id": 17891555,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/f1eb67e1-7d2d-4265-be46-fca3aa671e5d.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/f1eb67e1-7d2d-4265-be46-fca3aa671e5d.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/f1eb67e1-7d2d-4265-be46-fca3aa671e5d.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/f1eb67e1-7d2d-4265-be46-fca3aa671e5d.jpg",
+          "rel_id": 726402
+        },
+        {
+          "id": 17971991,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/a63a7583-1e61-4167-9438-48eef9c2b913.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/a63a7583-1e61-4167-9438-48eef9c2b913.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/a63a7583-1e61-4167-9438-48eef9c2b913.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/a63a7583-1e61-4167-9438-48eef9c2b913.jpg",
+          "rel_id": 726402
+        }
+      ],
+      "katastrinumber": [
+        {
+          "id": 749995,
+          "katastrinumber": "78408:801:5970",
+          "pindala": null
+        }
+      ],
+      "user": {
+        "id": 2760657,
+        "full_name": "Andres Luide",
+        "role": "tavakasutaja",
+        "image": "https:\/\/s1.kv24.ee\/uploads\/users\/9acde864-8f68-4a51-bd30-9b839db87245.jpg",
+        "public_email": "andresluide@hot.ee",
+        "public_work_phone": null,
+        "public_personal_phone": "55665151",
+        "broker_profile_url": null,
+        "bureau_name": null
+      },
+      "slogan": "Korter Kalamajas.",
+      "lisainfo": "<p>\u00dc\u00fcrida 31m2. korter Kalamajas madalad komm kulud.<\/p><p>Korterit on v\u00f5imalik k\u00fctta ahju,gaasi v\u00f5i elektriga.Oodatud on kindla sissetulekuga \u00fc\u00fcrnikud.<\/p><p>.Rahulik koduloom l\u00e4bir\u00e4\u00e4gitav.<\/p><p>V\u00f5imalik \u00fc\u00fcrida pikemaks ajaks.<\/p><p><br><\/p>",
+      "video_url": null,
+      "intended_uses": [],
+      "floor": 2,
+      "floors": null,
+      "rooms": 1,
+      "area": "31.00",
+      "labels": [],
+      "active_client_day_string": "",
+      "disabled_text": null
+    },
+    {
+      "id": 737882,
+      "objekti_tyyp_id": 1,
+      "tehingu_tyyp_id": 3,
+      "hind": 400,
+      "created_at": "2023-10-30T10:10:00.000000Z",
+      "naita_majanumbrit": 1,
+      "bargainprice": null,
+      "show_A6_location": 1,
+      "bureau_name": "Kinnisvarab\u00fcroo UUS MAA O\u00dc",
+      "user_full_name": "Mailis Virak",
+      "sort_order": 99,
+      "sort_days": 0,
+      "distance_class": null,
+      "price_per_m2": 22.22,
+      "permalink": "https:\/\/kinnisvara24.ee\/korter-yyr-tallinn\/240737882",
+      "is_favorite": false,
+      "address": {
+        "id": 737785,
+        "address": null,
+        "orig_tunnus": "ME00642480",
+        "A1": "Harju maakond",
+        "A2": "Tallinn",
+        "A3": "P\u00f5hja-Tallinna linnaosa",
+        "A4": "Kalamaja",
+        "A5": "Kotzebue tn",
+        "A6": "",
+        "A7": "8",
+        "A8": null,
+        "coordinates_lat": 59.442913,
+        "coordinates_lng": 24.741033,
+        "short_address": "Kotzebue tn 8, Kalamaja, P\u00f5hja-Tallinn",
+        "city_country": "Tallinn, Harju maakond"
+      },
+      "images": [
+        {
+          "id": 18224146,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/455bceea-09e4-4e6b-8c8d-a0b124079398.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/455bceea-09e4-4e6b-8c8d-a0b124079398.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/455bceea-09e4-4e6b-8c8d-a0b124079398.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/455bceea-09e4-4e6b-8c8d-a0b124079398.jpg",
+          "rel_id": 737882
+        },
+        {
+          "id": 18224149,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/253512a9-b808-45cd-817f-d158acf41275.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/253512a9-b808-45cd-817f-d158acf41275.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/253512a9-b808-45cd-817f-d158acf41275.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/253512a9-b808-45cd-817f-d158acf41275.jpg",
+          "rel_id": 737882
+        },
+        {
+          "id": 18224152,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/4d92854a-90b7-4e25-868e-e71d59687685.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/4d92854a-90b7-4e25-868e-e71d59687685.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/4d92854a-90b7-4e25-868e-e71d59687685.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/4d92854a-90b7-4e25-868e-e71d59687685.jpg",
+          "rel_id": 737882
+        },
+        {
+          "id": 18224155,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/f60b6913-72e6-4b71-8929-7d818b4ce12c.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/f60b6913-72e6-4b71-8929-7d818b4ce12c.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/f60b6913-72e6-4b71-8929-7d818b4ce12c.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/f60b6913-72e6-4b71-8929-7d818b4ce12c.jpg",
+          "rel_id": 737882
+        },
+        {
+          "id": 18224158,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/7614a2f9-9c2b-494f-96a3-1e12ad9b3e20.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/7614a2f9-9c2b-494f-96a3-1e12ad9b3e20.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/7614a2f9-9c2b-494f-96a3-1e12ad9b3e20.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/7614a2f9-9c2b-494f-96a3-1e12ad9b3e20.jpg",
+          "rel_id": 737882
+        }
+      ],
+      "katastrinumber": [
+        {
+          "id": 761486,
+          "katastrinumber": "78408:801:4630",
+          "pindala": null
+        }
+      ],
+      "user": {
+        "id": 2743107,
+        "full_name": "Mailis Virak",
+        "role": "maakler",
+        "image": "https:\/\/s1.kv24.ee\/uploads\/users\/2fc48c07-c6ae-42d3-a687-fbd25b18f6e7.jpg",
+        "public_email": "mailis.virak@uusmaa.ee",
+        "public_work_phone": "+372 58 244700",
+        "public_personal_phone": "+372 58244700",
+        "broker_profile_url": "https:\/\/kinnisvara24.ee\/maakler\/otsing\/2743107-mailis-virak",
+        "bureau_name": "Kinnisvarab\u00fcroo UUS MAA O\u00dc"
+      },
+      "slogan": null,
+      "lisainfo": "Korter asub kahekordse maja teisel korrusel.<br \/>\nKorter on maitsekalt sisustatud ja valmis kohe sissekolimiseks.<br \/>\nKorteris on olemas k\u00f5ik mugavaks elamiseks vajalik.<br \/>\n<br \/>\n\u00dc\u00fcrnikul on v\u00f5imalus kasutada 1 parkimiskohta kinnises hoovis.<br \/>\nLemmikloomad ei ole lubatud.<br \/>\nSuitsetamine ei ole lubatud.<br \/>\n<br \/>\nKalamaja on tuntud oma boheemlasliku \u00f5hkkonna ja ajaloolise milj\u00f6\u00f6 poolest. Siin leiab arvukalt hubaseid kohvikuid, restorane ja kunstigaleriisid.<br \/>\nKorteri vastas asub Kunstiakadeemia maja. Vanalinn on v\u00e4hem kui 500m kaugusel, Balti jaam v\u00e4hem kui 400m, Telliskivi kvartal 700m.<br \/>\n<br \/>\n\u00dc\u00fcritakse v\u00e4hemalt pooleks aastaks pikendamise v\u00f5imalusega.<br \/>\n<br \/>\n\u00dc\u00fcrihinnale lisanduvad kommunaalkulud.<br \/>\nLepingu s\u00f5lmimisel tuleb arvestada j\u00e4rgmiste kuludega:<br \/>\nesimese kuu \u00fc\u00fcr pluss samas ulatuses tagatisraha ja<br \/>\nvahendustasu \u00fche kuu \u00fc\u00fcrisumma ulatuses+KM.<br \/>\n<br \/>\n",
+      "video_url": null,
+      "intended_uses": [],
+      "floor": 2,
+      "floors": null,
+      "rooms": 1,
+      "area": "18.00",
+      "labels": [],
+      "active_client_day_string": "",
+      "disabled_text": null
+    },
+    {
+      "id": 743355,
+      "objekti_tyyp_id": 1,
+      "tehingu_tyyp_id": 3,
+      "hind": 420,
+      "created_at": "2023-11-24T19:10:32.000000Z",
+      "naita_majanumbrit": 1,
+      "bargainprice": 0,
+      "show_A6_location": 1,
+      "bureau_name": "Raid & Ko",
+      "user_full_name": "Terje Tammistu",
+      "sort_order": 99,
+      "sort_days": 0,
+      "distance_class": null,
+      "price_per_m2": 11.35,
+      "permalink": "https:\/\/kinnisvara24.ee\/korter-yyr-tallinn\/240743355",
+      "is_favorite": false,
+      "address": {
+        "id": 743196,
+        "address": "Kalju 6a, P\u00f5hja-Tallinna linnaosa, Tallinn, Harju maakond",
+        "orig_tunnus": null,
+        "A1": "Harju maakond",
+        "A2": "Tallinn",
+        "A3": "P\u00f5hja-Tallinna linnaosa",
+        "A4": "Kalamaja",
+        "A5": "Kalju tn",
+        "A6": "",
+        "A7": "6a",
+        "A8": "",
+        "coordinates_lat": 59.4460867,
+        "coordinates_lng": 24.7345833,
+        "short_address": "Kalju tn 6a, Kalamaja, P\u00f5hja-Tallinn",
+        "city_country": "Tallinn, Harju maakond"
+      },
+      "images": [
+        {
+          "id": 18367718,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/9012c0e9-d06c-4f62-a788-d85787516be8.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/9012c0e9-d06c-4f62-a788-d85787516be8.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/9012c0e9-d06c-4f62-a788-d85787516be8.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/9012c0e9-d06c-4f62-a788-d85787516be8.jpg",
+          "rel_id": 743355
+        },
+        {
+          "id": 18367719,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/907f8734-fabf-4f23-b917-ec5e636915b6.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/907f8734-fabf-4f23-b917-ec5e636915b6.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/907f8734-fabf-4f23-b917-ec5e636915b6.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/907f8734-fabf-4f23-b917-ec5e636915b6.jpg",
+          "rel_id": 743355
+        },
+        {
+          "id": 18367720,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/9d495acb-0897-4e74-9317-2f0eb7902aff.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/9d495acb-0897-4e74-9317-2f0eb7902aff.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/9d495acb-0897-4e74-9317-2f0eb7902aff.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/9d495acb-0897-4e74-9317-2f0eb7902aff.jpg",
+          "rel_id": 743355
+        },
+        {
+          "id": 18367721,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/d11d47b9-1f31-4dbc-9cfa-c7d97de58298.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/d11d47b9-1f31-4dbc-9cfa-c7d97de58298.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/d11d47b9-1f31-4dbc-9cfa-c7d97de58298.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/d11d47b9-1f31-4dbc-9cfa-c7d97de58298.jpg",
+          "rel_id": 743355
+        },
+        {
+          "id": 18367722,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/33b64cb2-2638-482e-aea9-807ee176d77e.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/33b64cb2-2638-482e-aea9-807ee176d77e.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/33b64cb2-2638-482e-aea9-807ee176d77e.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/33b64cb2-2638-482e-aea9-807ee176d77e.jpg",
+          "rel_id": 743355
+        },
+        {
+          "id": 18367723,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/208e9c0d-361c-4637-962c-d465a5a792a8.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/208e9c0d-361c-4637-962c-d465a5a792a8.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/208e9c0d-361c-4637-962c-d465a5a792a8.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/208e9c0d-361c-4637-962c-d465a5a792a8.jpg",
+          "rel_id": 743355
+        },
+        {
+          "id": 18367724,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/50802778-dc1d-4c6a-a16d-9bad333af038.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/50802778-dc1d-4c6a-a16d-9bad333af038.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/50802778-dc1d-4c6a-a16d-9bad333af038.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/50802778-dc1d-4c6a-a16d-9bad333af038.jpg",
+          "rel_id": 743355
+        },
+        {
+          "id": 18367725,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/ae4bf4df-e2ed-4dc7-bec1-87e9bbd173d3.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/ae4bf4df-e2ed-4dc7-bec1-87e9bbd173d3.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/ae4bf4df-e2ed-4dc7-bec1-87e9bbd173d3.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/ae4bf4df-e2ed-4dc7-bec1-87e9bbd173d3.jpg",
+          "rel_id": 743355
+        },
+        {
+          "id": 18367726,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/dc196273-425e-4f60-9021-2acae512d439.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/dc196273-425e-4f60-9021-2acae512d439.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/dc196273-425e-4f60-9021-2acae512d439.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/dc196273-425e-4f60-9021-2acae512d439.jpg",
+          "rel_id": 743355
+        },
+        {
+          "id": 18367727,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/4701bfc9-0530-4ec8-b9ce-0ba92a44f5a7.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/4701bfc9-0530-4ec8-b9ce-0ba92a44f5a7.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/4701bfc9-0530-4ec8-b9ce-0ba92a44f5a7.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/4701bfc9-0530-4ec8-b9ce-0ba92a44f5a7.jpg",
+          "rel_id": 743355
+        },
+        {
+          "id": 18367728,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/ee04256b-c92b-458b-a337-bb2eef0433c7.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/ee04256b-c92b-458b-a337-bb2eef0433c7.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/ee04256b-c92b-458b-a337-bb2eef0433c7.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/ee04256b-c92b-458b-a337-bb2eef0433c7.jpg",
+          "rel_id": 743355
+        },
+        {
+          "id": 18367729,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/94206516-e509-43dc-a77f-31f19c7c27d3.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/94206516-e509-43dc-a77f-31f19c7c27d3.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/94206516-e509-43dc-a77f-31f19c7c27d3.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/94206516-e509-43dc-a77f-31f19c7c27d3.jpg",
+          "rel_id": 743355
+        },
+        {
+          "id": 18367730,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/ddf7a811-906e-42e7-bc4a-717374effe60.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/ddf7a811-906e-42e7-bc4a-717374effe60.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/ddf7a811-906e-42e7-bc4a-717374effe60.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/ddf7a811-906e-42e7-bc4a-717374effe60.jpg",
+          "rel_id": 743355
+        },
+        {
+          "id": 18367731,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/013fc11b-a05a-4b12-9bdb-dc4a0b0afa36.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/013fc11b-a05a-4b12-9bdb-dc4a0b0afa36.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/013fc11b-a05a-4b12-9bdb-dc4a0b0afa36.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/013fc11b-a05a-4b12-9bdb-dc4a0b0afa36.jpg",
+          "rel_id": 743355
+        },
+        {
+          "id": 18367732,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/6e4d9b7c-6bd1-42b0-989b-842c68b55adc.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/6e4d9b7c-6bd1-42b0-989b-842c68b55adc.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/6e4d9b7c-6bd1-42b0-989b-842c68b55adc.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/6e4d9b7c-6bd1-42b0-989b-842c68b55adc.jpg",
+          "rel_id": 743355
+        }
+      ],
+      "katastrinumber": [
+        {
+          "id": 766901,
+          "katastrinumber": null,
+          "pindala": "0.00"
+        }
+      ],
+      "user": {
+        "id": 473,
+        "full_name": "Terje Tammistu",
+        "role": "maakler",
+        "image": "https:\/\/s1.kv24.ee\/uploads\/users\/93fa1b15-af93-4d17-a060-78a1fc9e1ffc.jpg",
+        "public_email": "terje@raid.ee",
+        "public_work_phone": null,
+        "public_personal_phone": "521 0622",
+        "broker_profile_url": "https:\/\/kinnisvara24.ee\/maakler\/otsing\/473-terje-tammistu",
+        "bureau_name": "Raid & Ko"
+      },
+      "slogan": "Ahik\u00fcte - soodne valik!",
+      "lisainfo": "Kalamaja s\u00fcdames, sisehoovis asuv \u00e4sja remonditud korter, kuhu oodatakse \u00fc\u00fcrnikku pikemaks ajaks. L\u00e4hedal on bussipeatus Kalamaja ( buss nr 3), Balti jaam transpordis\u00f5lmena, turg, poed, s\u00f6\u00f6gikohad ja EKA on jalutusk\u00e4igu kaugusel, samuti Vanalinn.<br \/>\r\n<br \/>\r\nEsikust p\u00e4\u00e4seb kahte tuppa, k\u00f6\u00f6ki ja du\u0161iruumi. Elutuba on l\u00e4bik\u00e4idav. Plaani saadan e-posti, kui kirjutate oma soovist terje@raid.ee.<br \/>\r\nKorteril on uued kolmekordsed puitpakettaknad, tubades v\u00e4rvitud p\u00f5randad, esikus ja k\u00f6\u00f6gis pvc kate. <br \/>\r\nDu\u0161iruum-tualett on plaaditud. <br \/>\r\n<br \/>\r\n\u00dc\u00fcrniku kasutada j\u00e4\u00e4b k\u00f6\u00f6gim\u00f6\u00f6bel, k\u00fclmik, pesumasin, uus lahtik\u00e4iv diivan, riiul ja muud eluks vajalikud tarbeesemed, mis pildigaleriis n\u00e4htavad. <br \/>\r\n<br \/>\r\nKommunaalkulud on soodsad - \u00fc\u00fcrihinnale lisandub vaid vastavalt oma tarbimisele elektrienergia, vesi ja kanalisatsioon ning k\u00fcttepuud.<br \/>\r\nKorterisse tuleb Telia valguskaabel, v\u00f5imalus tellida kiire internet.<br \/>\r\nV\u00f5imalik kasutada oma keldriboksi, et hoiustada k\u00fcttepuid ja jalgratast. Alustuseks on puid olemas.<br \/>\r\n<br \/>\r\nLepingu s\u00f5lmimisel tasub \u00fc\u00fcrnik esimese kuu \u00fc\u00fcri ette, tagatisraha 420 \u20ac ja maakleritasu 420 \u20ac.<br \/>\r\n<br \/>\r\nOodatud on korda ja puhtust armastav ning naabritest hooliv \u00fc\u00fcriline!<br \/>\r\n.",
+      "video_url": null,
+      "intended_uses": [],
+      "floor": 1,
+      "floors": null,
+      "rooms": 3,
+      "area": "37.00",
+      "labels": [],
+      "active_client_day_string": "",
+      "disabled_text": null
+    },
+    {
+      "id": 667870,
+      "objekti_tyyp_id": 1,
+      "tehingu_tyyp_id": 3,
+      "hind": 370,
+      "created_at": "2023-10-01T08:17:07.000000Z",
+      "naita_majanumbrit": 1,
+      "bargainprice": null,
+      "show_A6_location": 1,
+      "bureau_name": "Kivi Kinnisvarab\u00fcroo O\u00dc",
+      "user_full_name": "Kristina Kivi",
+      "sort_order": 99,
+      "sort_days": 0,
+      "distance_class": null,
+      "price_per_m2": 21.76,
+      "permalink": "https:\/\/kinnisvara24.ee\/korter-yyr-tallinn\/240667870",
+      "is_favorite": false,
+      "address": {
+        "id": 667786,
+        "address": null,
+        "orig_tunnus": null,
+        "A1": "Harju maakond",
+        "A2": "Tallinn",
+        "A3": "P\u00f5hja-Tallinna linnaosa",
+        "A4": "Kalamaja",
+        "A5": "Kotzebue tn",
+        "A6": "",
+        "A7": "18",
+        "A8": "1a",
+        "coordinates_lat": 59.4430478,
+        "coordinates_lng": 24.7355986,
+        "short_address": "Kotzebue tn 18, Kalamaja, P\u00f5hja-Tallinn",
+        "city_country": "Tallinn, Harju maakond"
+      },
+      "images": [
+        {
+          "id": 16220635,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/168efc0f-767a-4d0c-ad80-a0ccfffaadba.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/168efc0f-767a-4d0c-ad80-a0ccfffaadba.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/168efc0f-767a-4d0c-ad80-a0ccfffaadba.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/168efc0f-767a-4d0c-ad80-a0ccfffaadba.jpg",
+          "rel_id": 667870
+        },
+        {
+          "id": 16220636,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/871f34bd-7f98-4c70-b720-45416c88c9c4.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/871f34bd-7f98-4c70-b720-45416c88c9c4.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/871f34bd-7f98-4c70-b720-45416c88c9c4.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/871f34bd-7f98-4c70-b720-45416c88c9c4.jpg",
+          "rel_id": 667870
+        },
+        {
+          "id": 16220637,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/526d72b8-3acb-4d89-8739-b2aebce648bd.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/526d72b8-3acb-4d89-8739-b2aebce648bd.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/526d72b8-3acb-4d89-8739-b2aebce648bd.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/526d72b8-3acb-4d89-8739-b2aebce648bd.jpg",
+          "rel_id": 667870
+        },
+        {
+          "id": 16220638,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/98064c83-2992-49c8-b3d4-7db5b71e563b.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/98064c83-2992-49c8-b3d4-7db5b71e563b.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/98064c83-2992-49c8-b3d4-7db5b71e563b.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/98064c83-2992-49c8-b3d4-7db5b71e563b.jpg",
+          "rel_id": 667870
+        },
+        {
+          "id": 16220639,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/5fe5832b-937c-4e26-ad68-4b087292b1e3.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/5fe5832b-937c-4e26-ad68-4b087292b1e3.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/5fe5832b-937c-4e26-ad68-4b087292b1e3.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/5fe5832b-937c-4e26-ad68-4b087292b1e3.jpg",
+          "rel_id": 667870
+        },
+        {
+          "id": 16220640,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/d2cb5d44-1d0f-4995-8b00-bf8ba6f21cf9.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/d2cb5d44-1d0f-4995-8b00-bf8ba6f21cf9.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/d2cb5d44-1d0f-4995-8b00-bf8ba6f21cf9.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/d2cb5d44-1d0f-4995-8b00-bf8ba6f21cf9.jpg",
+          "rel_id": 667870
+        },
+        {
+          "id": 16220641,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/be2165ea-2720-4c3e-bd6b-620571eb42bd.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/be2165ea-2720-4c3e-bd6b-620571eb42bd.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/be2165ea-2720-4c3e-bd6b-620571eb42bd.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/be2165ea-2720-4c3e-bd6b-620571eb42bd.jpg",
+          "rel_id": 667870
+        },
+        {
+          "id": 16220642,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/f473b979-613c-4445-8996-db335ba0728c.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/f473b979-613c-4445-8996-db335ba0728c.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/f473b979-613c-4445-8996-db335ba0728c.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/f473b979-613c-4445-8996-db335ba0728c.jpg",
+          "rel_id": 667870
+        },
+        {
+          "id": 16220643,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/32e5a33e-f407-409f-8f3f-8c08391abfaa.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/32e5a33e-f407-409f-8f3f-8c08391abfaa.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/32e5a33e-f407-409f-8f3f-8c08391abfaa.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/32e5a33e-f407-409f-8f3f-8c08391abfaa.jpg",
+          "rel_id": 667870
+        },
+        {
+          "id": 16220644,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/ab48e204-744c-4406-9576-7fbc26ff7fa4.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/ab48e204-744c-4406-9576-7fbc26ff7fa4.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/ab48e204-744c-4406-9576-7fbc26ff7fa4.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/ab48e204-744c-4406-9576-7fbc26ff7fa4.jpg",
+          "rel_id": 667870
+        },
+        {
+          "id": 16220645,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/a50c5921-9bae-438d-afe1-0ba8ea08e348.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/a50c5921-9bae-438d-afe1-0ba8ea08e348.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/a50c5921-9bae-438d-afe1-0ba8ea08e348.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/a50c5921-9bae-438d-afe1-0ba8ea08e348.jpg",
+          "rel_id": 667870
+        },
+        {
+          "id": 16220646,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/265b5dcd-4758-47de-856f-a257d4d96269.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/265b5dcd-4758-47de-856f-a257d4d96269.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/265b5dcd-4758-47de-856f-a257d4d96269.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/265b5dcd-4758-47de-856f-a257d4d96269.jpg",
+          "rel_id": 667870
+        },
+        {
+          "id": 16220647,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/25bd4940-edad-4102-b46b-4d97194d0e1f.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/25bd4940-edad-4102-b46b-4d97194d0e1f.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/25bd4940-edad-4102-b46b-4d97194d0e1f.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/25bd4940-edad-4102-b46b-4d97194d0e1f.jpg",
+          "rel_id": 667870
+        }
+      ],
+      "katastrinumber": [
+        {
+          "id": 691312,
+          "katastrinumber": null,
+          "pindala": null
+        }
+      ],
+      "user": {
+        "id": 4697,
+        "full_name": "Kristina Kivi",
+        "role": "buroohaldur",
+        "image": "https:\/\/kv24-main.s3-eu-central-1.amazonaws.com\/uploads\/users\/74bc9613-b9bb-4174-b075-e3ce88a03af6.jpg",
+        "public_email": "kristina@kivikinnisvara.eu",
+        "public_work_phone": null,
+        "public_personal_phone": "55673246",
+        "broker_profile_url": "https:\/\/kinnisvara24.ee\/maakler\/otsing\/4697-kristina-kivi",
+        "bureau_name": "Kivi Kinnisvarab\u00fcroo O\u00dc"
+      },
+      "slogan": null,
+      "lisainfo": "Anda \u00fc\u00fcrile korter-stuudio.<br \/>\n\u00dc\u00fcrile lisanduvad kommunaalkulud.<br \/>\nLepingu alkirjastamisel on avaja maksta \u00fc\u00fcri ettemaks, tagatis ja lepingutasu.",
+      "video_url": null,
+      "intended_uses": [],
+      "floor": 2,
+      "floors": null,
+      "rooms": 1,
+      "area": "17.00",
+      "labels": [],
+      "active_client_day_string": "",
+      "disabled_text": null
+    },
+    {
+      "id": 736444,
+      "objekti_tyyp_id": 1,
+      "tehingu_tyyp_id": 3,
+      "hind": 420,
+      "created_at": "2023-10-22T19:59:48.000000Z",
+      "naita_majanumbrit": 1,
+      "bargainprice": null,
+      "show_A6_location": 1,
+      "bureau_name": "Alexandra Kinnisvara Agentuur O\u00dc",
+      "user_full_name": "Aleksandra Lukjanova",
+      "sort_order": 99,
+      "sort_days": 0,
+      "distance_class": null,
+      "price_per_m2": 13.55,
+      "permalink": "https:\/\/kinnisvara24.ee\/korter-yyr-tallinn\/240736444",
+      "is_favorite": false,
+      "address": {
+        "id": 736347,
+        "address": "Harju maakond, Tallinn, P\u00f5hja-Tallinna linnaosa, Suur-Patarei tn 25",
+        "orig_tunnus": "EE00636406",
+        "A1": "Harju maakond",
+        "A2": "Tallinn",
+        "A3": "P\u00f5hja-Tallinna linnaosa",
+        "A4": "Kalamaja",
+        "A5": "Suur-Patarei tn",
+        "A6": null,
+        "A7": "25",
+        "A8": null,
+        "coordinates_lat": 59.448304,
+        "coordinates_lng": 24.743265,
+        "short_address": "Suur-Patarei tn 25, Kalamaja, P\u00f5hja-Tallinn",
+        "city_country": "Tallinn, Harju maakond"
+      },
+      "images": [
+        {
+          "id": 18187730,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/898f8a97-f9c3-4485-9dcd-94c238aa96dc.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/898f8a97-f9c3-4485-9dcd-94c238aa96dc.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/898f8a97-f9c3-4485-9dcd-94c238aa96dc.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/898f8a97-f9c3-4485-9dcd-94c238aa96dc.jpg",
+          "rel_id": 736444
+        },
+        {
+          "id": 18187734,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/bde1af01-3003-45c8-94e9-e949ca2bf40d.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/bde1af01-3003-45c8-94e9-e949ca2bf40d.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/bde1af01-3003-45c8-94e9-e949ca2bf40d.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/bde1af01-3003-45c8-94e9-e949ca2bf40d.jpg",
+          "rel_id": 736444
+        },
+        {
+          "id": 18187729,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/c34f52d2-d096-4b55-833d-017435ed3a69.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/c34f52d2-d096-4b55-833d-017435ed3a69.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/c34f52d2-d096-4b55-833d-017435ed3a69.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/c34f52d2-d096-4b55-833d-017435ed3a69.jpg",
+          "rel_id": 736444
+        },
+        {
+          "id": 18187736,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/586978c9-55d0-4ae4-97bb-218abf13245c.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/586978c9-55d0-4ae4-97bb-218abf13245c.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/586978c9-55d0-4ae4-97bb-218abf13245c.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/586978c9-55d0-4ae4-97bb-218abf13245c.jpg",
+          "rel_id": 736444
+        },
+        {
+          "id": 18187731,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/0f11398a-955e-430a-83e0-449ce5ff8691.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/0f11398a-955e-430a-83e0-449ce5ff8691.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/0f11398a-955e-430a-83e0-449ce5ff8691.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/0f11398a-955e-430a-83e0-449ce5ff8691.jpg",
+          "rel_id": 736444
+        },
+        {
+          "id": 18187738,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/a225c572-acb7-42df-a274-003153824049.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/a225c572-acb7-42df-a274-003153824049.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/a225c572-acb7-42df-a274-003153824049.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/a225c572-acb7-42df-a274-003153824049.jpg",
+          "rel_id": 736444
+        },
+        {
+          "id": 18187737,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/2abd48c6-66d9-489f-9bd1-e604689aa59b.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/2abd48c6-66d9-489f-9bd1-e604689aa59b.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/2abd48c6-66d9-489f-9bd1-e604689aa59b.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/2abd48c6-66d9-489f-9bd1-e604689aa59b.jpg",
+          "rel_id": 736444
+        },
+        {
+          "id": 18187743,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/14f5bbba-4d6d-472e-879d-add48cee1e00.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/14f5bbba-4d6d-472e-879d-add48cee1e00.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/14f5bbba-4d6d-472e-879d-add48cee1e00.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/14f5bbba-4d6d-472e-879d-add48cee1e00.jpg",
+          "rel_id": 736444
+        },
+        {
+          "id": 18187739,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/4f8c78df-bc51-4ff9-9ceb-b0188233b73e.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/4f8c78df-bc51-4ff9-9ceb-b0188233b73e.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/4f8c78df-bc51-4ff9-9ceb-b0188233b73e.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/4f8c78df-bc51-4ff9-9ceb-b0188233b73e.jpg",
+          "rel_id": 736444
+        },
+        {
+          "id": 18187735,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/b026730c-7664-4d73-b310-b6ac58eae0d9.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/b026730c-7664-4d73-b310-b6ac58eae0d9.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/b026730c-7664-4d73-b310-b6ac58eae0d9.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/b026730c-7664-4d73-b310-b6ac58eae0d9.jpg",
+          "rel_id": 736444
+        },
+        {
+          "id": 18187733,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/4d785c6c-081a-4bca-83f0-9ca9ee7ebcbd.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/4d785c6c-081a-4bca-83f0-9ca9ee7ebcbd.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/4d785c6c-081a-4bca-83f0-9ca9ee7ebcbd.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/4d785c6c-081a-4bca-83f0-9ca9ee7ebcbd.jpg",
+          "rel_id": 736444
+        }
+      ],
+      "katastrinumber": [
+        {
+          "id": 760048,
+          "katastrinumber": "78408:801:2800",
+          "pindala": null
+        }
+      ],
+      "user": {
+        "id": 40719,
+        "full_name": "Aleksandra Lukjanova",
+        "role": "buroohaldur",
+        "image": "https:\/\/s1.kv24.ee\/uploads\/users\/011fe3d9-22ef-44f0-9041-756065a7c9ad.jpg",
+        "public_email": "Lukjanovaaleksandra@gmail.com",
+        "public_work_phone": "566 209 27",
+        "public_personal_phone": "566 209 27",
+        "broker_profile_url": "https:\/\/kinnisvara24.ee\/maakler\/otsing\/40719-aleksandra-lukjanova",
+        "bureau_name": "Alexandra Kinnisvara Agentuur O\u00dc"
+      },
+      "slogan": "",
+      "lisainfo": "<p>\u00dc\u00dcR 420 eur, tagatisraha, maakleritasu<\/p>",
+      "video_url": null,
+      "intended_uses": [],
+      "floor": 2,
+      "floors": null,
+      "rooms": 1,
+      "area": "31.00",
+      "labels": [],
+      "active_client_day_string": "",
+      "disabled_text": null
+    },
+    {
+      "id": 732455,
+      "objekti_tyyp_id": 1,
+      "tehingu_tyyp_id": 3,
+      "hind": 450,
+      "created_at": "2023-11-14T15:56:07.000000Z",
+      "naita_majanumbrit": 1,
+      "bargainprice": null,
+      "show_A6_location": 1,
+      "bureau_name": "Adrem Kinnisvara O\u00dc",
+      "user_full_name": "Lauri Kolk",
+      "sort_order": 99,
+      "sort_days": 0,
+      "distance_class": null,
+      "price_per_m2": 10.87,
+      "permalink": "https:\/\/kinnisvara24.ee\/korter-yyr-tallinn\/240732455",
+      "is_favorite": false,
+      "address": {
+        "id": 732358,
+        "address": null,
+        "orig_tunnus": null,
+        "A1": "Harju maakond",
+        "A2": "Tallinn",
+        "A3": "P\u00f5hja-Tallinna linnaosa",
+        "A4": "Kalamaja",
+        "A5": "T\u00f6\u00f6stuse",
+        "A6": "Kalamaja",
+        "A7": "43",
+        "A8": "",
+        "coordinates_lat": 59.4474599,
+        "coordinates_lng": 24.7288976,
+        "short_address": "T\u00f6\u00f6stuse 43, Kalamaja, P\u00f5hja-Tallinn",
+        "city_country": "Tallinn, Harju maakond"
+      },
+      "images": [
+        {
+          "id": 18085459,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/53a0c729-add7-4ccb-97f4-95825bf2c8b7.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/53a0c729-add7-4ccb-97f4-95825bf2c8b7.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/53a0c729-add7-4ccb-97f4-95825bf2c8b7.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/53a0c729-add7-4ccb-97f4-95825bf2c8b7.jpg",
+          "rel_id": 732455
+        },
+        {
+          "id": 18085463,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/b1824a6b-cdd9-4026-9703-0210cbd6aa6d.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/b1824a6b-cdd9-4026-9703-0210cbd6aa6d.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/b1824a6b-cdd9-4026-9703-0210cbd6aa6d.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/b1824a6b-cdd9-4026-9703-0210cbd6aa6d.jpg",
+          "rel_id": 732455
+        },
+        {
+          "id": 18085436,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/7832e563-7739-479b-a544-b1f0d9b66545.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/7832e563-7739-479b-a544-b1f0d9b66545.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/7832e563-7739-479b-a544-b1f0d9b66545.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/7832e563-7739-479b-a544-b1f0d9b66545.jpg",
+          "rel_id": 732455
+        },
+        {
+          "id": 18085443,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/99faaba2-5dc2-4793-9a91-54f3c86af87b.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/99faaba2-5dc2-4793-9a91-54f3c86af87b.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/99faaba2-5dc2-4793-9a91-54f3c86af87b.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/99faaba2-5dc2-4793-9a91-54f3c86af87b.jpg",
+          "rel_id": 732455
+        },
+        {
+          "id": 18085447,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/7f197a32-580e-4e3d-99a0-2bb3393249f1.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/7f197a32-580e-4e3d-99a0-2bb3393249f1.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/7f197a32-580e-4e3d-99a0-2bb3393249f1.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/7f197a32-580e-4e3d-99a0-2bb3393249f1.jpg",
+          "rel_id": 732455
+        },
+        {
+          "id": 18085450,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/50c5fd13-5d09-464d-a169-b2f42b8d2d77.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/50c5fd13-5d09-464d-a169-b2f42b8d2d77.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/50c5fd13-5d09-464d-a169-b2f42b8d2d77.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/50c5fd13-5d09-464d-a169-b2f42b8d2d77.jpg",
+          "rel_id": 732455
+        },
+        {
+          "id": 18085456,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/61666b73-0bec-4dc0-b767-767aa3a64dcd.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/61666b73-0bec-4dc0-b767-767aa3a64dcd.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/61666b73-0bec-4dc0-b767-767aa3a64dcd.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/61666b73-0bec-4dc0-b767-767aa3a64dcd.jpg",
+          "rel_id": 732455
+        },
+        {
+          "id": 18085467,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/447ecf2e-b310-4581-89d9-ab38fa1595bb.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/447ecf2e-b310-4581-89d9-ab38fa1595bb.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/447ecf2e-b310-4581-89d9-ab38fa1595bb.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/447ecf2e-b310-4581-89d9-ab38fa1595bb.jpg",
+          "rel_id": 732455
+        },
+        {
+          "id": 18085471,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/04db5ff6-0b51-4568-b362-54e38fecb8ce.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/04db5ff6-0b51-4568-b362-54e38fecb8ce.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/04db5ff6-0b51-4568-b362-54e38fecb8ce.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/04db5ff6-0b51-4568-b362-54e38fecb8ce.jpg",
+          "rel_id": 732455
+        },
+        {
+          "id": 18085476,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/e11ce6f4-d3fb-4eff-8e77-c7cca5c6208d.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/e11ce6f4-d3fb-4eff-8e77-c7cca5c6208d.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/e11ce6f4-d3fb-4eff-8e77-c7cca5c6208d.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/e11ce6f4-d3fb-4eff-8e77-c7cca5c6208d.jpg",
+          "rel_id": 732455
+        },
+        {
+          "id": 18085480,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/505e9d4b-77a0-4ed7-bf72-7de56ac578b5.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/505e9d4b-77a0-4ed7-bf72-7de56ac578b5.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/505e9d4b-77a0-4ed7-bf72-7de56ac578b5.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/505e9d4b-77a0-4ed7-bf72-7de56ac578b5.jpg",
+          "rel_id": 732455
+        },
+        {
+          "id": 18085486,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/dd4eef58-24cf-4aeb-8e5d-91c0e74e62c6.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/dd4eef58-24cf-4aeb-8e5d-91c0e74e62c6.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/dd4eef58-24cf-4aeb-8e5d-91c0e74e62c6.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/dd4eef58-24cf-4aeb-8e5d-91c0e74e62c6.jpg",
+          "rel_id": 732455
+        },
+        {
+          "id": 18085491,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/f450cb10-b42b-4f8e-a70f-f2b88b46e147.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/f450cb10-b42b-4f8e-a70f-f2b88b46e147.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/f450cb10-b42b-4f8e-a70f-f2b88b46e147.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/f450cb10-b42b-4f8e-a70f-f2b88b46e147.jpg",
+          "rel_id": 732455
+        },
+        {
+          "id": 18085494,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/13633707-3b3d-4528-a6ba-2db23c1ebe95.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/13633707-3b3d-4528-a6ba-2db23c1ebe95.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/13633707-3b3d-4528-a6ba-2db23c1ebe95.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/13633707-3b3d-4528-a6ba-2db23c1ebe95.jpg",
+          "rel_id": 732455
+        },
+        {
+          "id": 18085496,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/0b73be3a-21d3-47f8-b2c6-57d93b730fd7.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/0b73be3a-21d3-47f8-b2c6-57d93b730fd7.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/0b73be3a-21d3-47f8-b2c6-57d93b730fd7.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/0b73be3a-21d3-47f8-b2c6-57d93b730fd7.jpg",
+          "rel_id": 732455
+        },
+        {
+          "id": 18085429,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/0040ca4f-0a5d-49ee-a4b6-7839a15f410e.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/0040ca4f-0a5d-49ee-a4b6-7839a15f410e.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/0040ca4f-0a5d-49ee-a4b6-7839a15f410e.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/0040ca4f-0a5d-49ee-a4b6-7839a15f410e.jpg",
+          "rel_id": 732455
+        },
+        {
+          "id": 18085500,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/2d0bc095-9c8d-4ec9-b10c-26680278f58c.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/2d0bc095-9c8d-4ec9-b10c-26680278f58c.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/2d0bc095-9c8d-4ec9-b10c-26680278f58c.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/2d0bc095-9c8d-4ec9-b10c-26680278f58c.jpg",
+          "rel_id": 732455
+        },
+        {
+          "id": 18085502,
+          "url": "https:\/\/s1.kv24.ee\/uploads\/a1\/images\/e557efc6-b6c9-4767-a8e4-87b1224735aa.jpg",
+          "url_medium": "https:\/\/s1.kv24.ee\/uploads\/a1\/550x550\/e557efc6-b6c9-4767-a8e4-87b1224735aa.jpg",
+          "url_small": "https:\/\/s1.kv24.ee\/uploads\/a1\/210x210\/e557efc6-b6c9-4767-a8e4-87b1224735aa.jpg",
+          "url_large": "https:\/\/s1.kv24.ee\/uploads\/a1\/large\/e557efc6-b6c9-4767-a8e4-87b1224735aa.jpg",
+          "rel_id": 732455
+        }
+      ],
+      "katastrinumber": [
+        {
+          "id": 756053,
+          "katastrinumber": "78408:801:0006",
+          "pindala": "0"
+        }
+      ],
+      "user": {
+        "id": 27274,
+        "full_name": "Lauri Kolk",
+        "role": "buroohaldur",
+        "image": "https:\/\/s1.kv24.ee\/uploads\/users\/41f6bb42-b8e0-4b34-9a78-68fb84fee800.jpg",
+        "public_email": "lauri@adrem.ee",
+        "public_work_phone": "+37251912950",
+        "public_personal_phone": "+37251912950",
+        "broker_profile_url": "https:\/\/kinnisvara24.ee\/maakler\/otsing\/27274-lauri-kolk",
+        "bureau_name": "Adrem Kinnisvara O\u00dc"
+      },
+      "slogan": "Sisustatud \u00fc\u00fcrikorter renoveeritud majas!",
+      "lisainfo": "\u00dc\u00fcrile anda sisustatud korter Kalamaja Kalmistupargi k\u00f5rval, T\u00f6\u00f6stuse ja Volta tn nurgal. <br \/>\n<br \/>\nKORTER<br \/>\nAvatud k\u00f6\u00f6giga elutuba, magamistuba, du\u0161iruum ja wc koos, esik.<br \/>\nK\u00f6\u00f6gis on k\u00f5ik vajalik olemas - k\u00fclmik, keraamiline pliit, kubu, ahi, n\u00f5udepesumasin ning k.a. toidun\u00f5ud. <br \/>\nKorteris pesumasin, soe vesi el.boileriga. <br \/>\nEsikus ja magamistoas mahukad garderoobkapid.<br \/>\n<br \/>\nMAJA<br \/>\nV\u00e4rskelt renoveeritud fassaadi ja katusega kortermaja Volta, T\u00f6\u00f6stuse ja Kungla tn nurgal.<br \/>\nIlus kinnine sisehoov, kus saab vabale kohale auto parkida, puldist avanev v\u00e4rav. Hoovi keskel haljasala laste m\u00e4nguv\u00e4ljakuga.<br \/>\n<br \/>\nSIDETEENUS<br \/>\nMajas pakuvad nii Telia kui ka Elisa kuni 1Gbit\/s internetti alla\/\u00fcles.<br \/>\n<br \/>\n\u00dc\u00dcRITINGIMUSED<br \/>\nKorter antakse \u00fc\u00fcrile ilma lemmikloomadeta \u00fc\u00fcrnikule. Sooviksime \u00fche aastast lepingut esialgu.<br \/>\nIgakuisele \u00fc\u00fcrile lisanduvad k\u00f5rvalkulud, mis 2023.a alguses olid keskmiselt 235 eur ja suvel 160 eur + oma tarbimise elekter ja vesi.<br \/>\n\u00dc\u00fcrilepingu s\u00f5lmides tasuda esimese kuu \u00fc\u00fcr 450 eur, tagatisraha 450 eur ning lepingutasu 450 eur.<br \/>\n<br \/>\nASUKOHT<br \/>\nV\u00e4ga hea asukoht Kesklinna \/ Vanalinna k\u00f5rval. \u00dcmbruses ajaloolised elamud, Volta kvartal, \u00fcle tee Kalamaja Kalmistupark. L\u00e4hedal paiknevad Lennusadam ja Noblessneri sadam, Arsenali Keskus. Telliskivi Rimi toidupood on 1 km kaugusel. Telliskivi loomelinnaku s\u00f6\u00f6gikohad ja muud teenindusasutused on 1,5 km kaugusel. <br \/>\n<br \/>\nHELISTA ja tule tutvuma oma uue \u00fc\u00fcrikoduga Kalamajas!",
+      "video_url": null,
+      "intended_uses": [],
+      "floor": 1,
+      "floors": null,
+      "rooms": 2,
+      "area": "41.40",
+      "labels": [],
+      "active_client_day_string": "",
+      "disabled_text": null
+    }
+  ],
+  "links": {
+    "first": "\/?page=1",
+    "last": "\/?page=1",
+    "prev": null,
+    "next": null
+  },
+  "meta": {
+    "current_page": 1,
+    "from": 1,
+    "last_page": 1,
+    "links": [
+      {
+        "url": null,
+        "label": "&laquo; Eelmine",
+        "active": false
+      },
+      {
+        "url": "\/?page=1",
+        "label": "1",
+        "active": true
+      },
+      {
+        "url": null,
+        "label": "J\u00e4rgmine &raquo;",
+        "active": false
+      }
+    ],
+    "path": "\/",
+    "per_page": 31,
+    "to": 10,
+    "total": 10
+  },
+  "brokers": [],
+  "bureaus": [],
+  "search_hash": "261015bbfbd2251f34ef3885e090b2a444a19c03",
+  "filters": {
+    "hash": null,
+    "addresses": [
+      {
+        "A1": "Harju maakond",
+        "A2": "Tallinn",
+        "A3": "P\u00f5hja-Tallinna linnaosa",
+        "A4": "Kalamaja"
+      }
+    ],
+    "area_min": null,
+    "area_max": null,
+    "land_area_min": null,
+    "land_area_max": null,
+    "around_point": null,
+    "bounds": [],
+    "broker_id": null,
+    "bureau_id": null,
+    "build_year_min": null,
+    "build_year_max": null,
+    "client_day_date_max": null,
+    "client_day_date_min": null,
+    "comforts": [],
+    "commercial_types": [],
+    "deal_types": [
+      "rent"
+    ],
+    "developments_only": false,
+    "energy_classes": [],
+    "exclusives": false,
+    "uniques": false,
+    "extras": [],
+    "floor_min": null,
+    "floor_max": null,
+    "from_owner": false,
+    "with_detail_planning_only": false,
+    "with_building_permit_only": false,
+    "with_360_tour_only": false,
+    "with_video_only": false,
+    "intended_uses": [],
+    "keywords": [],
+    "materials": [],
+    "object_types": [
+      "apartment"
+    ],
+    "price_max": 450,
+    "price_min": 200,
+    "price_per_m2_max": null,
+    "price_per_m2_min": null,
+    "land_price_per_m2_max": null,
+    "land_price_per_m2_min": null,
+    "water_supplies": [],
+    "heating_types": [],
+    "energy_sources": [],
+    "rooms_max": null,
+    "rooms_min": null,
+    "sewage_types": [],
+    "sort_by": "relevance",
+    "sort_order": "desc",
+    "page": 1,
+    "utility_join_fees_paid": false,
+    "has_repairs_canal": false,
+    "is_development_lot": false,
+    "is_top_floor": false,
+    "has_water_border": false,
+    "pets_allowed": false,
+    "with_usage_permit": false,
+    "has_client_day": false,
+    "free": false,
+    "amount": null,
+    "rooms": null,
+    "period": null,
+    "has_furniture": null,
+    "has_washing": false,
+    "are_pets_allowed": false,
+    "show_deactivated": false,
+    "price_without_utilities": false,
+    "has_kitchen": false,
+    "has_job_possibility": false,
+    "additional": [],
+    "house_part_types": [],
+    "conditions": [],
+    "neighbours": [],
+    "road_conditions": [],
+    "address": []
+  }
+}
