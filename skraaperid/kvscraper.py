@@ -1,5 +1,6 @@
 from bs4 import BeautifulSoup as bs
 import requests
+from fake_useragent import UserAgent
 
 html = '''
 <article class="default object-type-apartment" data-object-id="3583472" data-object-url="/uurile-anda-2-toaline-korter-pindala-45-m2-6s-korr-3583472.html">
@@ -67,7 +68,7 @@ def get_parameters_for_request(city_areas, deal_type, min_price=None, max_price=
     return parameters
 
 header = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36"
+    "User-Agent": UserAgent().random
 }
 
 sample_json = {
