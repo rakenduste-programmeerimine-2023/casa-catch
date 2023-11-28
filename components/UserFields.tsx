@@ -21,13 +21,15 @@ import Pricerange from '@/components/Pricerange';
 export default function UserFields() {
   const defaultProps = {
     options: maakonnad,
-    getOptionLabel: (option: FilmOptionType) => option.title,
+    getOptionLabel: (option: DropdownOption) => option.title,
   };
   const flatProps = {
     options: maakonnad.map((option) => option.title),
   };
-  const [value, setValue] = useState<FilmOptionType | null>(null);
 
+  const [propertyType, setPropertyType] = useState<string>('üür')
+  const [fromOwner, setfromOwner] = useState<boolean>(false)
+  const [swapOption, setSwapOption] = useState<boolean>(false)
 
 
   return (
@@ -50,9 +52,11 @@ export default function UserFields() {
             )}
         />
          <Autocomplete
-            {...defaultProps}
+            options={["üür", "müük"]}
             id="clear-on-escape"
             clearOnEscape
+            value={propertyType}
+            onChange={(event, value) => setPropertyType(value!)}
             renderInput={(params) => (
             <TextField {...params} label="Kinnisvaratüüp" variant="standard" />
             )}
@@ -63,7 +67,8 @@ export default function UserFields() {
             <FormLabel id="demo-radio-buttons-group-label">Tüüp</FormLabel>
             <RadioGroup
             aria-labelledby="demo-radio-buttons-group-label"
-            defaultValue="female"
+            // value={fromOwner}
+            // onChange={(event, value) => setfromOwner(!value)}
             name="radio-buttons-group"
             >
             <FormControlLabel value="myyk" control={<Radio />} label="Müük" />
@@ -73,8 +78,14 @@ export default function UserFields() {
       </div>
       <div className="radio-button-fields-buytype">
             <FormGroup>
-            <FormControlLabel control={<Checkbox defaultChecked />} label="Otse omanikult" />
-            <FormControlLabel control={<Checkbox />} label="Vahetuse võimalus" />
+            <FormControlLabel 
+            control={<Checkbox checked={fromOwner} onChange={() => setfromOwner(!fromOwner)} />} 
+            label="Otse omanikult" 
+            />
+            <FormControlLabel 
+            control={<Checkbox checked={swapOption} onChange={() => setSwapOption(!swapOption)} />} 
+            label="Vahetuse võimalus" 
+            />
             </FormGroup>
       </div>
       <div className="districts">
@@ -90,7 +101,7 @@ export default function UserFields() {
   );
 }
 
-interface FilmOptionType {
+interface DropdownOption {
   title: string;
 }
 
