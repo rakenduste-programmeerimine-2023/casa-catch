@@ -9,21 +9,32 @@ interface District {
   title: string;
 }
 
-export default function Tags() {
-  const [selectedTags, setSelectedTags] = useState<string[]>([]);
+interface DistrictProps {
+  selectedTags: string[] 
+  setSelectedTags: React.Dispatch<React.SetStateAction<string[]>>
+  handleTagDelete: (tagToDelete: string) => void
+}
 
-  const handleTagDelete = (tagToDelete: string) => {
-    setSelectedTags((prevTags) => prevTags.filter((tag) => tag !== tagToDelete));
-  };
+export default function Tags(props: DistrictProps) {
+  const { selectedTags, setSelectedTags, handleTagDelete } = props
+  // const [selectedTags, setSelectedTags] = useState<string[]>([]);
+
+  // const handleTagDelete = (tagToDelete: string) => {
+  //   setSelectedTags((prevTags) => prevTags.filter((tag) => tag !== tagToDelete));
+  // };
 
   return (
     <Stack spacing={3} sx={{ width: 500 }}>
       <Autocomplete
         multiple
         id="tags-standard"
-        options={districts}
+        options={districts.map((district) => district.title)}
         value={selectedTags}
-        onChange={(_, newValue) => setSelectedTags(newValue)}
+        onChange={(_, newValue) => {
+          setSelectedTags(newValue);
+          console.log("Selected district:", newValue);
+        }}
+        // onChange={(_, newValue) => setSelectedTags(newValue)}
         renderInput={(params) => (
           <TextField
             {...params}
