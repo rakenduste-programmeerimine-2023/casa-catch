@@ -54,7 +54,7 @@ decoded_response = html.unescape(response_html)
 
 print(decoded_response)
 ```
-See the [sample response](./kv_sample_scrape.html)!
+See the [sample response](sample_scrapes/kv_sample_scrape.html)!
 
 ### kinnisvara24.ee
 API endpoint: `https://kinnisvara24.ee/search`
@@ -184,7 +184,7 @@ sample payload:
   ]
 }
 ```
-See the [sample response](./kinnisvara24_sample_scrape.json)!
+See the [sample response](sample_scrapes/kinnisvara24_sample_scrape.json)!
 
 ### rendin.ee
 API endpoint: `https://europe-west1-rendin-production.cloudfunctions.net/getSearchApartments`
@@ -193,10 +193,10 @@ sample payload:
 ```json
 {"data":{"city":"Tallinn","districts":["Põhja-Tallinn"],"country":"EE"}}
 ```
-See the [sample response](./rendin_sample_scrape.json)!
+See the [sample response](sample_scrapes/rendin_sample_scrape.json)!
 
 ### City24
-Since the request method is GET, the parameters for the request are in the url.
+Since the request method doesn't support json body, the parameters for the request are in the url.
 
 API endpoint: `https://api.city24.ee/et_EE/search/realties?<<query_parameters>>`
 

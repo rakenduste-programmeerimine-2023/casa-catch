@@ -118,3 +118,190 @@ interface City24SearchParameters {
   itemsPerPage?: number
   page?: number
 }
+
+
+/**
+ * Represents property title which is used as a display name.
+ * @type {string} propertyTitle
+ * @example Vabriku tn 47, Kalamaja, Põhja-Tallinn
+ */
+type propertyTitle = string
+
+/**
+ * Represents property area in square meters.
+ * @type {string} propertyArea
+ * @example 28
+ * @example 20.12
+ */
+type propertyArea = number
+
+/**
+ * Represents the response structure from the Kinnisvara24 API search.
+ * @interface Kinnisvara24ApiSearchResponse
+ *
+ * @property {Array} data - An array of property data objects containing details of each property in the search result.
+ *   @property {number} hind - The price of the property.
+ *   @property {Object} address - Address details of the property.
+ *     @property {propertyTitle} short_address - A short version of the property address used for display.
+ *   @property {Array} images - An array of images for the property, including URLs for medium and small sizes.
+ *     @property {string} url_medium - URL for the medium-sized image of the property.
+ *     @property {string} url_small - URL for the small-sized image of the property.
+ *   @property {string} lisainfo - Additional information about the property.
+ *   @property {number} rooms - The number of rooms in the property.
+ *   @property {propertyArea} area - The area of the property.
+ *
+ * @property {Kinnisvara24ApiSearchParams} filters - The search filters used in the API request.
+ *
+ * @example
+ * // Sample response:
+ * const sampleResponse: Kinnisvara24ApiSearchResponse = {
+ *   data: [
+ *     {
+ *       hind: 500,
+ *       address: {
+ *         short_address: "Example Street 12, Põhja-Tallinn",
+ *       },
+ *       images: [
+ *         {
+ *           url_medium: "mediumImage.jpg",
+ *           url_small: "smallImage.jpg",
+ *         },
+ *         // ... additional images
+ *       ],
+ *       lisainfo: "Additional information about the property.",
+ *       rooms: 2,
+ *       area: 75.5,
+ *     },
+ *     // ... additional property data objects
+ *   ],
+ *   filters: {
+ *     // ... Kinnisvara24ApiSearchParams object
+ *   },
+ * };
+ */
+interface Kinnisvara24ApiSearchResponse {
+  data: {
+    hind: number
+    address: {
+      short_address: propertyTitle
+    }
+    images: {
+      url_medium: string
+      url_small: string
+    }[]
+    lisainfo: string
+    rooms: number
+    area: propertyArea
+  }[]
+  filters: Kinnisvara24ApiSearchParams
+}
+
+
+/**
+ * Represents the response structure from the Rendin API search.
+ * @interface RendinApiSearchResponse
+ *
+ * @property {Object} result - Information about the search result.
+ *   @property {number} count - The count of found apartments.
+ *   @property {Array} foundApartments - An array of found apartments.
+ *     @property {Array} images - List of other property images.
+ *     @property {string} image - The main image of the property.
+ *     @property {number} price - The price of the property.
+ *     @property {propertyArea} objectArea - The area of the property.
+ *     @property {number} rooms - The number of rooms in the property.
+ *     @property {string} city - The city of the property.
+ *     @property {string} address - The address of the property.
+ *
+ * @example
+ * const sampleResponse: RendinApiSearchResponse = {
+ *   result: {
+ *     count: 90,
+ *     foundApartments: [
+ *       {
+ *         images: [
+ *           "image1.jpg",
+ *           "image2.jpg",
+ *           // ... additional images
+ *         ],
+ *         image: "mainImage.jpg",
+ *         price: 500,
+ *         objectArea: 75.5,
+ *         rooms: 2,
+ *         // [address] + "," + [city] === propertyTitle
+ *         city: "Tallinn",
+ *         address: "Example Street 12, Põhja-Tallinn",
+ *       },
+ *       // ... additional found apartments
+ *     ],
+ *   },
+ * };
+ */
+interface RendinApiSearchResponse {
+  result: {
+    count: 90
+    foundApartments: {
+      // List of other property images
+      images: string[]
+      // The main image
+      image: string
+      price: number
+      objectArea: propertyArea
+      rooms: number
+      // [address] + "," + [city] === propertyTitle
+      city: string
+      // [address] + "," + [city] === propertyTitle
+      address: string
+    }[]
+  }
+}
+
+
+/**
+ * Represents the response structure from the City24 API search.
+ * @interface City24ApiSearchResponse
+ *
+ * @property {Object} main_image - Information about the main image of the property.
+ *   @property {string} url - The URL of the main image.
+ *
+ * @property {number} price - The price of the property.
+ * @property {number} room_count - The number of rooms in the property.
+ * @property {propertyArea} property_size - The size of the property.
+ *
+ * @property {Object} address - Information about the address of the property.
+ *   @property {string} house_number - The house number of the property.
+ *   @property {Object} street - Information about the street of the property.
+ *     @property {string} name - The name of the street.
+ *
+ * @example
+ * const sampleResponse: City24ApiSearchResponse = {
+ *   main_image: {
+ *     url: "mainImage.jpg",
+ *   },
+ *   price: 500,
+ *   room_count: 2,
+ *   property_size: 75.5,
+ *   address: {
+ *     // [name] + " " + [house_number] === propertyTitle
+ *     house_number: "12",
+ *     street: {
+ *       name: "Example Street",
+ *     },
+ *   },
+ * };
+ */
+interface City24ApiSearchResponse {
+  main_image: {
+    url: string
+  }
+  price: number
+  room_count: number
+  property_size: propertyArea
+  address: {
+    // [name] + " " + [house_number] === propertyTitle
+    house_number: string
+    street: {
+      // [name] + " " + [house_number] === propertyTitle
+      name: string
+    }
+  }
+}
