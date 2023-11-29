@@ -3,54 +3,49 @@ import Box from '@mui/material/Box';
 import TextField from '@mui/material/TextField';
 import { useState } from 'react';
 
-export default function Pricerange() {
-  const [minPrice, setMinPrice] = useState<number | null>(null)
-  const [maxPrice, setMaxPrice] = useState<number | null>(null)
+interface PriceRangeProps {
+  minPrice: number | null
+  maxPrice: number | null
+  handleMinPriceChange: (value: number | null) => void
+  handleMaxPriceChange: (value: number | null) => void
+}
 
-  console.log("minPrice value: ", minPrice)
-  console.log("maxPrice value: ", maxPrice)
+export default function Pricerange(props: PriceRangeProps) {
 
-  const handleMinPriceChange = (event: React.ChangeEvent<HTMLInputElement>) => {
-    const value = parseInt(event.target.value, 10)
-    setMinPrice(isNaN(value) ? null : value)
-  }
+  const { minPrice, maxPrice, handleMinPriceChange, handleMaxPriceChange } = props
 
-  const handleMaxPriceChange = (event: React.ChangeEvent<HTMLInputElement>) => {
-    const value = parseInt(event.target.value, 10)
-    setMaxPrice(isNaN(value) ? null : value)
-  }
 
   return (
-    <Box
-      component="form"
-      sx={{
-        '& .MuiTextField-root': { m: 1, width: '25ch' },
-      }}
-      noValidate
-      autoComplete="off"
-    >
-      <div>
-        <TextField
-          id="minPrice"
-          label="Hind alates"
-          type="number"
-          value={minPrice !== null ? minPrice : ''}
-          onChange={handleMinPriceChange}
-          InputLabelProps={{
-            shrink: true,
-          }}
-        />
-        <TextField
-          id="maxPrice"
-          label="Hind kuni"
-          type="number"
-          value={maxPrice !== null ? maxPrice : ''}
-          onChange={handleMaxPriceChange}
-          InputLabelProps={{
-            shrink: true,
-          }}
-        />
-      </div>
-    </Box>
+      <Box 
+        component="form"
+        sx={{
+          '& .MuiTextField-root': { m: 1, width: '22.5ch' },
+        }}
+        noValidate
+        autoComplete="off"
+      >
+        <div>
+          <TextField
+            id="minPrice"
+            label="Hind alates"
+            type="number"
+            value={minPrice !== null ? minPrice : ''}
+            onChange={(e) => handleMinPriceChange(parseInt(e.target.value, 10))}
+            InputLabelProps={{
+              shrink: true,
+            }}
+          />
+          <TextField
+            id="maxPrice"
+            label="Hind kuni"
+            type="number"
+            value={maxPrice !== null ? maxPrice : ''}
+            onChange={(e) => handleMaxPriceChange(parseInt(e.target.value, 10))}
+            InputLabelProps={{
+              shrink: true,
+            }}
+          />
+        </div>
+      </Box>
   );
 }

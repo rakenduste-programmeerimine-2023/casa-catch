@@ -3,29 +3,22 @@ import Box from '@mui/material/Box';
 import TextField from '@mui/material/TextField';
 import { useState } from 'react';
 
-export default function Rooms() {
+interface RoomsProps {
+  minRooms: number | null;
+  maxRooms: number | null;
+  handleMinRoomsChange: (value: number | null) => void;
+  handleMaxRoomsChange: (value: number | null) => void;
+}
 
-  const [minRooms, setMinRooms] = React.useState<number | null>(null)
-  const [maxRooms, setMaxRooms] = React.useState<number | null>(null)
+export default function Rooms(props: RoomsProps) {
 
-  console.log("minRooms value: ",minRooms)
-  console.log("maxRooms value: ",maxRooms)
-
-  const handleMinRoomsChange = (event: React.ChangeEvent<HTMLInputElement>) => {
-    const value = parseInt(event.target.value, 10)
-    setMinRooms(isNaN(value) ? null : value)
-  }
-
-  const handleMaxRoomsChange = (event: React.ChangeEvent<HTMLInputElement>) => {
-    const value = parseInt(event.target.value, 10)
-    setMaxRooms(isNaN(value) ? null : value)
-  }
+  const { minRooms, maxRooms, handleMinRoomsChange, handleMaxRoomsChange } = props;
 
   return (
     <Box
       component="form"
       sx={{
-        '& .MuiTextField-root': { m: 1, width: '25ch' },
+        '& .MuiTextField-root': { m: 1, width: '22.5ch' },
       }}
       noValidate
       autoComplete="off"
@@ -36,7 +29,7 @@ export default function Rooms() {
           label="Tubade arv alates"
           type="number"
           value={minRooms !== null ? minRooms : ''}
-          onChange={handleMinRoomsChange}
+          onChange={(e) => handleMinRoomsChange(parseInt(e.target.value, 10))}
           InputLabelProps={{
             shrink: true,
           }}
@@ -46,7 +39,7 @@ export default function Rooms() {
           label="Tubade arv kuni"
           type="number"
           value={maxRooms !== null ? maxRooms : ''}
-          onChange={handleMaxRoomsChange}
+          onChange={(e) => handleMaxRoomsChange(parseInt(e.target.value, 10))}
           InputLabelProps={{
             shrink: true,
           }}
