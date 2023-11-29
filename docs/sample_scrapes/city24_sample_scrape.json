@@ -1,0 +1,638 @@
+[
+  {
+    "id": "2213534",
+    "images": [
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/5729\/962015729.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/6646\/1859686646.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/6321\/3567706321.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/1872\/181361872.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/4117\/2237904117.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/4671\/2594344671.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/8808\/1662748808.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/1120\/2012221120.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/9463\/701139463.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/6641\/2570056641.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/0688\/1201410688.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/6737\/2829896737.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/5801\/3623795801.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/6840\/3077926840.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/8353\/3269448353.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/3476\/125613476.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/4404\/488384404.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/1120\/2885601120.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/8113\/1281278113.jpg"
+    ],
+    "main_image": {
+      "url": "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/5729\/962015729.jpg"
+    },
+    "broker": {
+      "id": "520182",
+      "business_card": null,
+      "average_rating": null,
+      "awards": [],
+      "email_address": "mi.ljudmilla@gmail.com",
+      "first_name": "Ljudmilla",
+      "last_name": "Mishina",
+      "image_url": null,
+      "phone_number": "56900478",
+      "phone_number2": null,
+      "is_vip": false,
+      "slug": "ljudmilla-mishina",
+      "statistics": "\/broker\/520182\/statistics"
+    },
+    "office": null,
+    "slogans": {
+      "et_EE": {
+        "slogan": "Hubane korter koos oma parkimiskohaga."
+      }
+    },
+    "new": false,
+    "date_published": "2023-11-06T00:00:00+02:00",
+    "friendly_id": "2052980",
+    "guid": "MOB_612492",
+    "latitude": 59.448957,
+    "longitude": 24.690973,
+    "price": "390.00",
+    "price_per_unit": "16.25",
+    "room_count": 1,
+    "transaction_type": "\/transaction_types\/2",
+    "property_size": 24.0,
+    "size_unit_id": 1,
+    "lot_size": null,
+    "lot_size_unit_id": 1,
+    "address": {
+      "apartment_number": null,
+      "house_number": "11",
+      "street": {
+        "id": 9566,
+        "name": "Randla tn",
+        "classifier": "03P9",
+        "agg_field": 9566
+      },
+      "location_name": null,
+      "county": {
+        "id": 1,
+        "name": "Harju maakond",
+        "classifier": "0037"
+      },
+      "parish": {
+        "id": 181,
+        "name": "Tallinn",
+        "classifier": "0784"
+      },
+      "city": {
+        "id": 3166,
+        "name": "P\u00f5hja-Tallinna linnaosa",
+        "classifier": "0614"
+      },
+      "district": null,
+      "county_name": "Harju maakond",
+      "parish_name": "Tallinn",
+      "city_name": "P\u00f5hja-Tallinna linnaosa",
+      "district_name": null,
+      "street_name": "Randla tn"
+    },
+    "status_id": 2,
+    "project": null,
+    "videos": [],
+    "show_price_drop": true,
+    "attributes": {
+      "COUNT_PRICE_PER_UNIT_AUTO": true,
+      "PRICE_PER_UNIT_MEASUREMENT": 1,
+      "OTHER_USE_POSSIBLE": false,
+      "DETAILED_PLAN": false,
+      "RENT_TO_OWN": false,
+      "FLOOR": 1,
+      "TOTAL_FLOORS": 5,
+      "BUILDING_MATERIAL": [
+        "stone_house"
+      ],
+      "CONDITION": [
+        "renovated",
+        "ready"
+      ],
+      "ENERGY_CERTIFICATE_TYPE": [
+        "no_certificate"
+      ],
+      "DEPOSIT_MONEY": "200.00",
+      "NUMBER_OF_BEDROOMS": 1,
+      "NUMBER_OF_BATHROOMS": 1,
+      "PARKING_SELECTION": [
+        "designated_parking"
+      ],
+      "HEATING_SYSTEM": [
+        "central_heating"
+      ],
+      "SANITARY_ARRANGEMENTS": [
+        "shower",
+        "washing_maschine",
+        "has_central_sewerage"
+      ],
+      "STOVE": [
+        "ELECTRIC_STOVE"
+      ],
+      "VENTILATION_TYPE": [
+        "compulsory_ventilation"
+      ],
+      "RENT_COMMUNAL_COSTS": [
+        "all_communal_costs"
+      ],
+      "COMMUNICATIONS": [
+        "Internet",
+        "Digi_TV"
+      ],
+      "SECURITY": [
+        "locked_staircase",
+        "neighbourhood_watch",
+        "steel_door",
+        "video_cameras"
+      ],
+      "CLOSED_YARD": true,
+      "FURNITURE": true,
+      "FURNISHING_POSSIBLE": true,
+      "REFRIGERATOR": true,
+      "PETS_ALLOWED": true,
+      "OWNERSHIP": [
+        "apartment_ownership"
+      ],
+      "LIFT": true,
+      "IMMEDIATELY_AVAILABLE": true,
+      "RENT_SUMMER_COMMUNAL_COSTS": "80.00",
+      "RENT_WINTER_COMMUNAL_COSTS": "110.00",
+      "KITCHEN_AREA": "24.00",
+      "ON_LAST_FLOOR": false
+    },
+    "virtual_tours": [],
+    "unit_type": "Apartment",
+    "old_price": null,
+    "booked": null,
+    "ad_level": 1
+  },
+  {
+    "id": "2216504",
+    "images": [
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/4922\/7427074922.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/0755\/7091670755.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/1048\/5164661048.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/6594\/7560556594.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/5097\/5765405097.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/4963\/4819724963.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/3942\/4710783942.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/1600\/7296571600.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/2665\/5746882665.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/3185\/5632023185.jpg"
+    ],
+    "main_image": {
+      "url": "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/4922\/7427074922.jpg"
+    },
+    "broker": {
+      "id": "505787",
+      "business_card": {
+        "additional_contacts": [
+          {
+            "dtype": "EMAIL",
+            "value": "heidi.kivirand@koduingel.ee"
+          },
+          {
+            "dtype": "PHONE",
+            "value": "+372 54001137"
+          },
+          {
+            "dtype": "FAX",
+            "value": null
+          }
+        ],
+        "first_name": "Heidi",
+        "last_name": "Kivirand",
+        "picture_url": "https:\/\/c24ee.img-bcg.eu\/user\/{fmt:em}\/4100\/3025374100.jpg",
+        "title": null,
+        "certified_broker": false,
+        "member_of_ecreb": false,
+        "educated_broker": true,
+        "highly_rated_broker": false,
+        "certificate_number": null,
+        "second_picture_url": null,
+        "em_image_name_second_pic": null,
+        "active_branding": false,
+        "color_hex_code": "#000000",
+        "em_image_name_cover_pic": null,
+        "em_image_name": "3025374100.jpg",
+        "cover_url": null,
+        "em_image_name_logo_pic": null,
+        "logo_url": null,
+        "member_real_estate_agents_registry": true,
+        "full_name": "Heidi Kivirand"
+      },
+      "average_rating": 2.9,
+      "awards": [],
+      "email_address": "heidi.kivirand@koduingel.ee",
+      "first_name": "Heidi",
+      "last_name": "Kivirand",
+      "image_url": null,
+      "phone_number": "+372 54001137",
+      "phone_number2": null,
+      "is_vip": true,
+      "slug": "heidi-kivirand",
+      "statistics": "\/broker\/505787\/statistics",
+      "office": [
+        {
+          "id": "8574",
+          "company": {
+            "id": "13641",
+            "classified_products": [
+              {
+                "id": 1957,
+                "product_level": "PROFIPAKETT_KV",
+                "is_np_branded_block_enabled": false,
+                "is_big_np_branded_block_enabled": false,
+                "np_friendly_id": null
+              }
+            ],
+            "guid": "koduingel_ou_1",
+            "name": "Koduingel O\u00dc"
+          },
+          "business_card": {
+            "facebook_url": null,
+            "skype_name": null,
+            "twitter_url": null,
+            "logo_url": "https:\/\/c24ee.img-bcg.eu\/office_main_logo\/{fmt:em}\/bb8d\/asc552908196f0432dbb8d.jpg",
+            "linkedin_url": null,
+            "addresses": {
+              "STREET": {
+                "address_type": "STREET",
+                "city": "Tallinn",
+                "postal_code": "10613",
+                "street_name": "Tulika 19"
+              },
+              "POSTAL": {
+                "address_type": "POSTAL",
+                "city": "Tallinn",
+                "postal_code": "10613",
+                "street_name": "Tulika 19"
+              }
+            },
+            "em_image_name": "asc552908196f0432dbb8d.jpg",
+            "office_name": "Koduingel O\u00dc",
+            "email_addresses": [
+              "info@koduingel.ee"
+            ],
+            "phone_numbers": [
+              "+372 6190095"
+            ],
+            "web_addresses": []
+          },
+          "classified_products": [],
+          "name": "Koduingel O\u00dc",
+          "developer": false,
+          "slug": "koduingel-ou"
+        }
+      ]
+    },
+    "office": {
+      "id": "8574",
+      "company": {
+        "id": "13641",
+        "external_id": "001w0000015a3CJAAY",
+        "guid": "koduingel_ou_1",
+        "name": "Koduingel O\u00dc"
+      },
+      "external_id": "001w0000015a3CTAAY",
+      "guid": "koduingel_ou_1"
+    },
+    "slogans": {
+      "et_EE": {
+        "slogan": "LEMMIKLOOMAS\u00d5BRALIK KODU. ILMA VAHENDUSTASUTA."
+      }
+    },
+    "new": false,
+    "date_published": "2023-11-16T18:02:15+02:00",
+    "friendly_id": "9170241",
+    "guid": "XML_IMPORT_EE_8574_3582164",
+    "latitude": 59.4464016,
+    "longitude": 24.7301634,
+    "price": "397.00",
+    "price_per_unit": "21.34",
+    "room_count": 1,
+    "transaction_type": "\/transaction_types\/2",
+    "property_size": 18.6,
+    "size_unit_id": 1,
+    "lot_size": null,
+    "lot_size_unit_id": 1,
+    "address": {
+      "apartment_number": null,
+      "house_number": "31",
+      "street": {
+        "id": 10487,
+        "name": "Salme tn",
+        "classifier": "03PF",
+        "agg_field": 10487
+      },
+      "location_name": "",
+      "county": {
+        "id": 1,
+        "name": "Harju maakond",
+        "classifier": "0037"
+      },
+      "parish": {
+        "id": 181,
+        "name": "Tallinn",
+        "classifier": "0784"
+      },
+      "city": {
+        "id": 3166,
+        "name": "P\u00f5hja-Tallinna linnaosa",
+        "classifier": "0614"
+      },
+      "district": null,
+      "county_name": "Harju maakond",
+      "parish_name": "Tallinn",
+      "city_name": "P\u00f5hja-Tallinna linnaosa",
+      "district_name": null,
+      "street_name": "Salme tn"
+    },
+    "status_id": 2,
+    "project": null,
+    "videos": null,
+    "show_price_drop": true,
+    "attributes": {
+      "STOVE": [
+        "ELECTRIC_STOVE"
+      ],
+      "SECURITY": [
+        "steel_door",
+        "locked_staircase"
+      ],
+      "HEATING_SYSTEM": [
+        "gas_heating"
+      ],
+      "COMMUNICATIONS": [
+        "cable_TV",
+        "Internet"
+      ],
+      "SANITARY_ARRANGEMENTS": [
+        "shower",
+        "washing_maschine"
+      ],
+      "ENERGY_CERTIFICATE_TYPE": [
+        "F"
+      ],
+      "REFRIGERATOR": true,
+      "FURNITURE": true,
+      "TOTAL_FLOORS": 3,
+      "FLOOR": 3,
+      "CONDITION": [
+        "ready"
+      ],
+      "BUILDING_MATERIAL": [
+        "wooden_house"
+      ],
+      "ON_LAST_FLOOR": true
+    },
+    "virtual_tours": [],
+    "unit_type": "Apartment",
+    "old_price": null,
+    "booked": null,
+    "ad_level": 1
+  },
+  {
+    "id": "2208493",
+    "images": [
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/1749\/1873311749.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/4870\/2582474870.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/9398\/576569398.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/5948\/772235948.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/7351\/1834147351.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/9746\/2689869746.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/9774\/2876549774.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/3553\/838743553.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/8929\/4221458929.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/0504\/2602140504.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/5897\/4066555897.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/3531\/2802513531.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/2114\/1212262114.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/4087\/27584087.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/7224\/2737337224.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/0256\/4190440256.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/6081\/3216296081.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/6020\/2032466020.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/8480\/4069378480.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/3667\/285253667.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/0720\/2380170720.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/5442\/1368305442.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/1639\/893931639.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/2482\/64572482.jpg",
+      "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/2867\/3502902867.jpg"
+    ],
+    "main_image": {
+      "url": "https:\/\/c24ee.img-bcg.eu\/object\/{fmt:em}\/1749\/1873311749.jpg"
+    },
+    "broker": {
+      "id": "380021",
+      "business_card": {
+        "additional_contacts": [
+          {
+            "dtype": "EMAIL",
+            "value": "info@rilen.ee"
+          },
+          {
+            "dtype": "PHONE",
+            "value": "+372 5575523"
+          },
+          {
+            "dtype": "FAX",
+            "value": null
+          }
+        ],
+        "first_name": "Roman",
+        "last_name": "Kurilenko",
+        "picture_url": "https:\/\/c24ee.img-bcg.eu\/user\/{fmt:em}\/9650\/1420799650.jpg",
+        "title": "Juhtiv partner",
+        "certified_broker": false,
+        "member_of_ecreb": false,
+        "educated_broker": true,
+        "highly_rated_broker": false,
+        "certificate_number": null,
+        "second_picture_url": null,
+        "em_image_name_second_pic": null,
+        "active_branding": false,
+        "color_hex_code": null,
+        "em_image_name_cover_pic": null,
+        "em_image_name": "1420799650.JPG",
+        "cover_url": null,
+        "em_image_name_logo_pic": null,
+        "logo_url": null,
+        "member_real_estate_agents_registry": false,
+        "full_name": "Roman Kurilenko"
+      },
+      "average_rating": 2.92,
+      "awards": [],
+      "email_address": "info@rilen.ee",
+      "first_name": "Roman",
+      "last_name": "Kurilenko",
+      "image_url": null,
+      "phone_number": "+372 5575523",
+      "phone_number2": null,
+      "is_vip": false,
+      "slug": "roman-kurilenko",
+      "statistics": "\/broker\/380021\/statistics",
+      "office": [
+        {
+          "id": "10221",
+          "company": {
+            "id": "15256",
+            "classified_products": [
+              {
+                "id": 5214,
+                "product_level": "PROFIPAKETT_KV",
+                "is_np_branded_block_enabled": false,
+                "is_big_np_branded_block_enabled": false,
+                "np_friendly_id": null
+              }
+            ],
+            "guid": "rilen_ou_1",
+            "name": "Rilen O\u00dc"
+          },
+          "business_card": {
+            "facebook_url": null,
+            "skype_name": null,
+            "twitter_url": null,
+            "logo_url": null,
+            "linkedin_url": null,
+            "addresses": {
+              "POSTAL": {
+                "address_type": "POSTAL",
+                "city": "Tallinn",
+                "postal_code": null,
+                "street_name": "P\u00e4rnu mnt 105"
+              },
+              "STREET": {
+                "address_type": "STREET",
+                "city": "Tallinn",
+                "postal_code": null,
+                "street_name": "P\u00e4rnu mnt 105"
+              }
+            },
+            "em_image_name": null,
+            "office_name": "Rilen O\u00dc",
+            "email_addresses": [
+              "info@rilen.ee"
+            ],
+            "phone_numbers": [
+              "+372 5189827"
+            ],
+            "web_addresses": [
+              "rilen.ee"
+            ]
+          },
+          "classified_products": [],
+          "name": "Rilen O\u00dc",
+          "developer": false,
+          "slug": "rilen-ou"
+        }
+      ]
+    },
+    "office": {
+      "id": "10221",
+      "company": {
+        "id": "15256",
+        "external_id": null,
+        "guid": "rilen_ou_1",
+        "name": "Rilen O\u00dc"
+      },
+      "external_id": null,
+      "guid": "rilen_ou_1"
+    },
+    "slogans": {
+      "ru_RU": {
+        "slogan": "\u0422\u0415\u041f\u041b\u0410\u042f \u0418 \u0423\u042e\u0422\u041d\u0410\u042f \u041a\u0412\u0410\u0420\u0422\u0418\u0420\u0410, \u0416\u0418\u0412\u041e\u0422\u041d\u042b\u0415 \u0420\u0410\u0417\u0420\u0415\u0428\u0415\u041d\u042b!"
+      },
+      "et_EE": {
+        "slogan": "LEMMIKLOOMAD ON LUBATUD, SOE JA HUBANE KORTER!"
+      }
+    },
+    "new": false,
+    "date_published": "2023-10-17T12:03:13+03:00",
+    "friendly_id": "7655233",
+    "guid": "XML_IMPORT_EE_10221_3585963",
+    "latitude": 59.4518,
+    "longitude": 24.677631,
+    "price": "390.00",
+    "price_per_unit": "7.96",
+    "room_count": 2,
+    "transaction_type": "\/transaction_types\/2",
+    "property_size": 49.0,
+    "size_unit_id": 1,
+    "lot_size": null,
+    "lot_size_unit_id": 1,
+    "address": {
+      "apartment_number": null,
+      "house_number": "14",
+      "street": {
+        "id": 10048,
+        "name": "Kopliranna tn",
+        "classifier": "04CX",
+        "agg_field": 10048
+      },
+      "location_name": "",
+      "county": {
+        "id": 1,
+        "name": "Harju maakond",
+        "classifier": "0037"
+      },
+      "parish": {
+        "id": 181,
+        "name": "Tallinn",
+        "classifier": "0784"
+      },
+      "city": {
+        "id": 3166,
+        "name": "P\u00f5hja-Tallinna linnaosa",
+        "classifier": "0614"
+      },
+      "district": null,
+      "county_name": "Harju maakond",
+      "parish_name": "Tallinn",
+      "city_name": "P\u00f5hja-Tallinna linnaosa",
+      "district_name": null,
+      "street_name": "Kopliranna tn"
+    },
+    "status_id": 2,
+    "project": null,
+    "videos": null,
+    "show_price_drop": true,
+    "attributes": {
+      "STOVE": [
+        "GAS_STOVE"
+      ],
+      "SECURITY": [
+        "neighbourhood_watch",
+        "steel_door",
+        "locked_staircase"
+      ],
+      "SANITARY_ARRANGEMENTS": [
+        "shower",
+        "boiler",
+        "washing_maschine"
+      ],
+      "FURNITURE": true,
+      "RENT_SUMMER_COMMUNAL_COSTS": "100.00",
+      "RENT_WINTER_COMMUNAL_COSTS": "100.00",
+      "TOTAL_FLOORS": 2,
+      "FLOOR": 2,
+      "NUMBER_OF_BEDROOMS": 2,
+      "COMMUNICATIONS": [
+        "cable_TV"
+      ],
+      "PARKING_FREE": true,
+      "CONDITION": [
+        "needs_decoration"
+      ],
+      "ON_LAST_FLOOR": true
+    },
+    "virtual_tours": [],
+    "unit_type": "Apartment",
+    "old_price": null,
+    "booked": null,
+    "ad_level": null
+  }
+]
