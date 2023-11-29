@@ -2,6 +2,7 @@ import AuthButton from '../components/AuthButton'
 import Body from '@/components/Body'
 import Footer from '@/components/Footer'
 import UserFields from '@/components/UserFields'
+import Link from 'next/link'
 
 export default async function Index() {
 
@@ -11,6 +12,15 @@ export default async function Index() {
         <nav className="w-full flex justify-center border-b border-b-foreground/10 h-16">
           <div className="w-full max-w-4xl flex justify-between items-center p-3 text-sm">
             <AuthButton />
+            <button className="py-2 px-4 rounded-md no-underline bg-btn-background hover:bg-btn-background-hover">
+              <Link
+                href="/login"
+                className="py-2 px-3 flex rounded-md no-underline bg-btn-background hover:bg-btn-background-hover"
+              >
+                About Us
+              </Link>
+              
+            </button>
           </div>
         </nav>
         <div className="user-fields-container">
