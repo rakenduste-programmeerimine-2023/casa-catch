@@ -3,7 +3,7 @@ import { Box, Container } from '@mui/material';
 import { createClient } from '@/utils/supabase/server';
 import { cookies } from 'next/headers';
 
-export default async function Profile() {
+export default async function Admin() {
   const cookieStore = cookies();
   const supabase = createClient(cookieStore);
   const { data: { user } } = await supabase.auth.getUser();
