@@ -3,6 +3,7 @@ import Body from '@/components/Body'
 import Footer from '@/components/Footer'
 import UserFields from '@/components/UserFields'
 import Link from 'next/link'
+import WebsocketButton from "@/components/WebsocketButton";
 
 export default async function Index() {
 
@@ -25,6 +26,7 @@ export default async function Index() {
         </nav>
         <div className="user-fields-container">
           <UserFields />
+          <WebsocketButton />
         </div>
 
 

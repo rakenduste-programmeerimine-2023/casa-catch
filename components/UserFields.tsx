@@ -21,12 +21,8 @@ import Pricerange from '@/components/Pricerange';
 export default function UserFields() {
   const defaultProps = {
     options: maakonnad,
-    getOptionLabel: (option: DropdownOption) => option.title,
   };
-  const flatProps = {
-    options: maakonnad.map((option) => option.title),
-  };
-
+  maakonnad.map((option) => option.title);
   const [minRooms, setMinRooms] = React.useState<number | null>(null);
   const [maxRooms, setMaxRooms] = React.useState<number | null>(null);
   const [minPrice, setMinPrice] = useState<number | null>(null)
