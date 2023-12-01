@@ -2,27 +2,25 @@
 
 import * as React from 'react';
 import TextField from '@mui/material/TextField';
-import Autocomplete from '@mui/material/Autocomplete';
+import Autocomplete, {AutocompleteRenderInputParams} from '@mui/material/Autocomplete';
 import Stack from '@mui/material/Stack';
 import { useState } from 'react';
-import Radio from '@mui/material/Radio';
-import RadioGroup from '@mui/material/RadioGroup';
 import FormControlLabel from '@mui/material/FormControlLabel';
-import FormControl from '@mui/material/FormControl';
-import FormLabel from '@mui/material/FormLabel';
 import FormGroup from '@mui/material/FormGroup';
 import Checkbox from '@mui/material/Checkbox';
 import District from '@/components/District';
 import Rooms from '@/components/Rooms';
 import Pricerange from '@/components/Pricerange';
 
-
+interface UserFieldsProps {
+  options: { title: string }[];
+}
 
 export default function UserFields() {
-  const defaultProps = {
+  const defaultProps: UserFieldsProps = {
     options: maakonnad,
   };
-  maakonnad.map((option) => option.title);
+  maakonnad.map((option: { title: string }) => option.title);
   const [minRooms, setMinRooms] = React.useState<number | null>(null);
   const [maxRooms, setMaxRooms] = React.useState<number | null>(null);
   const [minPrice, setMinPrice] = useState<number | null>(null)
@@ -30,30 +28,30 @@ export default function UserFields() {
   const [selectedTags, setSelectedTags] = useState<string[]>([])
 
   const [propertyType, setPropertyType] = useState<string>('Üür')
-  const [fromOwner, setfromOwner] = useState<boolean>(false)
+  const [fromOwner, setFromOwner] = useState<boolean>(false)
   const [swapOption, setSwapOption] = useState<boolean>(false)
 
-  const handleMinRoomsChange = (value: number | null) => {
+  const handleMinRoomsChange = (value: number | null): void => {
     setMinRooms(value);
   };
 
-  const handleMaxRoomsChange = (value: number | null) => {
+  const handleMaxRoomsChange = (value: number | null): void => {
     setMaxRooms(value);
   }
 
-  const handleMinPriceChange = (value: number | null) => {
+  const handleMinPriceChange = (value: number | null): void => {
     setMinPrice(value)
   }
 
-  const handleMaxPriceChange = (value: number | null) => {
+  const handleMaxPriceChange = (value: number | null): void => {
     setMaxPrice(value)
   }
 
-  const handleTagDelete = (tagToDelete: string) => {
-    setSelectedTags((prevTags) => prevTags.filter((tag) => tag !== tagToDelete));
+  const handleTagDelete = (tagToDelete: string): void => {
+    setSelectedTags((prevTags: string[]) => prevTags.filter((tag: string): boolean => tag !== tagToDelete));
   };
 
-  const handleSubmit = () => {
+  const handleSubmit = (): void => {
     // Handle form submission logic here
     console.log("Form submitted with the following data:");
     console.log("Kinnisvaratüüp:", propertyType);
@@ -70,7 +68,7 @@ export default function UserFields() {
     setMaxPrice(null);
     setSelectedTags([]);
     setPropertyType('Üür');
-    setfromOwner(false);
+    setFromOwner(false);
     setSwapOption(false);
   };
 
@@ -81,7 +79,7 @@ export default function UserFields() {
             {...defaultProps}
             id="clear-on-escape"
             clearOnEscape
-            renderInput={(params) => (
+            renderInput={(params: AutocompleteRenderInputParams) => (
             <TextField {...params} label="Maakond" variant="standard" />
             )}
         />
@@ -89,7 +87,7 @@ export default function UserFields() {
             {...defaultProps}
             id="clear-on-escape"
             clearOnEscape
-            renderInput={(params) => (
+            renderInput={(params: AutocompleteRenderInputParams) => (
             <TextField {...params} label="Linn/vald" variant="standard" />
             )}
         />
@@ -98,8 +96,8 @@ export default function UserFields() {
             id="clear-on-escape"
             clearOnEscape
             value={propertyType}
-            onChange={(event, value) => setPropertyType(value!)}
-            renderInput={(params) => (
+            onChange={(event, value: string | null) => setPropertyType(value!)}
+            renderInput={(params: AutocompleteRenderInputParams) => (
             <TextField {...params} label="Kinnisvaratüüp" variant="standard" />
             )}
         />
@@ -107,7 +105,7 @@ export default function UserFields() {
       <div className="radio-button-fields-buytype">
             <FormGroup>
             <FormControlLabel 
-            control={<Checkbox checked={fromOwner} onChange={() => setfromOwner(!fromOwner)} />} 
+            control={<Checkbox checked={fromOwner} onChange={() => setFromOwner(!fromOwner)} />}
             label="Otse omanikult" 
             />
             <FormControlLabel 
@@ -147,11 +145,7 @@ export default function UserFields() {
   );
 }
 
-interface DropdownOption {
-  title: string;
-}
-
-const maakonnad = [
+const maakonnad: { title: string }[] = [
   { title: 'Harjumaa' },
 ];
 
