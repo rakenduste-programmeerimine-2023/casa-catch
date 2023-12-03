@@ -6,17 +6,26 @@ import {io, Socket} from "socket.io-client";
 export default function WebsocketButton() {
   const [isConnected, setIsConnected] = useState<boolean>(false)
   // const [messages, setMessages] = useState<[]>([])
+  const sampleData = {
+    districts: ['Kadriorg', 'Mustamäe'],
+    minPrice: 200,
+    maxPrice: 600,
+    minRooms: 1,
+    maxRooms: 3,
+  }
 
   function sendWebsocketServerHello(): void {
-    const socket: Socket = io("ws://localhost:8080", { transports: ["websocket"] });
+    const socket: Socket = io("ws://localhost:8080", { transports: ["websocket"], reconnectionAttempts: 3 });
 
     socket.on("connect", (): void => {
       setIsConnected(true);
       console.log(`Websocket client connection established, client id: ${socket.id}`)
+      // socket.send(sampleData)
     });
 
     socket.on("disconnect", (): void => {
       setIsConnected(false);
+      console.log(`Websocket client disconnected, client id: ${socket.id}`)
     });
 
     socket.on("acknowledgement", (e): void => {
@@ -26,7 +35,16 @@ export default function WebsocketButton() {
       socket.close();
     });
 
-    socket.emit("chat", "Hello world");
+    socket.on('real-estate-json-data-response', (data) => {
+      console.log(data)
+    })
+
+    // socket.on("hello", (message): void => {
+    //   console.log(message)
+    //   // socket.close()
+    // })
+
+    socket.emit("real-estate", JSON.stringify(sampleData))
   }
 
   return (
