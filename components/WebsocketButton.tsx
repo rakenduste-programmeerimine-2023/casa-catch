@@ -2,10 +2,13 @@
 
 import { useState} from "react";
 import {io, Socket} from "socket.io-client";
-import {WsRealEstateRequestData} from "@/shared/interfaces/ws-real-estate-response-data.interface";
+import {WsRealEstateResponseData} from "@/shared/interfaces/ws-real-estate-response-data.interface";
+import CustomizedTables from "@/components/CustomizedTables";
+
 
 export default function WebsocketButton() {
   const [isConnected, setIsConnected] = useState<boolean>(false)
+  const [realTimeData, setRealTimeData] = useState<WsRealEstateResponseData[]>([]);
   // const [messages, setMessages] = useState<[]>([])
   const sampleData = {
     districts: ["Kadriorg", "Mustamäe"],
@@ -38,7 +41,7 @@ export default function WebsocketButton() {
     //   socket.close();
     // });
 
-    socket.on('real-estate-json-data-response', (data: WsRealEstateRequestData) => {
+    socket.on('real-estate-json-data-response', (data: WsRealEstateResponseData) => {
       // const responseData: WsRealEstateRequestData = {
       //   districts: data.districts,
       //   fromOwner: data.fromOwner,
@@ -51,6 +54,7 @@ export default function WebsocketButton() {
       //   propertyType: data.propertyType,
       // }
       console.log(data)
+      setRealTimeData(prevArray => [...prevArray, data])
     })
 
     // socket.on("hello", (message): void => {
@@ -70,6 +74,7 @@ export default function WebsocketButton() {
         <button className="py-2 px-4 rounded-md no-underline bg-btn-background hover:bg-btn-background-hover"
           onClick={sendWebsocketServerHello}
         >Test websocket</button>
+        <CustomizedTables realTimeData={realTimeData} />
       </div>
     </>
   )
