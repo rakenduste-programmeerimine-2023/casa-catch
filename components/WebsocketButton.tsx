@@ -2,16 +2,18 @@
 
 import { useState} from "react";
 import {io, Socket} from "socket.io-client";
+import {WsRealEstateRequestData} from "@/shared/interfaces/ws-real-estate-response-data.interface";
 
 export default function WebsocketButton() {
   const [isConnected, setIsConnected] = useState<boolean>(false)
   // const [messages, setMessages] = useState<[]>([])
   const sampleData = {
-    districts: ['Kadriorg', 'Mustamäe'],
+    districts: ["Kadriorg", "Mustamäe"],
     minPrice: 200,
     maxPrice: 600,
     minRooms: 1,
     maxRooms: 3,
+    objectTypes: ["apartment"]
   }
 
   function sendWebsocketServerHello(): void {
@@ -19,8 +21,9 @@ export default function WebsocketButton() {
 
     socket.on("connect", (): void => {
       setIsConnected(true);
-      console.log(`Websocket client connection established, client id: ${socket.id}`)
+      console.log(`Websocket client connection established, client id: ${socket.id}`);
       // socket.send(sampleData)
+      // socket.emit("real-estate", sampleData);
     });
 
     socket.on("disconnect", (): void => {
@@ -28,14 +31,25 @@ export default function WebsocketButton() {
       console.log(`Websocket client disconnected, client id: ${socket.id}`)
     });
 
-    socket.on("acknowledgement", (e): void => {
-      console.log(`Message from the server: ${e}`);
+    // socket.on("acknowledgement", (e): void => {
+    //   console.log(`Message from the server: ${e}`);
+    //
+    //   // Closes the connection with the websocket once the data is received (server will do this as well)
+    //   socket.close();
+    // });
 
-      // Closes the connection with the websocket once the data is received (server will do this as well)
-      socket.close();
-    });
-
-    socket.on('real-estate-json-data-response', (data) => {
+    socket.on('real-estate-json-data-response', (data: WsRealEstateRequestData) => {
+      // const responseData: WsRealEstateRequestData = {
+      //   districts: data.districts,
+      //   fromOwner: data.fromOwner,
+      //   maxPrice: data.maxPrice,
+      //   maxRooms: data.maxRooms,
+      //   minPrice: data.minPrice,
+      //   minRooms: data.minRooms,
+      //   objectTypes: data.objectTypes,
+      //   propertySwapOption: data.propertySwapOption,
+      //   propertyType: data.propertyType,
+      // }
       console.log(data)
     })
 
@@ -43,8 +57,10 @@ export default function WebsocketButton() {
     //   console.log(message)
     //   // socket.close()
     // })
+    // console.log("Just sampleData: ", sampleData)
+    // console.log("Stringified: ", JSON.stringify(sampleData))
 
-    socket.emit("real-estate", JSON.stringify(sampleData))
+    socket.emit("real-estate", sampleData)
   }
 
   return (
