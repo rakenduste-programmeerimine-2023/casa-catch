@@ -2,6 +2,7 @@ import React from 'react';
 import { Container, Typography, Paper, Grid, AppBar, Toolbar } from '@mui/material';
 
 const AboutUsPage: React.FC = () => {
+  const meieImage: string = '/Users/rolandsilt/Desktop/Meie.jpg';
   return (
     <div>
       <AppBar position="static">
@@ -39,8 +40,7 @@ const AboutUsPage: React.FC = () => {
                 Meet the Team
               </Typography>
               <Typography variant="body1">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+              <img src={"/Users/rolandsilt/Desktop/Meie.png"} alt="Description of the image" width={300} height={200} />
               </Typography>
             </Paper>
           </Grid>
