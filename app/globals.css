@@ -48,32 +48,47 @@
 
 .data-stack-dropdown {
   width: 200px;
+  margin-top: -50px;
+  margin-left: 40px;
   background-color: white;
   text-align: left;
-  margin-left: 200px;
-}
-
-.radio-button-fields-housetype {
-  margin-top: -160px;
-  margin-left: 20px;
+  /* margin-left: 200px; */
 }
 
 .radio-button-fields-buytype {
   margin-top: 30px;
-  margin-left: 20px;
+  margin-left: 40px;
 }
 
 .districts {
   margin-top: -220px;
-  margin-left: 450px;
+  margin-left: 350px;
 }
 
 .rooms {
   margin-top: 20px;
-  margin-left: 440px;
+  margin-left: 340px;
 }
 
 .pricerange {
   margin-top: 23px;
-  margin-left: 440px;
+  margin-left: 340px;
+}
+
+.submit-button {
+  margin-left: 880px;
+  margin-top: -100px;
+}
+
+.submit-button button {
+  background-color: rgb(8, 159, 246);
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.submit-button button:hover {
+  background-color: rgb(0, 74, 139); 
 }

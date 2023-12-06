@@ -2,33 +2,75 @@
 
 import * as React from 'react';
 import TextField from '@mui/material/TextField';
-import Autocomplete from '@mui/material/Autocomplete';
+import Autocomplete, {AutocompleteRenderInputParams} from '@mui/material/Autocomplete';
 import Stack from '@mui/material/Stack';
 import { useState } from 'react';
-import Radio from '@mui/material/Radio';
-import RadioGroup from '@mui/material/RadioGroup';
 import FormControlLabel from '@mui/material/FormControlLabel';
-import FormControl from '@mui/material/FormControl';
-import FormLabel from '@mui/material/FormLabel';
 import FormGroup from '@mui/material/FormGroup';
 import Checkbox from '@mui/material/Checkbox';
 import District from '@/components/District';
 import Rooms from '@/components/Rooms';
 import Pricerange from '@/components/Pricerange';
 
-
+interface UserFieldsProps {
+  options: { title: string }[];
+}
 
 export default function UserFields() {
-  const defaultProps = {
+  const defaultProps: UserFieldsProps = {
     options: maakonnad,
-    getOptionLabel: (option: FilmOptionType) => option.title,
   };
-  const flatProps = {
-    options: maakonnad.map((option) => option.title),
+  maakonnad.map((option: { title: string }) => option.title);
+  const [minRooms, setMinRooms] = React.useState<number | null>(null);
+  const [maxRooms, setMaxRooms] = React.useState<number | null>(null);
+  const [minPrice, setMinPrice] = useState<number | null>(null)
+  const [maxPrice, setMaxPrice] = useState<number | null>(null)
+  const [selectedTags, setSelectedTags] = useState<string[]>([])
+
+  const [propertyType, setPropertyType] = useState<string>('Üür')
+  const [fromOwner, setFromOwner] = useState<boolean>(false)
+  const [swapOption, setSwapOption] = useState<boolean>(false)
+
+  const handleMinRoomsChange = (value: number | null): void => {
+    setMinRooms(value);
   };
-  const [value, setValue] = useState<FilmOptionType | null>(null);
 
+  const handleMaxRoomsChange = (value: number | null): void => {
+    setMaxRooms(value);
+  }
 
+  const handleMinPriceChange = (value: number | null): void => {
+    setMinPrice(value)
+  }
+
+  const handleMaxPriceChange = (value: number | null): void => {
+    setMaxPrice(value)
+  }
+
+  const handleTagDelete = (tagToDelete: string): void => {
+    setSelectedTags((prevTags: string[]) => prevTags.filter((tag: string): boolean => tag !== tagToDelete));
+  };
+
+  const handleSubmit = (): void => {
+    // Handle form submission logic here
+    console.log("Form submitted with the following data:");
+    console.log("Kinnisvaratüüp:", propertyType);
+    console.log("Otse omanikult:", fromOwner);
+    console.log("Vahetuse võimalus:", swapOption);
+    console.log("Selected tags:", selectedTags);
+    console.log("Min Rooms:", minRooms);
+    console.log("Max Rooms:", maxRooms);
+    console.log("Min Price:", minPrice);
+    console.log("Max Price:", maxPrice);
+    setMinRooms(null);
+    setMaxRooms(null);
+    setMinPrice(null);
+    setMaxPrice(null);
+    setSelectedTags([]);
+    setPropertyType('Üür');
+    setFromOwner(false);
+    setSwapOption(false);
+  };
 
   return (
     <>
@@ -37,7 +79,7 @@ export default function UserFields() {
             {...defaultProps}
             id="clear-on-escape"
             clearOnEscape
-            renderInput={(params) => (
+            renderInput={(params: AutocompleteRenderInputParams) => (
             <TextField {...params} label="Maakond" variant="standard" />
             )}
         />
@@ -45,73 +87,65 @@ export default function UserFields() {
             {...defaultProps}
             id="clear-on-escape"
             clearOnEscape
-            renderInput={(params) => (
+            renderInput={(params: AutocompleteRenderInputParams) => (
             <TextField {...params} label="Linn/vald" variant="standard" />
             )}
         />
          <Autocomplete
-            {...defaultProps}
+            options={["Üür", "Müük"]}
             id="clear-on-escape"
             clearOnEscape
-            renderInput={(params) => (
+            value={propertyType}
+            onChange={(event, value: string | null) => setPropertyType(value!)}
+            renderInput={(params: AutocompleteRenderInputParams) => (
             <TextField {...params} label="Kinnisvaratüüp" variant="standard" />
             )}
         />
         </Stack>
-        <div className="radio-button-fields-housetype">
-            <FormControl>
-            <FormLabel id="demo-radio-buttons-group-label">Tüüp</FormLabel>
-            <RadioGroup
-            aria-labelledby="demo-radio-buttons-group-label"
-            defaultValue="female"
-            name="radio-buttons-group"
-            >
-            <FormControlLabel value="myyk" control={<Radio />} label="Müük" />
-            <FormControlLabel value="yyr" control={<Radio />} label="Üür" />
-            </RadioGroup>
-        </FormControl>
-      </div>
       <div className="radio-button-fields-buytype">
             <FormGroup>
-            <FormControlLabel control={<Checkbox defaultChecked />} label="Otse omanikult" />
-            <FormControlLabel control={<Checkbox />} label="Vahetuse võimalus" />
+            <FormControlLabel 
+            control={<Checkbox checked={fromOwner} onChange={() => setFromOwner(!fromOwner)} />}
+            label="Otse omanikult" 
+            />
+            <FormControlLabel 
+            control={<Checkbox checked={swapOption} onChange={() => setSwapOption(!swapOption)} />} 
+            label="Vahetuse võimalus" 
+            />
             </FormGroup>
       </div>
       <div className="districts">
-            <District />
+            <District
+              selectedTags={selectedTags}
+              setSelectedTags={setSelectedTags}
+              handleTagDelete={handleTagDelete}
+             />
+              
       </div>
       <div className="rooms">
-            <Rooms />
+            <Rooms
+              minRooms={minRooms}
+              maxRooms={maxRooms}
+              handleMinRoomsChange={handleMinRoomsChange}
+              handleMaxRoomsChange={handleMaxRoomsChange}
+            />
       </div>
       <div className="pricerange">
-            <Pricerange />
+            <Pricerange 
+              minPrice={minPrice}
+              maxPrice={maxPrice}
+              handleMinPriceChange={handleMinPriceChange}
+              handleMaxPriceChange={handleMaxPriceChange}
+            />
+      </div>
+      <div className="submit-button">
+        <button onClick={handleSubmit}>Otsi</button>
       </div>
     </>
   );
 }
 
-interface FilmOptionType {
-  title: string;
-}
-
-const maakonnad = [
+const maakonnad: { title: string }[] = [
   { title: 'Harjumaa' },
-  { title: 'The Godfather' },
-  { title: 'The Godfather: Part II' }
 ];
 
-//  function RadioButtonsGroup() {
-//     return (
-//       <FormControl>
-//         <FormLabel id="demo-radio-buttons-group-label">Gender</FormLabel>
-//         <RadioGroup
-//           aria-labelledby="demo-radio-buttons-group-label"
-//           defaultValue="female"
-//           name="radio-buttons-group"
-//         >
-//           <FormControlLabel value="myyk" control={<Radio />} label="Müük" />
-//           <FormControlLabel value="yyr" control={<Radio />} label="Üür" />
-//         </RadioGroup>
-//       </FormControl>
-//     );
-//   }
