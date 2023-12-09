@@ -1,14 +1,15 @@
 'use client'
 
-import { useState} from "react";
+import {useContext, useState} from "react";
 import {io, Socket} from "socket.io-client";
 import {WsRealEstateResponseData} from "@/shared/interfaces/ws-real-estate-response-data.interface";
 import CustomizedTables from "@/components/CustomizedTables";
+import {useWebSocket} from "@/context/WebSocketContext";
 
 
 export default function WebsocketButton() {
   const [isConnected, setIsConnected] = useState<boolean>(false)
-  const [realTimeData, setRealTimeData] = useState<WsRealEstateResponseData[]>([]);
+  const {sendRealTimeData} = useWebSocket()
   // const [messages, setMessages] = useState<[]>([])
   const sampleData = {
     districts: ["Kadriorg", "Mustamäe"],
@@ -42,27 +43,8 @@ export default function WebsocketButton() {
     // });
 
     socket.on('real-estate-json-data-response', (data: WsRealEstateResponseData) => {
-      // const responseData: WsRealEstateRequestData = {
-      //   districts: data.districts,
-      //   fromOwner: data.fromOwner,
-      //   maxPrice: data.maxPrice,
-      //   maxRooms: data.maxRooms,
-      //   minPrice: data.minPrice,
-      //   minRooms: data.minRooms,
-      //   objectTypes: data.objectTypes,
-      //   propertySwapOption: data.propertySwapOption,
-      //   propertyType: data.propertyType,
-      // }
-      console.log(data)
-      setRealTimeData(prevArray => [...prevArray, data])
+      sendRealTimeData(data)
     })
-
-    // socket.on("hello", (message): void => {
-    //   console.log(message)
-    //   // socket.close()
-    // })
-    // console.log("Just sampleData: ", sampleData)
-    // console.log("Stringified: ", JSON.stringify(sampleData))
 
     socket.emit("real-estate", sampleData)
   }
@@ -74,7 +56,6 @@ export default function WebsocketButton() {
         <button className="py-2 px-4 rounded-md no-underline bg-btn-background hover:bg-btn-background-hover"
           onClick={sendWebsocketServerHello}
         >Test websocket</button>
-        <CustomizedTables realTimeData={realTimeData} />
       </div>
     </>
   )

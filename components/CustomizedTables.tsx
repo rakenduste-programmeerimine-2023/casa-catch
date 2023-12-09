@@ -9,6 +9,8 @@ import TableContainer from '@mui/material/TableContainer';
 import TableHead from '@mui/material/TableHead';
 import TableRow from '@mui/material/TableRow';
 import Paper from '@mui/material/Paper';
+import {useWebSocket} from "@/context/WebSocketContext";
+import {WsRealEstateResponseData} from "@/shared/interfaces/ws-real-estate-response-data.interface";
 
 const StyledTableCell = styled(TableCell)(({ theme }) => ({
   [`&.${tableCellClasses.head}`]: {
@@ -28,59 +30,42 @@ const StyledTableRow = styled(TableRow)(({ theme }) => ({
   '&:last-child td, &:last-child th': {
     border: 0,
   },
-}));
+}))
 
-function createData(
-  aadress: string,
-  imageURL: string,
-  price: number,
-  propertyAreaInSquareM: number,
-  propertyTitle: string,
-  rooms: number,
-  url: string
-) {
-  return { aadress, imageURL, price, propertyAreaInSquareM, propertyTitle, rooms, url };
-}
+export default function CustomizedTables() {
+  const { realTimeData } = useWebSocket()
 
-const rows = [
-  createData('Gingerbread', 'dddd', 16.0, 49, 'sss', 222, 'fsfs' ),
-  createData('Gingerbread', 'dddd', 16.0, 49, 'sss', 222, 'fsfs' ),
-  createData('Gingerbread', 'dddd', 16.0, 49, 'sss', 222, 'fsfs' ),
-  createData('Gingerbread', 'dddd', 16.0, 49, 'sss', 222, 'fsfs' ),
-  createData('Gingerbread', 'dddd', 16.0, 49, 'sss', 222, 'fsfs' ),
-  
-];
-
-//@ts-ignore
-export default function CustomizedTables({realTimeData}) {
-    console.log(realTimeData)
   return (
     <TableContainer component={Paper}>
       <Table sx={{ minWidth: 700 }} aria-label="customized table">
         <TableHead>
           <TableRow>
-            <StyledTableCell>Dessert (100g serving)</StyledTableCell>
+            <StyledTableCell>Aadress</StyledTableCell>
             <StyledTableCell align="right">Pilt</StyledTableCell>
-            <StyledTableCell align="right">Hind&nbsp;(g)</StyledTableCell>
-            <StyledTableCell align="right">Pindala&nbsp;(g)</StyledTableCell>
-            <StyledTableCell align="right">Nimetus&nbsp;(g)</StyledTableCell>
-            <StyledTableCell align="right">Toad&nbsp;(g)</StyledTableCell>
-            <StyledTableCell align="right">Link&nbsp;(g)</StyledTableCell>
+            <StyledTableCell align="right">Hind</StyledTableCell>
+            <StyledTableCell align="right">Pindala</StyledTableCell>
+            <StyledTableCell align="right">Linnaosa</StyledTableCell>
+            <StyledTableCell align="right">Toad</StyledTableCell>
+            <StyledTableCell align="right">Link</StyledTableCell>
 
           </TableRow>
         </TableHead>
         <TableBody>
-          {rows.map((row) => (
-            <StyledTableRow key={row.aadress}>
+          {realTimeData.map((row: WsRealEstateResponseData) => (
+            <StyledTableRow key={row.url}>
               <StyledTableCell component="th" scope="row">
-                {row.aadress}
+                {row.propertyTitle}
               </StyledTableCell>
-              <StyledTableCell align="right">{row.imageURL}</StyledTableCell>
+              <StyledTableCell align="center">
+                <a href={row.url} target="_blank" rel="noopener noreferrer">
+                  <img src={row.imageUrl.replace(/^"(.*)"$/, '$1')} alt="Property" style={{ maxWidth: '200px', maxHeight: '200px' }} />
+                </a>
+              </StyledTableCell>
               <StyledTableCell align="right">{row.price}</StyledTableCell>
-              <StyledTableCell align="right">{row.propertyAreaInSquareM}</StyledTableCell>
-              <StyledTableCell align="right">{row.propertyTitle}</StyledTableCell>
+              <StyledTableCell align="right">{row.propertyAreaInSquareM}m2</StyledTableCell>
+              <StyledTableCell align="right">{row.address.replace(/^"(.*)"$/, '$1')}</StyledTableCell>
               <StyledTableCell align="right">{row.rooms}</StyledTableCell>
-              <StyledTableCell align="right">{row.url}</StyledTableCell>
+              <StyledTableCell align="right"><a href={row.url}>Link</a></StyledTableCell>
 
 
             </StyledTableRow>
