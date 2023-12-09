@@ -4,6 +4,8 @@ import Footer from '@/components/Footer'
 import UserFields from '@/components/UserFields'
 import Link from 'next/link'
 import WebsocketButton from "@/components/WebsocketButton";
+import {WebSocketProvider} from "@/context/WebSocketContext";
+import CustomizedTables from "@/components/CustomizedTables";
 
 export default async function Index() {
 
@@ -25,8 +27,11 @@ export default async function Index() {
           </div>
         </nav>
         <div className="user-fields-container">
-          <UserFields />
-          <WebsocketButton />
+          <WebSocketProvider>
+            <UserFields />
+            <WebsocketButton />
+            <CustomizedTables />
+          </WebSocketProvider>
         </div>
 
 
