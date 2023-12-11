@@ -11,7 +11,6 @@ interface RoomsProps {
 }
 
 export default function Rooms(props: RoomsProps) {
-
   const { minRooms, maxRooms, handleMinRoomsChange, handleMaxRoomsChange } = props;
 
   return (
