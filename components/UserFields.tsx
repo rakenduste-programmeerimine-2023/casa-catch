@@ -11,6 +11,7 @@ import Checkbox from '@mui/material/Checkbox';
 import District from '@/components/District';
 import Rooms from '@/components/Rooms';
 import Pricerange from '@/components/Pricerange';
+import WebsocketButton from "@/components/WebsocketButton";
 
 interface UserFieldsProps {
   options: { title: string }[];
@@ -51,95 +52,87 @@ export default function UserFields() {
     setSelectedTags((prevTags: string[]) => prevTags.filter((tag: string): boolean => tag !== tagToDelete));
   };
 
-  const handleSubmit = (): void => {
-    // Handle form submission logic here
-    console.log("Form submitted with the following data:");
-    console.log("Kinnisvaratüüp:", propertyType);
-    console.log("Otse omanikult:", fromOwner);
-    console.log("Vahetuse võimalus:", swapOption);
-    console.log("Selected tags:", selectedTags);
-    console.log("Min Rooms:", minRooms);
-    console.log("Max Rooms:", maxRooms);
-    console.log("Min Price:", minPrice);
-    console.log("Max Price:", maxPrice);
-    setMinRooms(null);
-    setMaxRooms(null);
-    setMinPrice(null);
-    setMaxPrice(null);
-    setSelectedTags([]);
-    setPropertyType('Üür');
-    setFromOwner(false);
-    setSwapOption(false);
-  };
+  const websocketButtonProps: UserFieldData = {
+    propertyType,
+    fromOwner,
+    swapOption,
+    selectedTags,
+    minRooms,
+    maxRooms,
+    minPrice,
+    maxPrice,
+  }
 
   return (
     <>
-        <Stack spacing={1} className="data-stack-dropdown">
+      <Stack spacing={1} className="data-stack-dropdown">
         <Autocomplete
-            {...defaultProps}
-            id="clear-on-escape"
-            clearOnEscape
-            renderInput={(params: AutocompleteRenderInputParams) => (
+          {...defaultProps}
+          id="clear-on-escape"
+          clearOnEscape
+          renderInput={(params: AutocompleteRenderInputParams) => (
             <TextField {...params} label="Maakond" variant="standard" />
-            )}
+          )}
         />
         <Autocomplete
-            {...defaultProps}
-            id="clear-on-escape"
-            clearOnEscape
-            renderInput={(params: AutocompleteRenderInputParams) => (
+          {...defaultProps}
+          id="clear-on-escape"
+          clearOnEscape
+          renderInput={(params: AutocompleteRenderInputParams) => (
             <TextField {...params} label="Linn/vald" variant="standard" />
-            )}
+          )}
         />
-         <Autocomplete
-            options={["Üür", "Müük"]}
-            id="clear-on-escape"
-            clearOnEscape
-            value={propertyType}
-            onChange={(event, value: string | null) => setPropertyType(value!)}
-            renderInput={(params: AutocompleteRenderInputParams) => (
+        <Autocomplete
+          options={["Üür", "Müük"]}
+          id="clear-on-escape"
+          clearOnEscape
+          value={propertyType}
+          onChange={(event, value: string | null) => setPropertyType(value!)}
+          renderInput={(params: AutocompleteRenderInputParams) => (
             <TextField {...params} label="Kinnisvaratüüp" variant="standard" />
-            )}
+          )}
         />
-        </Stack>
+      </Stack>
       <div className="radio-button-fields-buytype">
-            <FormGroup>
-            <FormControlLabel 
+        <FormGroup>
+          <FormControlLabel
             control={<Checkbox checked={fromOwner} onChange={() => setFromOwner(!fromOwner)} />}
-            label="Otse omanikult" 
-            />
-            <FormControlLabel 
-            control={<Checkbox checked={swapOption} onChange={() => setSwapOption(!swapOption)} />} 
-            label="Vahetuse võimalus" 
-            />
-            </FormGroup>
+            label="Otse omanikult"
+          />
+          <FormControlLabel
+            control={<Checkbox checked={swapOption} onChange={() => setSwapOption(!swapOption)} />}
+            label="Vahetuse võimalus"
+          />
+        </FormGroup>
       </div>
-      <div className="districts">
-            <District
-              selectedTags={selectedTags}
-              setSelectedTags={setSelectedTags}
-              handleTagDelete={handleTagDelete}
-             />
-              
-      </div>
-      <div className="rooms">
-            <Rooms
-              minRooms={minRooms}
-              maxRooms={maxRooms}
-              handleMinRoomsChange={handleMinRoomsChange}
-              handleMaxRoomsChange={handleMaxRoomsChange}
-            />
-      </div>
-      <div className="pricerange">
-            <Pricerange 
-              minPrice={minPrice}
-              maxPrice={maxPrice}
-              handleMinPriceChange={handleMinPriceChange}
-              handleMaxPriceChange={handleMaxPriceChange}
-            />
+      <div>
+        <div className="districts">
+          <District
+            selectedTags={selectedTags}
+            setSelectedTags={setSelectedTags}
+            handleTagDelete={handleTagDelete}
+          />
+
+        </div>
+        <div className="rooms">
+          <Rooms
+            minRooms={minRooms}
+            maxRooms={maxRooms}
+            handleMinRoomsChange={handleMinRoomsChange}
+            handleMaxRoomsChange={handleMaxRoomsChange}
+          />
+        </div>
+        <div className="pricerange">
+          <Pricerange
+            minPrice={minPrice}
+            maxPrice={maxPrice}
+            handleMinPriceChange={handleMinPriceChange}
+            handleMaxPriceChange={handleMaxPriceChange}
+          />
+        </div>
       </div>
       <div className="submit-button">
-        <button onClick={handleSubmit}>Otsi</button>
+        <WebsocketButton {...websocketButtonProps}/>
       </div>
     </>
   );

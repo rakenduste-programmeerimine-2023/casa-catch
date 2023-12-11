@@ -6,11 +6,13 @@ import {WsRealEstateResponseData} from "@/shared/interfaces/ws-real-estate-respo
 interface WebSocketContextProps {
   realTimeData: WsRealEstateResponseData[];
   sendRealTimeData: (data: WsRealEstateResponseData) => void;
+  deleteRealTimeData: () => void
 }
 
 const WebSocketContext: Context<WebSocketContextProps> = createContext<WebSocketContextProps>({
   realTimeData: [],
   sendRealTimeData: (): void => {},
+  deleteRealTimeData: (): void => {}
 })
 
 export const useWebSocket = () => {
@@ -25,8 +27,12 @@ export const WebSocketProvider = ({ children }) => {
     setRealTimeData((prevState: WsRealEstateResponseData[]) => [...prevState, data])
   }
 
+  const deleteRealTimeData = (): void => {
+    setRealTimeData([])
+  }
+
   return (
-    <WebSocketContext.Provider value={{ realTimeData, sendRealTimeData }}>
+    <WebSocketContext.Provider value={{ realTimeData, sendRealTimeData, deleteRealTimeData }}>
       {children}
     </WebSocketContext.Provider>
   )

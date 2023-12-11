@@ -40,8 +40,8 @@ export default function CustomizedTables() {
       <Table sx={{ minWidth: 700 }} aria-label="customized table">
         <TableHead>
           <TableRow>
-            <StyledTableCell>Aadress</StyledTableCell>
-            <StyledTableCell align="right">Pilt</StyledTableCell>
+            <StyledTableCell align="center">Aadress</StyledTableCell>
+            <StyledTableCell align="center">Pilt</StyledTableCell>
             <StyledTableCell align="right">Hind</StyledTableCell>
             <StyledTableCell align="right">Pindala</StyledTableCell>
             <StyledTableCell align="right">Linnaosa</StyledTableCell>
