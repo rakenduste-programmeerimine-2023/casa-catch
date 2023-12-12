@@ -63,10 +63,42 @@ export default function UserFields() {
     maxPrice,
   }
 
+ function favoritesToLocalStorage() {
+  const websocketButtonProps = {
+    propertyType,
+    fromOwner,
+    swapOption,
+    selectedTags,
+    minRooms,
+    maxRooms,
+    minPrice,
+    maxPrice,
+  };
+
+  localStorage.setItem('UserFields', JSON.stringify(websocketButtonProps));
+}
+
+
+  function localStorageToFields() {
+    const favorites = localStorage.getItem('UserFields');
+  if (favorites) {
+    const parsedFavorites = JSON.parse(favorites);
+
+    setPropertyType(parsedFavorites.propertyType || 'Üür');
+    setFromOwner(parsedFavorites.fromOwner || false);
+    setSwapOption(parsedFavorites.swapOption || false);
+    setSelectedTags(parsedFavorites.selectedTags || []);
+    setMinRooms(parsedFavorites.minRooms || null);
+    setMaxRooms(parsedFavorites.maxRooms || null);
+    setMinPrice(parsedFavorites.minPrice || null);
+    setMaxPrice(parsedFavorites.maxPrice || null);
+  }
+}
+
   return (
     <>
       <Stack spacing={1} className="data-stack-dropdown">
-        <Autocomplete
+        {/* <Autocomplete
           {...defaultProps}
           id="clear-on-escape"
           clearOnEscape
@@ -81,7 +113,7 @@ export default function UserFields() {
           renderInput={(params: AutocompleteRenderInputParams) => (
             <TextField {...params} label="Linn/vald" variant="standard" />
           )}
-        />
+        /> */}
         <Autocomplete
           options={["Üür", "Müük"]}
           id="clear-on-escape"
@@ -134,6 +166,13 @@ export default function UserFields() {
       <div className="submit-button">
         <WebsocketButton {...websocketButtonProps}/>
       </div>
+      <button className='add_favorites'
+      onClick={favoritesToLocalStorage}
+      >LISA LEMMIKUTESSE</button>
+
+      <button className='favorites'
+      onClick={localStorageToFields}
+      >LEMMIKUD</button>
     </>
   );
 }
