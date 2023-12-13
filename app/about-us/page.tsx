@@ -34,12 +34,6 @@ const AboutUsPage: React.FC = () => {
                 The application allows users to create a personal account where they can specify their preferred real estate search criteria,
                 such as price range, location, type, and other desired features, without complications.
               </Typography>
-              <Typography variant="body1">
-                Our team comprises three second-year Computer Science students from Tallinn University (TLÜ).
-                The leadership role is undertaken by Sander Nõlvak, who adeptly managed the project and primarily focused on backend development.
-                In addition, Roland Silt and Jan Henrik Levertand serve as frontend developers,
-                demonstrating versatility by engaging in supplementary tasks such as creating Python snippets and occasionally jumping into backend responsibilities.
-              </Typography>
             </Paper>
           </Grid>
 
@@ -49,8 +43,10 @@ const AboutUsPage: React.FC = () => {
                 Meet the Team
               </Typography>
               <Typography variant="body1">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                Our team comprises three second-year Computer Science students from Tallinn University (TLÜ).
+                The leadership role is undertaken by Sander Nõlvak, who adeptly managed the project and primarily focused on backend development.
+                In addition, Roland Silt and Jan Henrik Levertand serve as frontend developers,
+                demonstrating versatility by engaging in supplementary tasks such as creating Python snippets and occasionally jumping into backend responsibilities.
               </Typography>
             </Paper>
           </Grid>
